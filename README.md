@@ -1,6 +1,6 @@
 LSharpAssemblyProvider
 ======================
-Soon!
+Soon™
 
 ![alt tag](http://i.imgur.com/u4rQpIv.png)
 
