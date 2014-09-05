@@ -1,7 +1,15 @@
 LSharpAssemblyProvider
 ======================
-Soon™
+Beta
 
-![alt tag](http://i.imgur.com/u4rQpIv.png)
+Install
 
-![alt tag](http://i.imgur.com/9CKGSta.png)
+![Install](http://i.imgur.com/VipAJLu.png)
+
+Update
+
+![Update](http://i.imgur.com/L1p9pCP.png)
+
+Settings
+
+![Settings](http://i.imgur.com/BIRpJ0H.png)
