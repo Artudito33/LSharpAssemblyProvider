@@ -1,17 +1,17 @@
 [
   {
-    "Name": "recalltrackerLS",
+    "Name": "Support",
     "Description": "",
     "Points": 0,
     "Votes": 0,
-    "Url": "https://github.com/Irvinee/leaguesharp",
-    "Repositroy": "leaguesharp",
-    "Developer": "Irvinee",
-    "Category": "Utility"
+    "Url": "https://github.com/Dibes/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "Dibes",
+    "Category": "Champion"
   },
   {
     "Name": "kKayle2",
-    "Description": "LeagueSharp\n===========\n\nkKayle2\n\n- Initial Relase of god Kayle Script XD\n- Smart Clear wave, Good for Lane/Jungle\n- Heal Self on Combo, Low Health/Ult\n- Heal Friends on Low Health/Ult Logic\n- Full Combo, Harras\n- Free ELO!\n\n===========\n\nkPoppy2\n\n- Initicial Release of my Jungle Poppy (:\n- Smart KS, Harras, Ult Logic on Tanker or Support\n- Full Combo\n\n===========\n\nkTalon2\n\n- Initial Relase of my Talon Script (:\n- Use Ignite, Hydra, Ghostblade\n- Smart KS, Lane Clear, Harras\n- Full Combo\n\n===========\n\n\n[![PayPayl donate button](http://img.shields.io/paypal/donate.png?color=yellow)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BCFB64NNWMN4Q \"You Like it ? Name the next hero :P\")\n",
+    "Description": "",
     "Points": 0,
     "Votes": 0,
     "Url": "https://github.com/lKk2/LeagueSharp",
@@ -21,17 +21,7 @@
   },
   {
     "Name": "kPoppy2",
-    "Description": "LeagueSharp\n===========\n\nkKayle2\n\n- Initial Relase of god Kayle Script XD\n- Smart Clear wave, Good for Lane/Jungle\n- Heal Self on Combo, Low Health/Ult\n- Heal Friends on Low Health/Ult Logic\n- Full Combo, Harras\n- Free ELO!\n\n===========\n\nkPoppy2\n\n- Initicial Release of my Jungle Poppy (:\n- Smart KS, Harras, Ult Logic on Tanker or Support\n- Full Combo\n\n===========\n\nkTalon2\n\n- Initial Relase of my Talon Script (:\n- Use Ignite, Hydra, Ghostblade\n- Smart KS, Lane Clear, Harras\n- Full Combo\n\n===========\n\n\n[![PayPayl donate button](http://img.shields.io/paypal/donate.png?color=yellow)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BCFB64NNWMN4Q \"You Like it ? Name the next hero :P\")\n",
-    "Points": 0,
-    "Votes": 0,
-    "Url": "https://github.com/lKk2/LeagueSharp",
-    "Repositroy": "LeagueSharp",
-    "Developer": "lKk2",
-    "Category": "Champion"
-  },
-  {
-    "Name": "kTalon2",
-    "Description": "LeagueSharp\n===========\n\nkKayle2\n\n- Initial Relase of god Kayle Script XD\n- Smart Clear wave, Good for Lane/Jungle\n- Heal Self on Combo, Low Health/Ult\n- Heal Friends on Low Health/Ult Logic\n- Full Combo, Harras\n- Free ELO!\n\n===========\n\nkPoppy2\n\n- Initicial Release of my Jungle Poppy (:\n- Smart KS, Harras, Ult Logic on Tanker or Support\n- Full Combo\n\n===========\n\nkTalon2\n\n- Initial Relase of my Talon Script (:\n- Use Ignite, Hydra, Ghostblade\n- Smart KS, Lane Clear, Harras\n- Full Combo\n\n===========\n\n\n[![PayPayl donate button](http://img.shields.io/paypal/donate.png?color=yellow)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BCFB64NNWMN4Q \"You Like it ? Name the next hero :P\")\n",
+    "Description": "",
     "Points": 0,
     "Votes": 0,
     "Url": "https://github.com/lKk2/LeagueSharp",
@@ -41,7 +31,7 @@
   },
   {
     "Name": "SigmaFizz",
-    "Description": "LeagueSharp-Public\n==================\n\nFizz Features:\n_____________________\n\nCombo - \n\nQ\nW (uses it before aa.)\nE (two jump support)\nR (only ult if combo killable)\n\nHarass -\n\nsame no ult\n\nWaveClear\nLasthit\nDrawing\n",
+    "Description": "",
     "Points": 0,
     "Votes": 0,
     "Url": "https://github.com/fueledbyflux/LeagueSharp-Public",
@@ -50,194 +40,24 @@
     "Category": "Champion"
   },
   {
-    "Name": "WolfUrgot",
-    "Description": "LeagueSharp\n===========\n\nWolfZilean:\n-----------\n    Full SBTW Combo \n    Auto R at % HP\n\nWolfUrgot:\n----------\n    Uses Q, E\n    Smart W automatically casts W when E Hits\n\nHuge Thanks to FlapperNoodle, PQMailer, Trelli and iSnorflake for their contributions to this repo <3\n",
-    "Points": 0,
-    "Votes": 0,
-    "Url": "https://github.com/GuiltyWolf/LeagueSharp",
-    "Repositroy": "LeagueSharp",
-    "Developer": "GuiltyWolf",
-    "Category": "Champion"
-  },
-  {
-    "Name": "WolfZilean",
-    "Description": "LeagueSharp\n===========\n\nWolfZilean:\n-----------\n    Full SBTW Combo \n    Auto R at % HP\n\nWolfUrgot:\n----------\n    Uses Q, E\n    Smart W automatically casts W when E Hits\n\nHuge Thanks to FlapperNoodle, PQMailer, Trelli and iSnorflake for their contributions to this repo <3\n",
-    "Points": 0,
-    "Votes": 0,
-    "Url": "https://github.com/GuiltyWolf/LeagueSharp",
-    "Repositroy": "LeagueSharp",
-    "Developer": "GuiltyWolf",
-    "Category": "Champion"
-  },
-  {
-    "Name": "KurisuMorgana",
+    "Name": "kTalon2",
     "Description": "",
     "Points": 0,
     "Votes": 0,
-    "Url": "https://github.com/Kurisu44/Leaguesharp",
-    "Repositroy": "Leaguesharp",
-    "Developer": "Kurisu44",
+    "Url": "https://github.com/lKk2/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "lKk2",
     "Category": "Champion"
   },
   {
-    "Name": "iVLee",
+    "Name": "recalltrackerLS",
     "Description": "",
     "Points": 0,
     "Votes": 0,
-    "Url": "https://github.com/MobbyGFX96/LeagueSharp",
-    "Repositroy": "LeagueSharp",
-    "Developer": "MobbyGFX96",
-    "Category": "Champion"
-  },
-  {
-    "Name": "iVRiven",
-    "Description": "",
-    "Points": 0,
-    "Votes": 0,
-    "Url": "https://github.com/MobbyGFX96/LeagueSharp",
-    "Repositroy": "LeagueSharp",
-    "Developer": "MobbyGFX96",
-    "Category": "Champion"
-  },
-  {
-    "Name": "Annie",
-    "Description": "About\n============\nThis is the <b>official</b> TC crew Organization.\n\nMembers\n============\nOur current members are: Pqmailer, Esk0r/K0rtatu, andreluis034, iMeh.\n<br><b>Personal Github accounts:</b>\n<br><b>Pqmailer</b> https://github.com/pqmailer/ \n<br><b>Esk0r:</b> https://github.com/Esk0r/\n<br><b>Andreluis034:</b> https://github.com/andreluis034/\n<br><b>iMeh:</b> https://github.com/ehmehe/\n<br><b>Hellsing:</b> https://github.com/Hellsing/\nAssemblies\n============\n<b>Cho'Gath v. 1.1:</b> (Simple combo, drawing and some additional features)\n<br><b>Katarina v. 2.0:</b> (Advanced combo, harass, farming, killsteal, drawing)\n<br><b>Cassiopeia v. 0.1:</b> (Simple combo, drawing)\n<br><b>Evelynn v. 1.0:</b> (Advanced combo, farming, drawing)\n<br><b>Annie v. 1.0:</b> (Advanced combo supporting flash, harass, drawing)\n<br><b>Darius v. 1.0:</b> (Simple combo with advanced ult logic)\n",
-    "Points": 0,
-    "Votes": 0,
-    "Url": "https://github.com/TC-Crew/L-Assemblies",
-    "Repositroy": "L-Assemblies",
-    "Developer": "TC-Crew",
-    "Category": "Champion"
-  },
-  {
-    "Name": "Cassio",
-    "Description": "About\n============\nThis is the <b>official</b> TC crew Organization.\n\nMembers\n============\nOur current members are: Pqmailer, Esk0r/K0rtatu, andreluis034, iMeh.\n<br><b>Personal Github accounts:</b>\n<br><b>Pqmailer</b> https://github.com/pqmailer/ \n<br><b>Esk0r:</b> https://github.com/Esk0r/\n<br><b>Andreluis034:</b> https://github.com/andreluis034/\n<br><b>iMeh:</b> https://github.com/ehmehe/\n<br><b>Hellsing:</b> https://github.com/Hellsing/\nAssemblies\n============\n<b>Cho'Gath v. 1.1:</b> (Simple combo, drawing and some additional features)\n<br><b>Katarina v. 2.0:</b> (Advanced combo, harass, farming, killsteal, drawing)\n<br><b>Cassiopeia v. 0.1:</b> (Simple combo, drawing)\n<br><b>Evelynn v. 1.0:</b> (Advanced combo, farming, drawing)\n<br><b>Annie v. 1.0:</b> (Advanced combo supporting flash, harass, drawing)\n<br><b>Darius v. 1.0:</b> (Simple combo with advanced ult logic)\n",
-    "Points": 0,
-    "Votes": 0,
-    "Url": "https://github.com/TC-Crew/L-Assemblies",
-    "Repositroy": "L-Assemblies",
-    "Developer": "TC-Crew",
-    "Category": "Champion"
-  },
-  {
-    "Name": "Cho'Gath",
-    "Description": "About\n============\nThis is the <b>official</b> TC crew Organization.\n\nMembers\n============\nOur current members are: Pqmailer, Esk0r/K0rtatu, andreluis034, iMeh.\n<br><b>Personal Github accounts:</b>\n<br><b>Pqmailer</b> https://github.com/pqmailer/ \n<br><b>Esk0r:</b> https://github.com/Esk0r/\n<br><b>Andreluis034:</b> https://github.com/andreluis034/\n<br><b>iMeh:</b> https://github.com/ehmehe/\n<br><b>Hellsing:</b> https://github.com/Hellsing/\nAssemblies\n============\n<b>Cho'Gath v. 1.1:</b> (Simple combo, drawing and some additional features)\n<br><b>Katarina v. 2.0:</b> (Advanced combo, harass, farming, killsteal, drawing)\n<br><b>Cassiopeia v. 0.1:</b> (Simple combo, drawing)\n<br><b>Evelynn v. 1.0:</b> (Advanced combo, farming, drawing)\n<br><b>Annie v. 1.0:</b> (Advanced combo supporting flash, harass, drawing)\n<br><b>Darius v. 1.0:</b> (Simple combo with advanced ult logic)\n",
-    "Points": 0,
-    "Votes": 0,
-    "Url": "https://github.com/TC-Crew/L-Assemblies",
-    "Repositroy": "L-Assemblies",
-    "Developer": "TC-Crew",
-    "Category": "Champion"
-  },
-  {
-    "Name": "Jax",
-    "Description": "Leaguesharp\n===========\nHi.\n",
-    "Points": 0,
-    "Votes": 0,
-    "Url": "https://github.com/AnimatedHF/Leaguesharp",
-    "Repositroy": "Leaguesharp",
-    "Developer": "AnimatedHF",
-    "Category": "Champion"
-  },
-  {
-    "Name": "Darius",
-    "Description": "About\n============\nThis is the <b>official</b> TC crew Organization.\n\nMembers\n============\nOur current members are: Pqmailer, Esk0r/K0rtatu, andreluis034, iMeh.\n<br><b>Personal Github accounts:</b>\n<br><b>Pqmailer</b> https://github.com/pqmailer/ \n<br><b>Esk0r:</b> https://github.com/Esk0r/\n<br><b>Andreluis034:</b> https://github.com/andreluis034/\n<br><b>iMeh:</b> https://github.com/ehmehe/\n<br><b>Hellsing:</b> https://github.com/Hellsing/\nAssemblies\n============\n<b>Cho'Gath v. 1.1:</b> (Simple combo, drawing and some additional features)\n<br><b>Katarina v. 2.0:</b> (Advanced combo, harass, farming, killsteal, drawing)\n<br><b>Cassiopeia v. 0.1:</b> (Simple combo, drawing)\n<br><b>Evelynn v. 1.0:</b> (Advanced combo, farming, drawing)\n<br><b>Annie v. 1.0:</b> (Advanced combo supporting flash, harass, drawing)\n<br><b>Darius v. 1.0:</b> (Simple combo with advanced ult logic)\n",
-    "Points": 0,
-    "Votes": 0,
-    "Url": "https://github.com/TC-Crew/L-Assemblies",
-    "Repositroy": "L-Assemblies",
-    "Developer": "TC-Crew",
-    "Category": "Champion"
-  },
-  {
-    "Name": "ANSkarner",
-    "Description": "Leaguesharp\n===========\nHi.\n",
-    "Points": 0,
-    "Votes": 0,
-    "Url": "https://github.com/AnimatedHF/Leaguesharp",
-    "Repositroy": "Leaguesharp",
-    "Developer": "AnimatedHF",
-    "Category": "Champion"
-  },
-  {
-    "Name": "WinZhao",
-    "Description": "Leaguesharp\n===========\nHi.\n",
-    "Points": 0,
-    "Votes": 0,
-    "Url": "https://github.com/AnimatedHF/Leaguesharp",
-    "Repositroy": "Leaguesharp",
-    "Developer": "AnimatedHF",
-    "Category": "Champion"
-  },
-  {
-    "Name": "Evelynn",
-    "Description": "About\n============\nThis is the <b>official</b> TC crew Organization.\n\nMembers\n============\nOur current members are: Pqmailer, Esk0r/K0rtatu, andreluis034, iMeh.\n<br><b>Personal Github accounts:</b>\n<br><b>Pqmailer</b> https://github.com/pqmailer/ \n<br><b>Esk0r:</b> https://github.com/Esk0r/\n<br><b>Andreluis034:</b> https://github.com/andreluis034/\n<br><b>iMeh:</b> https://github.com/ehmehe/\n<br><b>Hellsing:</b> https://github.com/Hellsing/\nAssemblies\n============\n<b>Cho'Gath v. 1.1:</b> (Simple combo, drawing and some additional features)\n<br><b>Katarina v. 2.0:</b> (Advanced combo, harass, farming, killsteal, drawing)\n<br><b>Cassiopeia v. 0.1:</b> (Simple combo, drawing)\n<br><b>Evelynn v. 1.0:</b> (Advanced combo, farming, drawing)\n<br><b>Annie v. 1.0:</b> (Advanced combo supporting flash, harass, drawing)\n<br><b>Darius v. 1.0:</b> (Simple combo with advanced ult logic)\n",
-    "Points": 0,
-    "Votes": 0,
-    "Url": "https://github.com/TC-Crew/L-Assemblies",
-    "Repositroy": "L-Assemblies",
-    "Developer": "TC-Crew",
-    "Category": "Champion"
-  },
-  {
-    "Name": "SephElise",
-    "Description": "",
-    "Points": 0,
-    "Votes": 0,
-    "Url": "https://github.com/SephLeague/LeagueSharp",
-    "Repositroy": "LeagueSharp",
-    "Developer": "SephLeague",
-    "Category": "Champion"
-  },
-  {
-    "Name": "Katarina",
-    "Description": "About\n============\nThis is the <b>official</b> TC crew Organization.\n\nMembers\n============\nOur current members are: Pqmailer, Esk0r/K0rtatu, andreluis034, iMeh.\n<br><b>Personal Github accounts:</b>\n<br><b>Pqmailer</b> https://github.com/pqmailer/ \n<br><b>Esk0r:</b> https://github.com/Esk0r/\n<br><b>Andreluis034:</b> https://github.com/andreluis034/\n<br><b>iMeh:</b> https://github.com/ehmehe/\n<br><b>Hellsing:</b> https://github.com/Hellsing/\nAssemblies\n============\n<b>Cho'Gath v. 1.1:</b> (Simple combo, drawing and some additional features)\n<br><b>Katarina v. 2.0:</b> (Advanced combo, harass, farming, killsteal, drawing)\n<br><b>Cassiopeia v. 0.1:</b> (Simple combo, drawing)\n<br><b>Evelynn v. 1.0:</b> (Advanced combo, farming, drawing)\n<br><b>Annie v. 1.0:</b> (Advanced combo supporting flash, harass, drawing)\n<br><b>Darius v. 1.0:</b> (Simple combo with advanced ult logic)\n",
-    "Points": 0,
-    "Votes": 0,
-    "Url": "https://github.com/TC-Crew/L-Assemblies",
-    "Repositroy": "L-Assemblies",
-    "Developer": "TC-Crew",
-    "Category": "Champion"
-  },
-  {
-    "Name": "MasterActivator",
-    "Description": "LeagueSharp\n===========\n\n> Suggestions are welcome. <br/>\n\n\nMasterYi\n===========\nThe idea is to do something like YiSlack, but I'm starting and I'm lazy.\n\n\n* Combo\n  *  Use Q\n  *  Use W\n  *  Use E\n  *  Use R\n  *  Orbwalk Lock: When close to a target, the orbwalker stop walking in circles and tries to attack.\n  *  Use Packet: Cast skills with packets.\n\n* W Options\n  *  Combo, After Attack, Combo(AA): If \"Combo\" just use W on combo, \"After attack\" just after attack, Combo(AA) after attack on combo mode.\n  *  Use W on %: Percentage of yi life.\n  *  Interrupt W: Interrupt use of meditation to attack.\n  *  AA Range, 300: Range to get target per basic attack, to stop W.\n\n* Lane Clear\n  *  Use Q\n\n* Draw\n  *  Q\n\n* Jungle Slack: IMPLEMENTING\n\n* Additionals\n  *  Auto Up Skills\n  *  Q>E>W(2W) or Q>W>E(2E)\n\nMasterActivator\n===========\n\n* Purifiers\n  *  QSS\n  *  Mercurial\n  *  Cleanse\n  *  Mikael's\n  *  Just on combo\n                \n* Clear\n  *  Blind\n  *  Charm\n  *  Fear\n  *  Flee\n  *  Snare\n  *  Taunt\n  *  Suppression\n  *  Stun\n  *  Polymorph\n  *  Silence\n\n* Smite\n  *  Active\n  *  Blue\n  *  Red\n  *  Dragon\n  *  Baron\n  *  GreatWraith\n  *  Wraith\n  *  Golem\n\n* Offensive\n  *  Ignite\n  *  Over Ignite (false = dont use ignite if the target already has)\n  *  Youmuu's\n  *  Use on %HP\n  *  Bilgewater\n  *  Use on %HP\n  *  BoRKing\n  *  Use on %HP\n  *  Tiamat\n  *  Use on %HP\n  *  Hydra\n  *  Use on %HP\n  *  DFG\n  *  Use on %HP\n  *  SoDivine\n  *  Use on %HP\n  *  Hextech\n  *  Use on %HP\n  *  Muramana\n  *  Use on %HP\n\n* Deffensive\n  *  Barrier\n  *  Use on %HP\n  *  Seraph's\n  *  Use on %Mana\n  *  Zhonya's\n  *  Use on %HP\n  *  Solari\n  *  Use on %HP\n  *  FOMountain\n  *  Use on %HP\n\n* Regenerators\n  *  Heal\n  *  Use on %HP\n  *  Clarity\n  *  Use on %HP\n  *  HP Pot\n  *  Use on %HP\n  *  Mana Pot\n  *  Use on %Mana\n  *  Biscuit\n  *  Use on %HP\n\n* Team Use (Heal, Mikael's, Solari, Mountain)\n  *  Champion 1\n  *  Champion 2\n  *  Champion 3\n  *  Champion 4\n  *  Champion 5\n\n* Combo Mode\n  * Active: Auto active with space bar\n\n* Target Selector\n  * LowHP, MostAD, MostAP, Closest, NearMouse, AutoPriority, LessAttack, LessCast\n                \n* Enabled\n",
-    "Points": 0,
-    "Votes": 0,
-    "Url": "https://github.com/Crisdmc/LeagueSharp",
-    "Repositroy": "LeagueSharp",
-    "Developer": "Crisdmc",
+    "Url": "https://github.com/Irvinee/leaguesharp",
+    "Repositroy": "leaguesharp",
+    "Developer": "Irvinee",
     "Category": "Utility"
-  },
-  {
-    "Name": "Tracker",
-    "Description": "About\n============\nThis is the <b>official</b> TC crew Organization.\n\nMembers\n============\nOur current members are: Pqmailer, Esk0r/K0rtatu, andreluis034, iMeh.\n<br><b>Personal Github accounts:</b>\n<br><b>Pqmailer</b> https://github.com/pqmailer/ \n<br><b>Esk0r:</b> https://github.com/Esk0r/\n<br><b>Andreluis034:</b> https://github.com/andreluis034/\n<br><b>iMeh:</b> https://github.com/ehmehe/\n<br><b>Hellsing:</b> https://github.com/Hellsing/\nAssemblies\n============\n<b>Cho'Gath v. 1.1:</b> (Simple combo, drawing and some additional features)\n<br><b>Katarina v. 2.0:</b> (Advanced combo, harass, farming, killsteal, drawing)\n<br><b>Cassiopeia v. 0.1:</b> (Simple combo, drawing)\n<br><b>Evelynn v. 1.0:</b> (Advanced combo, farming, drawing)\n<br><b>Annie v. 1.0:</b> (Advanced combo supporting flash, harass, drawing)\n<br><b>Darius v. 1.0:</b> (Simple combo with advanced ult logic)\n",
-    "Points": 0,
-    "Votes": 0,
-    "Url": "https://github.com/TC-Crew/L-Assemblies",
-    "Repositroy": "L-Assemblies",
-    "Developer": "TC-Crew",
-    "Category": "Utility"
-  },
-  {
-    "Name": "MasterYi",
-    "Description": "LeagueSharp\n===========\n\n> Suggestions are welcome. <br/>\n\n\nMasterYi\n===========\nThe idea is to do something like YiSlack, but I'm starting and I'm lazy.\n\n\n* Combo\n  *  Use Q\n  *  Use W\n  *  Use E\n  *  Use R\n  *  Orbwalk Lock: When close to a target, the orbwalker stop walking in circles and tries to attack.\n  *  Use Packet: Cast skills with packets.\n\n* W Options\n  *  Combo, After Attack, Combo(AA): If \"Combo\" just use W on combo, \"After attack\" just after attack, Combo(AA) after attack on combo mode.\n  *  Use W on %: Percentage of yi life.\n  *  Interrupt W: Interrupt use of meditation to attack.\n  *  AA Range, 300: Range to get target per basic attack, to stop W.\n\n* Lane Clear\n  *  Use Q\n\n* Draw\n  *  Q\n\n* Jungle Slack: IMPLEMENTING\n\n* Additionals\n  *  Auto Up Skills\n  *  Q>E>W(2W) or Q>W>E(2E)\n\nMasterActivator\n===========\n\n* Purifiers\n  *  QSS\n  *  Mercurial\n  *  Cleanse\n  *  Mikael's\n  *  Just on combo\n                \n* Clear\n  *  Blind\n  *  Charm\n  *  Fear\n  *  Flee\n  *  Snare\n  *  Taunt\n  *  Suppression\n  *  Stun\n  *  Polymorph\n  *  Silence\n\n* Smite\n  *  Active\n  *  Blue\n  *  Red\n  *  Dragon\n  *  Baron\n  *  GreatWraith\n  *  Wraith\n  *  Golem\n\n* Offensive\n  *  Ignite\n  *  Over Ignite (false = dont use ignite if the target already has)\n  *  Youmuu's\n  *  Use on %HP\n  *  Bilgewater\n  *  Use on %HP\n  *  BoRKing\n  *  Use on %HP\n  *  Tiamat\n  *  Use on %HP\n  *  Hydra\n  *  Use on %HP\n  *  DFG\n  *  Use on %HP\n  *  SoDivine\n  *  Use on %HP\n  *  Hextech\n  *  Use on %HP\n  *  Muramana\n  *  Use on %HP\n\n* Deffensive\n  *  Barrier\n  *  Use on %HP\n  *  Seraph's\n  *  Use on %Mana\n  *  Zhonya's\n  *  Use on %HP\n  *  Solari\n  *  Use on %HP\n  *  FOMountain\n  *  Use on %HP\n\n* Regenerators\n  *  Heal\n  *  Use on %HP\n  *  Clarity\n  *  Use on %HP\n  *  HP Pot\n  *  Use on %HP\n  *  Mana Pot\n  *  Use on %Mana\n  *  Biscuit\n  *  Use on %HP\n\n* Team Use (Heal, Mikael's, Solari, Mountain)\n  *  Champion 1\n  *  Champion 2\n  *  Champion 3\n  *  Champion 4\n  *  Champion 5\n\n* Combo Mode\n  * Active: Auto active with space bar\n\n* Target Selector\n  * LowHP, MostAD, MostAP, Closest, NearMouse, AutoPriority, LessAttack, LessCast\n                \n* Enabled\n",
-    "Points": 0,
-    "Votes": 0,
-    "Url": "https://github.com/Crisdmc/LeagueSharp",
-    "Repositroy": "LeagueSharp",
-    "Developer": "Crisdmc",
-    "Category": "Champion"
-  },
-  {
-    "Name": "Zed",
-    "Description": "About\n============\nThis is the <b>official</b> TC crew Organization.\n\nMembers\n============\nOur current members are: Pqmailer, Esk0r/K0rtatu, andreluis034, iMeh.\n<br><b>Personal Github accounts:</b>\n<br><b>Pqmailer</b> https://github.com/pqmailer/ \n<br><b>Esk0r:</b> https://github.com/Esk0r/\n<br><b>Andreluis034:</b> https://github.com/andreluis034/\n<br><b>iMeh:</b> https://github.com/ehmehe/\n<br><b>Hellsing:</b> https://github.com/Hellsing/\nAssemblies\n============\n<b>Cho'Gath v. 1.1:</b> (Simple combo, drawing and some additional features)\n<br><b>Katarina v. 2.0:</b> (Advanced combo, harass, farming, killsteal, drawing)\n<br><b>Cassiopeia v. 0.1:</b> (Simple combo, drawing)\n<br><b>Evelynn v. 1.0:</b> (Advanced combo, farming, drawing)\n<br><b>Annie v. 1.0:</b> (Advanced combo supporting flash, harass, drawing)\n<br><b>Darius v. 1.0:</b> (Simple combo with advanced ult logic)\n",
-    "Points": 0,
-    "Votes": 0,
-    "Url": "https://github.com/TC-Crew/L-Assemblies",
-    "Repositroy": "L-Assemblies",
-    "Developer": "TC-Crew",
-    "Category": "Champion"
   },
   {
     "Name": "BankPlank",
@@ -270,18 +90,48 @@
     "Category": "Champion"
   },
   {
-    "Name": "Support",
-    "Description": "LeagueSharp\n===========\nA repo by Dibes from L#\n\n### Support\n\n> Easy framework to integrate all support champions under one script. Feel free to contriute!\n\n| Champions  | Status | Features |\n| :----------: | :------: | :----: |\n| Thresh     | Everything but W logic implemented | [Link](#thresh) |\n| Morgana    | Finished | [Link](#morgana) |\n| Blitzcrank | Finished | [Link](#blitzcrank) |\n| Sona       | Finished  | [Link](#sona) |\n| Leona      | Finished  | [Link](#leona) |\n| Nami       | TODO      | None |\n| Zyra       | TODO      | None |\n\n\n#### Thresh\n\n  - Combo\n    - Death Sentence (Q)\n      - Pulls at very end of Q\n      - Option to use second Q or not\n    - Flay (E)\n      - Flays towards thresh when enemy is in range\n    - The Box (R)\n      - Ult when X enemies are in range\n  - Harass\n    - Death Sentence (Q)\n      - Same options as above\n    - Flay (E)\n      - Flays away from thresh when enemy is in range.\n  - Anti-Gapclose\n    - Flays on gapcloser\n  - Interrupter\n    - Death Sentence\n      - Does this is out of range of E\n    - Flays\n  \n#### Morgana\n\n  - Combo\n    - Dark Binding (Q)\n      - Using basic prediction\n    - Tormented Soil (W)\n      - Casts if target is bound by Q\n    - Soul Shackles (R)\n      - Casts if X amount of Champs in Range\n  - Harass\n    - Dark Binding (Q)\n      - Using basic prediction\n    - Tormented Soil (W)\n      - Casts if target is bound by Q\n\n#### Blitzcrank\n\n  - Finished but TODO\n\n#### Sona\n\n  - Combo (SBTW mode)\n    - Hymn of Valor\n      - Can Autocast | Casts when enemy is in range\n    - Aria of Perseverance\n      - Can autocast | Casts when ally is below hp threshold\n    - Crescendo\n      - Casts when can hit X amount of enemies\n      - This may be tempermental, using an exerimental way to get amount of champs.\n  - Harass (Mixed mode)\n    - Hymn of Valor\n      - Can Autocast | Casts when enemy is in range\n    - Aria of Perseverance\n      - Can autocast | Casts when ally is below hp threshold\n\n#### Leona\n\n  - Combo\n    - Shield of Daybreak(Q)\n      - Casts if target is within E range\n    - Eclipse (W)\n      - Casts if target is within E range\n\t- Zenith Blade (E)\n\t  - Uses basic prediction\n    - Solar Flare (R)\n      - Casts if X amount of Champs in Range\n  - Harass\n    - Shield of Daybreak(Q)\n      - Casts if target is within E range\n    - Eclipse (W)\n      - Casts if target is within E range\n\t- Zenith Blade (E)\n\t  - Uses basic prediction\n  - Items\n    - FrostQueen\n\t  - Uses on Combo\n",
+    "Name": "WolfUrgot",
+    "Description": "",
     "Points": 0,
     "Votes": 0,
-    "Url": "https://github.com/Dibes/LeagueSharp",
+    "Url": "https://github.com/GuiltyWolf/LeagueSharp",
     "Repositroy": "LeagueSharp",
-    "Developer": "Dibes",
+    "Developer": "GuiltyWolf",
+    "Category": "Champion"
+  },
+  {
+    "Name": "WolfZilean",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/GuiltyWolf/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "GuiltyWolf",
+    "Category": "Champion"
+  },
+  {
+    "Name": "MasterActivator",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/Crisdmc/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "Crisdmc",
+    "Category": "Utility"
+  },
+  {
+    "Name": "MasterYi",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/Crisdmc/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "Crisdmc",
     "Category": "Champion"
   },
   {
     "Name": "TongHop",
-    "Description": "LSharp\n--------------\nHeal \n----------\nIgnite( can die)\n------------\nAuto potions \n----------\nUse Item \n-\nBarrier \n-\nSmite\n-------------------------------------\nExhaust\n------------------------------------\nadd targetselection(Low HP,near mouse,.......)\n-----------------------------------------\nLexxes i'm sorry beacause i used ur code.\n------------------------\nWardJump: use dektus code\n----------------------------\n",
+    "Description": "",
     "Points": 0,
     "Votes": 0,
     "Url": "https://github.com/Quangcha/LSharp",
@@ -291,7 +141,7 @@
   },
   {
     "Name": "Ajumper",
-    "Description": "LSharp\n--------------\nHeal \n----------\nIgnite( can die)\n------------\nAuto potions \n----------\nUse Item \n-\nBarrier \n-\nSmite\n-------------------------------------\nExhaust\n------------------------------------\nadd targetselection(Low HP,near mouse,.......)\n-----------------------------------------\nLexxes i'm sorry beacause i used ur code.\n------------------------\nWardJump: use dektus code\n----------------------------\n",
+    "Description": "",
     "Points": 0,
     "Votes": 0,
     "Url": "https://github.com/Quangcha/LSharp",
@@ -300,8 +150,158 @@
     "Category": "Utility"
   },
   {
+    "Name": "Annie",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/TC-Crew/L-Assemblies",
+    "Repositroy": "L-Assemblies",
+    "Developer": "TC-Crew",
+    "Category": "Champion"
+  },
+  {
+    "Name": "Cassio",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/TC-Crew/L-Assemblies",
+    "Repositroy": "L-Assemblies",
+    "Developer": "TC-Crew",
+    "Category": "Champion"
+  },
+  {
+    "Name": "Cho'Gath",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/TC-Crew/L-Assemblies",
+    "Repositroy": "L-Assemblies",
+    "Developer": "TC-Crew",
+    "Category": "Champion"
+  },
+  {
+    "Name": "Darius",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/TC-Crew/L-Assemblies",
+    "Repositroy": "L-Assemblies",
+    "Developer": "TC-Crew",
+    "Category": "Champion"
+  },
+  {
+    "Name": "Evelynn",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/TC-Crew/L-Assemblies",
+    "Repositroy": "L-Assemblies",
+    "Developer": "TC-Crew",
+    "Category": "Champion"
+  },
+  {
+    "Name": "Katarina",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/TC-Crew/L-Assemblies",
+    "Repositroy": "L-Assemblies",
+    "Developer": "TC-Crew",
+    "Category": "Champion"
+  },
+  {
+    "Name": "Tracker",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/TC-Crew/L-Assemblies",
+    "Repositroy": "L-Assemblies",
+    "Developer": "TC-Crew",
+    "Category": "Utility"
+  },
+  {
+    "Name": "Zed",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/TC-Crew/L-Assemblies",
+    "Repositroy": "L-Assemblies",
+    "Developer": "TC-Crew",
+    "Category": "Champion"
+  },
+  {
+    "Name": "iVLee",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/MobbyGFX96/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "MobbyGFX96",
+    "Category": "Champion"
+  },
+  {
+    "Name": "iVRiven",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/MobbyGFX96/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "MobbyGFX96",
+    "Category": "Champion"
+  },
+  {
+    "Name": "SephElise",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/SephLeague/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "SephLeague",
+    "Category": "Champion"
+  },
+  {
+    "Name": "KurisuMorgana",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/Kurisu44/Leaguesharp",
+    "Repositroy": "Leaguesharp",
+    "Developer": "Kurisu44",
+    "Category": "Champion"
+  },
+  {
+    "Name": "Jax",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/AnimatedHF/Leaguesharp",
+    "Repositroy": "Leaguesharp",
+    "Developer": "AnimatedHF",
+    "Category": "Champion"
+  },
+  {
+    "Name": "ANSkarner",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/AnimatedHF/Leaguesharp",
+    "Repositroy": "Leaguesharp",
+    "Developer": "AnimatedHF",
+    "Category": "Champion"
+  },
+  {
+    "Name": "WinZhao",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/AnimatedHF/Leaguesharp",
+    "Repositroy": "Leaguesharp",
+    "Developer": "AnimatedHF",
+    "Category": "Champion"
+  },
+  {
     "Name": "Animator",
-    "Description": "LeagueSharp\n===========\n\nLeagueSharp\n",
+    "Description": "",
     "Points": 0,
     "Votes": 0,
     "Url": "https://github.com/trees-software/leaguesharp",
@@ -311,7 +311,7 @@
   },
   {
     "Name": "AutoIgnite",
-    "Description": "LeagueSharp\n===========\n\nLeagueSharp\n",
+    "Description": "",
     "Points": 0,
     "Votes": 0,
     "Url": "https://github.com/trees-software/leaguesharp",
@@ -321,7 +321,7 @@
   },
   {
     "Name": "AutoLantern",
-    "Description": "LeagueSharp\n===========\n\nLeagueSharp\n",
+    "Description": "",
     "Points": 0,
     "Votes": 0,
     "Url": "https://github.com/trees-software/leaguesharp",
@@ -331,7 +331,7 @@
   },
   {
     "Name": "QuickTeleport",
-    "Description": "LeagueSharp\n===========\n\nLeagueSharp\n",
+    "Description": "",
     "Points": 0,
     "Votes": 0,
     "Url": "https://github.com/trees-software/leaguesharp",
@@ -341,7 +341,7 @@
   },
   {
     "Name": "QuickTimers",
-    "Description": "LeagueSharp\n===========\n\nLeagueSharp\n",
+    "Description": "",
     "Points": 0,
     "Votes": 0,
     "Url": "https://github.com/trees-software/leaguesharp",
@@ -351,7 +351,7 @@
   },
   {
     "Name": "Resizer",
-    "Description": "LeagueSharp\n===========\n\nLeagueSharp\n",
+    "Description": "",
     "Points": 0,
     "Votes": 0,
     "Url": "https://github.com/trees-software/leaguesharp",
@@ -361,7 +361,7 @@
   },
   {
     "Name": "TUrgot",
-    "Description": "LeagueSharp\n===========\n\nLeagueSharp\n",
+    "Description": "",
     "Points": 0,
     "Votes": 0,
     "Url": "https://github.com/trees-software/leaguesharp",
@@ -370,8 +370,128 @@
     "Category": "Champion"
   },
   {
+    "Name": "GXAutoPotion",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/Xionanx/Leaguesharp-Projects",
+    "Repositroy": "Leaguesharp-Projects",
+    "Developer": "Xionanx",
+    "Category": "Utility"
+  },
+  {
+    "Name": "GX Auto Shield",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/Xionanx/Leaguesharp-Projects",
+    "Repositroy": "Leaguesharp-Projects",
+    "Developer": "Xionanx",
+    "Category": "Utility"
+  },
+  {
+    "Name": "GX-Automation",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/Xionanx/Leaguesharp-Projects",
+    "Repositroy": "Leaguesharp-Projects",
+    "Developer": "Xionanx",
+    "Category": "Utility"
+  },
+  {
+    "Name": "GX Karthus",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/Xionanx/Leaguesharp-Projects",
+    "Repositroy": "Leaguesharp-Projects",
+    "Developer": "Xionanx",
+    "Category": "Champion"
+  },
+  {
+    "Name": "GX-Katarina",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/Xionanx/Leaguesharp-Projects",
+    "Repositroy": "Leaguesharp-Projects",
+    "Developer": "Xionanx",
+    "Category": "Champion"
+  },
+  {
+    "Name": "GX-Sona",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/Xionanx/Leaguesharp-Projects",
+    "Repositroy": "Leaguesharp-Projects",
+    "Developer": "Xionanx",
+    "Category": "Champion"
+  },
+  {
+    "Name": "GX-Soraka",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/Xionanx/Leaguesharp-Projects",
+    "Repositroy": "Leaguesharp-Projects",
+    "Developer": "Xionanx",
+    "Category": "Champion"
+  },
+  {
+    "Name": "GX Zilean",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/Xionanx/Leaguesharp-Projects",
+    "Repositroy": "Leaguesharp-Projects",
+    "Developer": "Xionanx",
+    "Category": "Champion"
+  },
+  {
+    "Name": "Aatrox",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/Areidz/Leaguesharp",
+    "Repositroy": "Leaguesharp",
+    "Developer": "Areidz",
+    "Category": "Champion"
+  },
+  {
+    "Name": "AttackDrawer",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/Areidz/Leaguesharp",
+    "Repositroy": "Leaguesharp",
+    "Developer": "Areidz",
+    "Category": "Utility"
+  },
+  {
+    "Name": "Blitzcrank",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/Areidz/Leaguesharp",
+    "Repositroy": "Leaguesharp",
+    "Developer": "Areidz",
+    "Category": "Champion"
+  },
+  {
+    "Name": "SimpleUltLeveler",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/Areidz/Leaguesharp",
+    "Repositroy": "Leaguesharp",
+    "Developer": "Areidz",
+    "Category": "Utility"
+  },
+  {
     "Name": "ChewyMoonsIrelia",
-    "Description": "ChewyMoon's Scripts\n===================\n\nHi, Im ChewyMoon. These are my scripts, currently only Irelia. I will be releasing more content, just give me time!\n\n**DOWNLOADS AVAILABLE AT:** https://github.com/ChewyMoon/ChewyMoonScripts/releases\n\n### Donations\n\nI glady accept donations. Leave a message and if you want I'll make a script of your choice(Will be free and public). Be sure to include your Reddit/IRC username.\n\nDonate to chewymoonleaguesharp@gmail.com\n\n(Donation button also availble on website)\n\n##Irelia\n\nA simple script for Irelia, top lane.\n\nFeatures:\n\n* SBTW Combo\n* Combo settings\n* Auto Q -> E to interrupt ults/tp's\n\nAnymore idea's PM me on reddit, /u/chewymoon, find me on irc, ChewyMoon, or leave an issue in the issue tracker. No promises, but I'll try!\n",
+    "Description": "",
     "Points": 0,
     "Votes": 0,
     "Url": "https://github.com/ChewyMoon/ChewyMoonScripts",
@@ -381,7 +501,7 @@
   },
   {
     "Name": "ChewyMoonsLux",
-    "Description": "ChewyMoon's Scripts\n===================\n\nHi, Im ChewyMoon. These are my scripts, currently only Irelia. I will be releasing more content, just give me time!\n\n**DOWNLOADS AVAILABLE AT:** https://github.com/ChewyMoon/ChewyMoonScripts/releases\n\n### Donations\n\nI glady accept donations. Leave a message and if you want I'll make a script of your choice(Will be free and public). Be sure to include your Reddit/IRC username.\n\nDonate to chewymoonleaguesharp@gmail.com\n\n(Donation button also availble on website)\n\n##Irelia\n\nA simple script for Irelia, top lane.\n\nFeatures:\n\n* SBTW Combo\n* Combo settings\n* Auto Q -> E to interrupt ults/tp's\n\nAnymore idea's PM me on reddit, /u/chewymoon, find me on irc, ChewyMoon, or leave an issue in the issue tracker. No promises, but I'll try!\n",
+    "Description": "",
     "Points": 0,
     "Votes": 0,
     "Url": "https://github.com/ChewyMoon/ChewyMoonScripts",
@@ -398,36 +518,6 @@
     "Repositroy": "league-sharp",
     "Developer": "DangerousMindLoL",
     "Category": "Champion"
-  },
-  {
-    "Name": "FedLeblanc",
-    "Description": "LeagueSharp\n===========\n",
-    "Points": 0,
-    "Votes": 0,
-    "Url": "https://github.com/gFederal/LeagueSharp",
-    "Repositroy": "LeagueSharp",
-    "Developer": "gFederal",
-    "Category": "Champion"
-  },
-  {
-    "Name": "UltimateCarry",
-    "Description": "UltimateCarry\n=============\n\n[Download Compiled Version](https://github.com/LXMedia1/Leage-Sharp/blob/master/UltimateCarry.exe?raw=true)\n\n[Information Repo ](https://github.com/LXMedia1/Leage-Sharp)\n\n\nIncluded Champions\n==================\n\n* Ezreal\n* Gnar\n* Khazix\n* Lucian\n* Lulu\n* MissFortune\n* Morgana\n* Swain\n* Teemo\n* Thresh\n* Zed\n* Zyra\n\n\nExtras\n======\n* Potion Manager\n* SummonerSpell Support ( Smite, Ignite, Heal, Barrier, Exhoust )\n* ItemSupport for alot items ( not all yet )\n* Manamanager ( not all champs now )\n\nLast Update\n=========\nsome little bugfixes in thresh lanternlogic\n\n[![PayPayl donate button](http://img.shields.io/paypal/donate.png?color=yellow)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=NDD6M83G586RW \"You Like it ? buy me a beer :P\")\n",
-    "Points": 0,
-    "Votes": 0,
-    "Url": "https://github.com/LXMedia1/UltimateCarry2",
-    "Repositroy": "UltimateCarry2",
-    "Developer": "LXMedia1",
-    "Category": "Champion"
-  },
-  {
-    "Name": "LeagueSharp.Common",
-    "Description": "License\n=================\nCopyright 2014 - 2014 LeagueSharp\nLeagueSharp.Common is free software: you can redistribute it and/or modify\nit under the terms of the GNU General Public License as published by\nFree Software Foundation, either version 3 of the License, or\nat your option) any later version.\n\nLeagueSharp.Common is distributed in the hope that it will be useful,\nbut WITHOUT ANY WARRANTY; without even the implied warranty of\nMERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the\nGNU General Public License for more details.\n\nYou should have received a copy of the GNU General Public License\nalong with LeagueSharp.Common. If not, see http://www.gnu.org/licenses/\n",
-    "Points": 0,
-    "Votes": 0,
-    "Url": "https://github.com/LeagueSharp/LeagueSharpCommon",
-    "Repositroy": "LeagueSharpCommon",
-    "Developer": "LeagueSharp",
-    "Category": "Library"
   },
   {
     "Name": "PerfectWard",
@@ -450,238 +540,8 @@
     "Category": "Utility"
   },
   {
-    "Name": "Braum",
-    "Description": "LeagueSharp\n===========\nWhat to tell?\nPut the .exe into your Assembly folder\n",
-    "Points": 0,
-    "Votes": 0,
-    "Url": "https://github.com/newchild/LeagueSharp",
-    "Repositroy": "LeagueSharp",
-    "Developer": "newchild",
-    "Category": "Champion"
-  },
-  {
-    "Name": "Frosty Renekton",
-    "Description": "LeagueSharp\n===========\nWhat to tell?\nPut the .exe into your Assembly folder\n",
-    "Points": 0,
-    "Votes": 0,
-    "Url": "https://github.com/newchild/LeagueSharp",
-    "Repositroy": "LeagueSharp",
-    "Developer": "newchild",
-    "Category": "Champion"
-  },
-  {
-    "Name": "Frosty Sejuani",
-    "Description": "LeagueSharp\n===========\nWhat to tell?\nPut the .exe into your Assembly folder\n",
-    "Points": 0,
-    "Votes": 0,
-    "Url": "https://github.com/newchild/LeagueSharp",
-    "Repositroy": "LeagueSharp",
-    "Developer": "newchild",
-    "Category": "Champion"
-  },
-  {
-    "Name": "Frosty Sejuani",
-    "Description": "LeagueSharp\n===========\nWhat to tell?\nPut the .exe into your Assembly folder\n",
-    "Points": 0,
-    "Votes": 0,
-    "Url": "https://github.com/newchild/LeagueSharp",
-    "Repositroy": "LeagueSharp",
-    "Developer": "newchild",
-    "Category": "Champion"
-  },
-  {
-    "Name": "SKO Ban Karma",
-    "Description": "LeagueSharp\n===========\n",
-    "Points": 0,
-    "Votes": 0,
-    "Url": "https://github.com/SKOBoL/LeagueSharp",
-    "Repositroy": "LeagueSharp",
-    "Developer": "SKOBoL",
-    "Category": "Champion"
-  },
-  {
-    "Name": "SKO Galio",
-    "Description": "LeagueSharp\n===========\n",
-    "Points": 0,
-    "Votes": 0,
-    "Url": "https://github.com/SKOBoL/LeagueSharp",
-    "Repositroy": "LeagueSharp",
-    "Developer": "SKOBoL",
-    "Category": "Champion"
-  },
-  {
-    "Name": "SKONidalee",
-    "Description": "LeagueSharp\n===========\n",
-    "Points": 0,
-    "Votes": 0,
-    "Url": "https://github.com/SKOBoL/LeagueSharp",
-    "Repositroy": "LeagueSharp",
-    "Developer": "SKOBoL",
-    "Category": "Champion"
-  },
-  {
-    "Name": "SKORengar",
-    "Description": "LeagueSharp\n===========\n",
-    "Points": 0,
-    "Votes": 0,
-    "Url": "https://github.com/SKOBoL/LeagueSharp",
-    "Repositroy": "LeagueSharp",
-    "Developer": "SKOBoL",
-    "Category": "Champion"
-  },
-  {
-    "Name": "BrandSharp",
-    "Description": "LeagueSharp\n===========\n\nAssemblies for League#\n",
-    "Points": 0,
-    "Votes": 0,
-    "Url": "https://github.com/Hellsing/LeagueSharp",
-    "Repositroy": "LeagueSharp",
-    "Developer": "Hellsing",
-    "Category": "Champion"
-  },
-  {
-    "Name": "VeigarEndboss",
-    "Description": "LeagueSharp\n===========\n\nAssemblies for League#\n",
-    "Points": 0,
-    "Votes": 0,
-    "Url": "https://github.com/Hellsing/LeagueSharp",
-    "Repositroy": "LeagueSharp",
-    "Developer": "Hellsing",
-    "Category": "Champion"
-  },
-  {
-    "Name": "ViktorSharp",
-    "Description": "LeagueSharp\n===========\n\nAssemblies for League#\n",
-    "Points": 0,
-    "Votes": 0,
-    "Url": "https://github.com/Hellsing/LeagueSharp",
-    "Repositroy": "LeagueSharp",
-    "Developer": "Hellsing",
-    "Category": "Champion"
-  },
-  {
-    "Name": "ToasterLoading",
-    "Description": "If you like my work and want to see much more from me \nDonate -> PayPal: dtk600@gmail.com\n\nLeagueSharp\n===========\n\nJayceSharp\n===========\n\nCombo:\n - Super fast QE \n - use all skills in bet way\n - can toggle to go in hammer if killable with combo\n - combo works both ways from and to hammer\n - Can activate fullburst to use all skills\n\nInj:\n - will jump to target, flash behind, kick in tower and swap to range to burst down\n - https://www.youtube.com/watch?v=S3kwExDKtH4&feature=youtu.be\n\nExtra:\n - Kick Away gapclosers\n - Use GhostBlade\n - Use Muramana\n - Manual QE cast\n\n\n\nHiddenObject\n===========\n\nShows where are wards and how long till they dissapear\n\nIt only will see if you saw that ward was placed.\n\nAdd more hidden Objects at HidObjects.cs\n\nYasuoSharp\n===========\n\nHarass mode:\n - will hit q whenever possible\n - can choose only to use 3rd q\n\nLastHit:\n - use q\n - use e\n - Orbwalker\n\nLaneClear\n - use q\n - use smart 3rd q only when hit X minions\n - good e use\n - Orbwalker\n\nCombo\n - use q\n - smart chasing with e\n - auto R if will hit X enemies\n - use Hydra\n\nAuto windwall\n - now will block all skilshots\n - will block basic attacs that does more then 25% of your health\n\n\nKarmaSharp\n===========\n\nMostly uses smart q + calc minion collision if can hit\nSnare target if in range and auto shield\n\nRivenSharp\n===========\nCombo:\n - Fast Q-> aa combo\n - simple R use\n - use E \n - use W\n - use Hydra\n - \n",
-    "Points": 0,
-    "Votes": 0,
-    "Url": "https://github.com/detuks/LeagueSharp",
-    "Repositroy": "LeagueSharp",
-    "Developer": "detuks",
-    "Category": "Utility"
-  },
-  {
-    "Name": "iVJax",
-    "Description": "LeagueSharp\n===========\n\nLeagueSharp Assemblies by iJava && Veeox\n\niVJax\n-----\nIncomplete but combo working\n\niVRiven\n-----\nNot working at all\n",
-    "Points": 0,
-    "Votes": 0,
-    "Url": "https://github.com/TeamiV/LeagueSharp",
-    "Repositroy": "LeagueSharp",
-    "Developer": "TeamiV",
-    "Category": "Champion"
-  },
-  {
-    "Name": "iVLee",
-    "Description": "LeagueSharp\n===========\n\nLeagueSharp Assemblies by iJava && Veeox\n\niVJax\n-----\nIncomplete but combo working\n\niVRiven\n-----\nNot working at all\n",
-    "Points": 0,
-    "Votes": 0,
-    "Url": "https://github.com/TeamiV/LeagueSharp",
-    "Repositroy": "LeagueSharp",
-    "Developer": "TeamiV",
-    "Category": "Champion"
-  },
-  {
-    "Name": "iVRiven",
-    "Description": "LeagueSharp\n===========\n\nLeagueSharp Assemblies by iJava && Veeox\n\niVJax\n-----\nIncomplete but combo working\n\niVRiven\n-----\nNot working at all\n",
-    "Points": 0,
-    "Votes": 0,
-    "Url": "https://github.com/TeamiV/LeagueSharp",
-    "Repositroy": "LeagueSharp",
-    "Developer": "TeamiV",
-    "Category": "Champion"
-  },
-  {
-    "Name": "HiddenObj",
-    "Description": "If you like my work and want to see much more from me \nDonate -> PayPal: dtk600@gmail.com\n\nLeagueSharp\n===========\n\nJayceSharp\n===========\n\nCombo:\n - Super fast QE \n - use all skills in bet way\n - can toggle to go in hammer if killable with combo\n - combo works both ways from and to hammer\n - Can activate fullburst to use all skills\n\nInj:\n - will jump to target, flash behind, kick in tower and swap to range to burst down\n - https://www.youtube.com/watch?v=S3kwExDKtH4&feature=youtu.be\n\nExtra:\n - Kick Away gapclosers\n - Use GhostBlade\n - Use Muramana\n - Manual QE cast\n\n\n\nHiddenObject\n===========\n\nShows where are wards and how long till they dissapear\n\nIt only will see if you saw that ward was placed.\n\nAdd more hidden Objects at HidObjects.cs\n\nYasuoSharp\n===========\n\nHarass mode:\n - will hit q whenever possible\n - can choose only to use 3rd q\n\nLastHit:\n - use q\n - use e\n - Orbwalker\n\nLaneClear\n - use q\n - use smart 3rd q only when hit X minions\n - good e use\n - Orbwalker\n\nCombo\n - use q\n - smart chasing with e\n - auto R if will hit X enemies\n - use Hydra\n\nAuto windwall\n - now will block all skilshots\n - will block basic attacs that does more then 25% of your health\n\n\nKarmaSharp\n===========\n\nMostly uses smart q + calc minion collision if can hit\nSnare target if in range and auto shield\n\nRivenSharp\n===========\nCombo:\n - Fast Q-> aa combo\n - simple R use\n - use E \n - use W\n - use Hydra\n - \n",
-    "Points": 0,
-    "Votes": 0,
-    "Url": "https://github.com/detuks/LeagueSharp",
-    "Repositroy": "LeagueSharp",
-    "Developer": "detuks",
-    "Category": "Utility"
-  },
-  {
-    "Name": "JayceSharp",
-    "Description": "If you like my work and want to see much more from me \nDonate -> PayPal: dtk600@gmail.com\n\nLeagueSharp\n===========\n\nJayceSharp\n===========\n\nCombo:\n - Super fast QE \n - use all skills in bet way\n - can toggle to go in hammer if killable with combo\n - combo works both ways from and to hammer\n - Can activate fullburst to use all skills\n\nInj:\n - will jump to target, flash behind, kick in tower and swap to range to burst down\n - https://www.youtube.com/watch?v=S3kwExDKtH4&feature=youtu.be\n\nExtra:\n - Kick Away gapclosers\n - Use GhostBlade\n - Use Muramana\n - Manual QE cast\n\n\n\nHiddenObject\n===========\n\nShows where are wards and how long till they dissapear\n\nIt only will see if you saw that ward was placed.\n\nAdd more hidden Objects at HidObjects.cs\n\nYasuoSharp\n===========\n\nHarass mode:\n - will hit q whenever possible\n - can choose only to use 3rd q\n\nLastHit:\n - use q\n - use e\n - Orbwalker\n\nLaneClear\n - use q\n - use smart 3rd q only when hit X minions\n - good e use\n - Orbwalker\n\nCombo\n - use q\n - smart chasing with e\n - auto R if will hit X enemies\n - use Hydra\n\nAuto windwall\n - now will block all skilshots\n - will block basic attacs that does more then 25% of your health\n\n\nKarmaSharp\n===========\n\nMostly uses smart q + calc minion collision if can hit\nSnare target if in range and auto shield\n\nRivenSharp\n===========\nCombo:\n - Fast Q-> aa combo\n - simple R use\n - use E \n - use W\n - use Hydra\n - \n",
-    "Points": 0,
-    "Votes": 0,
-    "Url": "https://github.com/detuks/LeagueSharp",
-    "Repositroy": "LeagueSharp",
-    "Developer": "detuks",
-    "Category": "Champion"
-  },
-  {
-    "Name": "KarmaSharp",
-    "Description": "If you like my work and want to see much more from me \nDonate -> PayPal: dtk600@gmail.com\n\nLeagueSharp\n===========\n\nJayceSharp\n===========\n\nCombo:\n - Super fast QE \n - use all skills in bet way\n - can toggle to go in hammer if killable with combo\n - combo works both ways from and to hammer\n - Can activate fullburst to use all skills\n\nInj:\n - will jump to target, flash behind, kick in tower and swap to range to burst down\n - https://www.youtube.com/watch?v=S3kwExDKtH4&feature=youtu.be\n\nExtra:\n - Kick Away gapclosers\n - Use GhostBlade\n - Use Muramana\n - Manual QE cast\n\n\n\nHiddenObject\n===========\n\nShows where are wards and how long till they dissapear\n\nIt only will see if you saw that ward was placed.\n\nAdd more hidden Objects at HidObjects.cs\n\nYasuoSharp\n===========\n\nHarass mode:\n - will hit q whenever possible\n - can choose only to use 3rd q\n\nLastHit:\n - use q\n - use e\n - Orbwalker\n\nLaneClear\n - use q\n - use smart 3rd q only when hit X minions\n - good e use\n - Orbwalker\n\nCombo\n - use q\n - smart chasing with e\n - auto R if will hit X enemies\n - use Hydra\n\nAuto windwall\n - now will block all skilshots\n - will block basic attacs that does more then 25% of your health\n\n\nKarmaSharp\n===========\n\nMostly uses smart q + calc minion collision if can hit\nSnare target if in range and auto shield\n\nRivenSharp\n===========\nCombo:\n - Fast Q-> aa combo\n - simple R use\n - use E \n - use W\n - use Hydra\n - \n",
-    "Points": 0,
-    "Votes": 0,
-    "Url": "https://github.com/detuks/LeagueSharp",
-    "Repositroy": "LeagueSharp",
-    "Developer": "detuks",
-    "Category": "Champion"
-  },
-  {
-    "Name": "LeeSinSharp",
-    "Description": "If you like my work and want to see much more from me \nDonate -> PayPal: dtk600@gmail.com\n\nLeagueSharp\n===========\n\nJayceSharp\n===========\n\nCombo:\n - Super fast QE \n - use all skills in bet way\n - can toggle to go in hammer if killable with combo\n - combo works both ways from and to hammer\n - Can activate fullburst to use all skills\n\nInj:\n - will jump to target, flash behind, kick in tower and swap to range to burst down\n - https://www.youtube.com/watch?v=S3kwExDKtH4&feature=youtu.be\n\nExtra:\n - Kick Away gapclosers\n - Use GhostBlade\n - Use Muramana\n - Manual QE cast\n\n\n\nHiddenObject\n===========\n\nShows where are wards and how long till they dissapear\n\nIt only will see if you saw that ward was placed.\n\nAdd more hidden Objects at HidObjects.cs\n\nYasuoSharp\n===========\n\nHarass mode:\n - will hit q whenever possible\n - can choose only to use 3rd q\n\nLastHit:\n - use q\n - use e\n - Orbwalker\n\nLaneClear\n - use q\n - use smart 3rd q only when hit X minions\n - good e use\n - Orbwalker\n\nCombo\n - use q\n - smart chasing with e\n - auto R if will hit X enemies\n - use Hydra\n\nAuto windwall\n - now will block all skilshots\n - will block basic attacs that does more then 25% of your health\n\n\nKarmaSharp\n===========\n\nMostly uses smart q + calc minion collision if can hit\nSnare target if in range and auto shield\n\nRivenSharp\n===========\nCombo:\n - Fast Q-> aa combo\n - simple R use\n - use E \n - use W\n - use Hydra\n - \n",
-    "Points": 0,
-    "Votes": 0,
-    "Url": "https://github.com/detuks/LeagueSharp",
-    "Repositroy": "LeagueSharp",
-    "Developer": "detuks",
-    "Category": "Champion"
-  },
-  {
-    "Name": "RivenSharp",
-    "Description": "If you like my work and want to see much more from me \nDonate -> PayPal: dtk600@gmail.com\n\nLeagueSharp\n===========\n\nJayceSharp\n===========\n\nCombo:\n - Super fast QE \n - use all skills in bet way\n - can toggle to go in hammer if killable with combo\n - combo works both ways from and to hammer\n - Can activate fullburst to use all skills\n\nInj:\n - will jump to target, flash behind, kick in tower and swap to range to burst down\n - https://www.youtube.com/watch?v=S3kwExDKtH4&feature=youtu.be\n\nExtra:\n - Kick Away gapclosers\n - Use GhostBlade\n - Use Muramana\n - Manual QE cast\n\n\n\nHiddenObject\n===========\n\nShows where are wards and how long till they dissapear\n\nIt only will see if you saw that ward was placed.\n\nAdd more hidden Objects at HidObjects.cs\n\nYasuoSharp\n===========\n\nHarass mode:\n - will hit q whenever possible\n - can choose only to use 3rd q\n\nLastHit:\n - use q\n - use e\n - Orbwalker\n\nLaneClear\n - use q\n - use smart 3rd q only when hit X minions\n - good e use\n - Orbwalker\n\nCombo\n - use q\n - smart chasing with e\n - auto R if will hit X enemies\n - use Hydra\n\nAuto windwall\n - now will block all skilshots\n - will block basic attacs that does more then 25% of your health\n\n\nKarmaSharp\n===========\n\nMostly uses smart q + calc minion collision if can hit\nSnare target if in range and auto shield\n\nRivenSharp\n===========\nCombo:\n - Fast Q-> aa combo\n - simple R use\n - use E \n - use W\n - use Hydra\n - \n",
-    "Points": 0,
-    "Votes": 0,
-    "Url": "https://github.com/detuks/LeagueSharp",
-    "Repositroy": "LeagueSharp",
-    "Developer": "detuks",
-    "Category": "Champion"
-  },
-  {
-    "Name": "TryndSharp",
-    "Description": "If you like my work and want to see much more from me \nDonate -> PayPal: dtk600@gmail.com\n\nLeagueSharp\n===========\n\nJayceSharp\n===========\n\nCombo:\n - Super fast QE \n - use all skills in bet way\n - can toggle to go in hammer if killable with combo\n - combo works both ways from and to hammer\n - Can activate fullburst to use all skills\n\nInj:\n - will jump to target, flash behind, kick in tower and swap to range to burst down\n - https://www.youtube.com/watch?v=S3kwExDKtH4&feature=youtu.be\n\nExtra:\n - Kick Away gapclosers\n - Use GhostBlade\n - Use Muramana\n - Manual QE cast\n\n\n\nHiddenObject\n===========\n\nShows where are wards and how long till they dissapear\n\nIt only will see if you saw that ward was placed.\n\nAdd more hidden Objects at HidObjects.cs\n\nYasuoSharp\n===========\n\nHarass mode:\n - will hit q whenever possible\n - can choose only to use 3rd q\n\nLastHit:\n - use q\n - use e\n - Orbwalker\n\nLaneClear\n - use q\n - use smart 3rd q only when hit X minions\n - good e use\n - Orbwalker\n\nCombo\n - use q\n - smart chasing with e\n - auto R if will hit X enemies\n - use Hydra\n\nAuto windwall\n - now will block all skilshots\n - will block basic attacs that does more then 25% of your health\n\n\nKarmaSharp\n===========\n\nMostly uses smart q + calc minion collision if can hit\nSnare target if in range and auto shield\n\nRivenSharp\n===========\nCombo:\n - Fast Q-> aa combo\n - simple R use\n - use E \n - use W\n - use Hydra\n - \n",
-    "Points": 0,
-    "Votes": 0,
-    "Url": "https://github.com/detuks/LeagueSharp",
-    "Repositroy": "LeagueSharp",
-    "Developer": "detuks",
-    "Category": "Champion"
-  },
-  {
-    "Name": "Yasuo-Sharpino",
-    "Description": "If you like my work and want to see much more from me \nDonate -> PayPal: dtk600@gmail.com\n\nLeagueSharp\n===========\n\nJayceSharp\n===========\n\nCombo:\n - Super fast QE \n - use all skills in bet way\n - can toggle to go in hammer if killable with combo\n - combo works both ways from and to hammer\n - Can activate fullburst to use all skills\n\nInj:\n - will jump to target, flash behind, kick in tower and swap to range to burst down\n - https://www.youtube.com/watch?v=S3kwExDKtH4&feature=youtu.be\n\nExtra:\n - Kick Away gapclosers\n - Use GhostBlade\n - Use Muramana\n - Manual QE cast\n\n\n\nHiddenObject\n===========\n\nShows where are wards and how long till they dissapear\n\nIt only will see if you saw that ward was placed.\n\nAdd more hidden Objects at HidObjects.cs\n\nYasuoSharp\n===========\n\nHarass mode:\n - will hit q whenever possible\n - can choose only to use 3rd q\n\nLastHit:\n - use q\n - use e\n - Orbwalker\n\nLaneClear\n - use q\n - use smart 3rd q only when hit X minions\n - good e use\n - Orbwalker\n\nCombo\n - use q\n - smart chasing with e\n - auto R if will hit X enemies\n - use Hydra\n\nAuto windwall\n - now will block all skilshots\n - will block basic attacs that does more then 25% of your health\n\n\nKarmaSharp\n===========\n\nMostly uses smart q + calc minion collision if can hit\nSnare target if in range and auto shield\n\nRivenSharp\n===========\nCombo:\n - Fast Q-> aa combo\n - simple R use\n - use E \n - use W\n - use Hydra\n - \n",
-    "Points": 0,
-    "Votes": 0,
-    "Url": "https://github.com/detuks/LeagueSharp",
-    "Repositroy": "LeagueSharp",
-    "Developer": "detuks",
-    "Category": "Champion"
-  },
-  {
-    "Name": "YasuoSharp",
-    "Description": "If you like my work and want to see much more from me \nDonate -> PayPal: dtk600@gmail.com\n\nLeagueSharp\n===========\n\nJayceSharp\n===========\n\nCombo:\n - Super fast QE \n - use all skills in bet way\n - can toggle to go in hammer if killable with combo\n - combo works both ways from and to hammer\n - Can activate fullburst to use all skills\n\nInj:\n - will jump to target, flash behind, kick in tower and swap to range to burst down\n - https://www.youtube.com/watch?v=S3kwExDKtH4&feature=youtu.be\n\nExtra:\n - Kick Away gapclosers\n - Use GhostBlade\n - Use Muramana\n - Manual QE cast\n\n\n\nHiddenObject\n===========\n\nShows where are wards and how long till they dissapear\n\nIt only will see if you saw that ward was placed.\n\nAdd more hidden Objects at HidObjects.cs\n\nYasuoSharp\n===========\n\nHarass mode:\n - will hit q whenever possible\n - can choose only to use 3rd q\n\nLastHit:\n - use q\n - use e\n - Orbwalker\n\nLaneClear\n - use q\n - use smart 3rd q only when hit X minions\n - good e use\n - Orbwalker\n\nCombo\n - use q\n - smart chasing with e\n - auto R if will hit X enemies\n - use Hydra\n\nAuto windwall\n - now will block all skilshots\n - will block basic attacs that does more then 25% of your health\n\n\nKarmaSharp\n===========\n\nMostly uses smart q + calc minion collision if can hit\nSnare target if in range and auto shield\n\nRivenSharp\n===========\nCombo:\n - Fast Q-> aa combo\n - simple R use\n - use E \n - use W\n - use Hydra\n - \n",
-    "Points": 0,
-    "Votes": 0,
-    "Url": "https://github.com/detuks/LeagueSharp",
-    "Repositroy": "LeagueSharp",
-    "Developer": "detuks",
-    "Category": "Champion"
-  },
-  {
     "Name": "Evade",
-    "Description": "License\n=================\nCopyright 2014 - 2014 LeagueSharp\nEsk0r/LeagueSharp is free software: you can redistribute it and/or modify\nit under the terms of the GNU General Public License as published by\nFree Software Foundation, either version 3 of the License, or\nat your option) any later version.\n\nEsk0r/LeagueSharp is distributed in the hope that it will be useful,\nbut WITHOUT ANY WARRANTY; without even the implied warranty of\nMERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the\nGNU General Public License for more details.\n\nYou should have received a copy of the GNU General Public License\nalong with Esk0r/LeagueSharp. If not, see http://www.gnu.org/licenses/\n",
+    "Description": "",
     "Points": 0,
     "Votes": 0,
     "Url": "https://github.com/Esk0r/LeagueSharp",
@@ -691,7 +551,7 @@
   },
   {
     "Name": "Karma",
-    "Description": "License\n=================\nCopyright 2014 - 2014 LeagueSharp\nEsk0r/LeagueSharp is free software: you can redistribute it and/or modify\nit under the terms of the GNU General Public License as published by\nFree Software Foundation, either version 3 of the License, or\nat your option) any later version.\n\nEsk0r/LeagueSharp is distributed in the hope that it will be useful,\nbut WITHOUT ANY WARRANTY; without even the implied warranty of\nMERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the\nGNU General Public License for more details.\n\nYou should have received a copy of the GNU General Public License\nalong with Esk0r/LeagueSharp. If not, see http://www.gnu.org/licenses/\n",
+    "Description": "",
     "Points": 0,
     "Votes": 0,
     "Url": "https://github.com/Esk0r/LeagueSharp",
@@ -701,7 +561,7 @@
   },
   {
     "Name": "Marksman",
-    "Description": "License\n=================\nCopyright 2014 - 2014 LeagueSharp\nEsk0r/LeagueSharp is free software: you can redistribute it and/or modify\nit under the terms of the GNU General Public License as published by\nFree Software Foundation, either version 3 of the License, or\nat your option) any later version.\n\nEsk0r/LeagueSharp is distributed in the hope that it will be useful,\nbut WITHOUT ANY WARRANTY; without even the implied warranty of\nMERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the\nGNU General Public License for more details.\n\nYou should have received a copy of the GNU General Public License\nalong with Esk0r/LeagueSharp. If not, see http://www.gnu.org/licenses/\n",
+    "Description": "",
     "Points": 0,
     "Votes": 0,
     "Url": "https://github.com/Esk0r/LeagueSharp",
@@ -711,7 +571,7 @@
   },
   {
     "Name": "Ryze",
-    "Description": "License\n=================\nCopyright 2014 - 2014 LeagueSharp\nEsk0r/LeagueSharp is free software: you can redistribute it and/or modify\nit under the terms of the GNU General Public License as published by\nFree Software Foundation, either version 3 of the License, or\nat your option) any later version.\n\nEsk0r/LeagueSharp is distributed in the hope that it will be useful,\nbut WITHOUT ANY WARRANTY; without even the implied warranty of\nMERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the\nGNU General Public License for more details.\n\nYou should have received a copy of the GNU General Public License\nalong with Esk0r/LeagueSharp. If not, see http://www.gnu.org/licenses/\n",
+    "Description": "",
     "Points": 0,
     "Votes": 0,
     "Url": "https://github.com/Esk0r/LeagueSharp",
@@ -720,18 +580,8 @@
     "Category": "Champion"
   },
   {
-    "Name": "Akali",
-    "Description": "LeagueSharp\n===========\nYou can feel free to do pull requests (add/remove anything) in order to improve my work.\n",
-    "Points": 0,
-    "Votes": 0,
-    "Url": "https://github.com/Chogart/LeagueSharp",
-    "Repositroy": "LeagueSharp",
-    "Developer": "Chogart",
-    "Category": "Champion"
-  },
-  {
     "Name": "Syndra",
-    "Description": "License\n=================\nCopyright 2014 - 2014 LeagueSharp\nEsk0r/LeagueSharp is free software: you can redistribute it and/or modify\nit under the terms of the GNU General Public License as published by\nFree Software Foundation, either version 3 of the License, or\nat your option) any later version.\n\nEsk0r/LeagueSharp is distributed in the hope that it will be useful,\nbut WITHOUT ANY WARRANTY; without even the implied warranty of\nMERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the\nGNU General Public License for more details.\n\nYou should have received a copy of the GNU General Public License\nalong with Esk0r/LeagueSharp. If not, see http://www.gnu.org/licenses/\n",
+    "Description": "",
     "Points": 0,
     "Votes": 0,
     "Url": "https://github.com/Esk0r/LeagueSharp",
@@ -741,7 +591,7 @@
   },
   {
     "Name": "TwistedFate",
-    "Description": "License\n=================\nCopyright 2014 - 2014 LeagueSharp\nEsk0r/LeagueSharp is free software: you can redistribute it and/or modify\nit under the terms of the GNU General Public License as published by\nFree Software Foundation, either version 3 of the License, or\nat your option) any later version.\n\nEsk0r/LeagueSharp is distributed in the hope that it will be useful,\nbut WITHOUT ANY WARRANTY; without even the implied warranty of\nMERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the\nGNU General Public License for more details.\n\nYou should have received a copy of the GNU General Public License\nalong with Esk0r/LeagueSharp. If not, see http://www.gnu.org/licenses/\n",
+    "Description": "",
     "Points": 0,
     "Votes": 0,
     "Url": "https://github.com/Esk0r/LeagueSharp",
@@ -751,7 +601,7 @@
   },
   {
     "Name": "Velkoz Assembly",
-    "Description": "License\n=================\nCopyright 2014 - 2014 LeagueSharp\nEsk0r/LeagueSharp is free software: you can redistribute it and/or modify\nit under the terms of the GNU General Public License as published by\nFree Software Foundation, either version 3 of the License, or\nat your option) any later version.\n\nEsk0r/LeagueSharp is distributed in the hope that it will be useful,\nbut WITHOUT ANY WARRANTY; without even the implied warranty of\nMERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the\nGNU General Public License for more details.\n\nYou should have received a copy of the GNU General Public License\nalong with Esk0r/LeagueSharp. If not, see http://www.gnu.org/licenses/\n",
+    "Description": "",
     "Points": 0,
     "Votes": 0,
     "Url": "https://github.com/Esk0r/LeagueSharp",
@@ -761,7 +611,7 @@
   },
   {
     "Name": "Xerath",
-    "Description": "License\n=================\nCopyright 2014 - 2014 LeagueSharp\nEsk0r/LeagueSharp is free software: you can redistribute it and/or modify\nit under the terms of the GNU General Public License as published by\nFree Software Foundation, either version 3 of the License, or\nat your option) any later version.\n\nEsk0r/LeagueSharp is distributed in the hope that it will be useful,\nbut WITHOUT ANY WARRANTY; without even the implied warranty of\nMERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the\nGNU General Public License for more details.\n\nYou should have received a copy of the GNU General Public License\nalong with Esk0r/LeagueSharp. If not, see http://www.gnu.org/licenses/\n",
+    "Description": "",
     "Points": 0,
     "Votes": 0,
     "Url": "https://github.com/Esk0r/LeagueSharp",
@@ -771,7 +621,7 @@
   },
   {
     "Name": "Ziggs",
-    "Description": "License\n=================\nCopyright 2014 - 2014 LeagueSharp\nEsk0r/LeagueSharp is free software: you can redistribute it and/or modify\nit under the terms of the GNU General Public License as published by\nFree Software Foundation, either version 3 of the License, or\nat your option) any later version.\n\nEsk0r/LeagueSharp is distributed in the hope that it will be useful,\nbut WITHOUT ANY WARRANTY; without even the implied warranty of\nMERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the\nGNU General Public License for more details.\n\nYou should have received a copy of the GNU General Public License\nalong with Esk0r/LeagueSharp. If not, see http://www.gnu.org/licenses/\n",
+    "Description": "",
     "Points": 0,
     "Votes": 0,
     "Url": "https://github.com/Esk0r/LeagueSharp",
@@ -780,13 +630,103 @@
     "Category": "Champion"
   },
   {
-    "Name": "Pantheon - The Artisan of War",
-    "Description": "Champion Scripts:\n===========\n* Pantheon - The Artisan of War\n  * A fully customisable Pantheon Script, ported from my BoL Version to L#.\n  * It will be updated to have more features in the future.\n",
+    "Name": "Akali",
+    "Description": "",
     "Points": 0,
     "Votes": 0,
-    "Url": "https://github.com/RoachxD/LeagueSharp",
+    "Url": "https://github.com/Chogart/LeagueSharp",
     "Repositroy": "LeagueSharp",
-    "Developer": "RoachxD",
+    "Developer": "Chogart",
+    "Category": "Champion"
+  },
+  {
+    "Name": "ToasterLoading",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/detuks/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "detuks",
+    "Category": "Utility"
+  },
+  {
+    "Name": "HiddenObj",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/detuks/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "detuks",
+    "Category": "Utility"
+  },
+  {
+    "Name": "JayceSharp",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/detuks/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "detuks",
+    "Category": "Champion"
+  },
+  {
+    "Name": "KarmaSharp",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/detuks/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "detuks",
+    "Category": "Champion"
+  },
+  {
+    "Name": "LeeSinSharp",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/detuks/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "detuks",
+    "Category": "Champion"
+  },
+  {
+    "Name": "RivenSharp",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/detuks/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "detuks",
+    "Category": "Champion"
+  },
+  {
+    "Name": "TryndSharp",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/detuks/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "detuks",
+    "Category": "Champion"
+  },
+  {
+    "Name": "Yasuo-Sharpino",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/detuks/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "detuks",
+    "Category": "Champion"
+  },
+  {
+    "Name": "YasuoSharp",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/detuks/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "detuks",
     "Category": "Champion"
   },
   {
@@ -810,48 +750,188 @@
     "Category": "Champion"
   },
   {
-    "Name": "Aatrox",
-    "Description": "Assemblies\n=================\n\nAatrox\n----\n\n> It's doing the Q-E-R combo if you can kill the enemy, otherwise it's doing Q-E. The W usage is changing automatically the W depending on your actual life. Also, it has some options like killsteal with R and E, interrumpt with Q, draws and so on.\n\nAttackDrawer\n----\n\n> It draws the attack range of your enemies. Enjoy your trades at botlane :^)\n\nBlitzcrank\n----\n\n> Mainly doing Q-E-R combo. If you can't use Q, it will try to use E if you are near the enemy, and R. Also has some other features, like interrumpt spells with your abilities, automatic R casting if you can hit more than a number of enemies, and automatic R killsteal.\n\nSimple Ult Leveler\n----\n\n> Simple assembly to automatic level up the ultimate ability of your character. Useful to almost every single character in the game.\n\n\nLicense\n=================\n\nCopyright 2014 - 2014 LeagueSharp\nAreidz/LeagueSharp is free software: you can redistribute it and/or modify\nit under the terms of the GNU General Public License as published by\nFree Software Foundation, either version 3 of the License, or\nat your option) any later version.\n\nAreidz/LeagueSharp is distributed in the hope that it will be useful,\nbut WITHOUT ANY WARRANTY; without even the implied warranty of\nMERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the\nGNU General Public License for more details.\n\nYou should have received a copy of the GNU General Public License\nalong with Areidz/LeagueSharp. If not, see http://www.gnu.org/licenses/\n",
+    "Name": "FedLeblanc",
+    "Description": "",
     "Points": 0,
     "Votes": 0,
-    "Url": "https://github.com/Areidz/Leaguesharp",
-    "Repositroy": "Leaguesharp",
-    "Developer": "Areidz",
+    "Url": "https://github.com/gFederal/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "gFederal",
     "Category": "Champion"
   },
   {
-    "Name": "AttackDrawer",
-    "Description": "Assemblies\n=================\n\nAatrox\n----\n\n> It's doing the Q-E-R combo if you can kill the enemy, otherwise it's doing Q-E. The W usage is changing automatically the W depending on your actual life. Also, it has some options like killsteal with R and E, interrumpt with Q, draws and so on.\n\nAttackDrawer\n----\n\n> It draws the attack range of your enemies. Enjoy your trades at botlane :^)\n\nBlitzcrank\n----\n\n> Mainly doing Q-E-R combo. If you can't use Q, it will try to use E if you are near the enemy, and R. Also has some other features, like interrumpt spells with your abilities, automatic R casting if you can hit more than a number of enemies, and automatic R killsteal.\n\nSimple Ult Leveler\n----\n\n> Simple assembly to automatic level up the ultimate ability of your character. Useful to almost every single character in the game.\n\n\nLicense\n=================\n\nCopyright 2014 - 2014 LeagueSharp\nAreidz/LeagueSharp is free software: you can redistribute it and/or modify\nit under the terms of the GNU General Public License as published by\nFree Software Foundation, either version 3 of the License, or\nat your option) any later version.\n\nAreidz/LeagueSharp is distributed in the hope that it will be useful,\nbut WITHOUT ANY WARRANTY; without even the implied warranty of\nMERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the\nGNU General Public License for more details.\n\nYou should have received a copy of the GNU General Public License\nalong with Areidz/LeagueSharp. If not, see http://www.gnu.org/licenses/\n",
+    "Name": "LeagueSharp.Common",
+    "Description": "",
     "Points": 0,
     "Votes": 0,
-    "Url": "https://github.com/Areidz/Leaguesharp",
-    "Repositroy": "Leaguesharp",
-    "Developer": "Areidz",
-    "Category": "Utility"
+    "Url": "https://github.com/LeagueSharp/LeagueSharpCommon",
+    "Repositroy": "LeagueSharpCommon",
+    "Developer": "LeagueSharp",
+    "Category": "Library"
   },
   {
-    "Name": "Blitzcrank",
-    "Description": "Assemblies\n=================\n\nAatrox\n----\n\n> It's doing the Q-E-R combo if you can kill the enemy, otherwise it's doing Q-E. The W usage is changing automatically the W depending on your actual life. Also, it has some options like killsteal with R and E, interrumpt with Q, draws and so on.\n\nAttackDrawer\n----\n\n> It draws the attack range of your enemies. Enjoy your trades at botlane :^)\n\nBlitzcrank\n----\n\n> Mainly doing Q-E-R combo. If you can't use Q, it will try to use E if you are near the enemy, and R. Also has some other features, like interrumpt spells with your abilities, automatic R casting if you can hit more than a number of enemies, and automatic R killsteal.\n\nSimple Ult Leveler\n----\n\n> Simple assembly to automatic level up the ultimate ability of your character. Useful to almost every single character in the game.\n\n\nLicense\n=================\n\nCopyright 2014 - 2014 LeagueSharp\nAreidz/LeagueSharp is free software: you can redistribute it and/or modify\nit under the terms of the GNU General Public License as published by\nFree Software Foundation, either version 3 of the License, or\nat your option) any later version.\n\nAreidz/LeagueSharp is distributed in the hope that it will be useful,\nbut WITHOUT ANY WARRANTY; without even the implied warranty of\nMERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the\nGNU General Public License for more details.\n\nYou should have received a copy of the GNU General Public License\nalong with Areidz/LeagueSharp. If not, see http://www.gnu.org/licenses/\n",
+    "Name": "BrandSharp",
+    "Description": "",
     "Points": 0,
     "Votes": 0,
-    "Url": "https://github.com/Areidz/Leaguesharp",
-    "Repositroy": "Leaguesharp",
-    "Developer": "Areidz",
+    "Url": "https://github.com/Hellsing/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "Hellsing",
     "Category": "Champion"
   },
   {
-    "Name": "SimpleUltLeveler",
-    "Description": "Assemblies\n=================\n\nAatrox\n----\n\n> It's doing the Q-E-R combo if you can kill the enemy, otherwise it's doing Q-E. The W usage is changing automatically the W depending on your actual life. Also, it has some options like killsteal with R and E, interrumpt with Q, draws and so on.\n\nAttackDrawer\n----\n\n> It draws the attack range of your enemies. Enjoy your trades at botlane :^)\n\nBlitzcrank\n----\n\n> Mainly doing Q-E-R combo. If you can't use Q, it will try to use E if you are near the enemy, and R. Also has some other features, like interrumpt spells with your abilities, automatic R casting if you can hit more than a number of enemies, and automatic R killsteal.\n\nSimple Ult Leveler\n----\n\n> Simple assembly to automatic level up the ultimate ability of your character. Useful to almost every single character in the game.\n\n\nLicense\n=================\n\nCopyright 2014 - 2014 LeagueSharp\nAreidz/LeagueSharp is free software: you can redistribute it and/or modify\nit under the terms of the GNU General Public License as published by\nFree Software Foundation, either version 3 of the License, or\nat your option) any later version.\n\nAreidz/LeagueSharp is distributed in the hope that it will be useful,\nbut WITHOUT ANY WARRANTY; without even the implied warranty of\nMERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the\nGNU General Public License for more details.\n\nYou should have received a copy of the GNU General Public License\nalong with Areidz/LeagueSharp. If not, see http://www.gnu.org/licenses/\n",
+    "Name": "VeigarEndboss",
+    "Description": "",
     "Points": 0,
     "Votes": 0,
-    "Url": "https://github.com/Areidz/Leaguesharp",
-    "Repositroy": "Leaguesharp",
-    "Developer": "Areidz",
-    "Category": "Utility"
+    "Url": "https://github.com/Hellsing/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "Hellsing",
+    "Category": "Champion"
+  },
+  {
+    "Name": "ViktorSharp",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/Hellsing/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "Hellsing",
+    "Category": "Champion"
+  },
+  {
+    "Name": "Braum",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/newchild/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "newchild",
+    "Category": "Champion"
+  },
+  {
+    "Name": "Frosty Renekton",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/newchild/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "newchild",
+    "Category": "Champion"
+  },
+  {
+    "Name": "Frosty Sejuani",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/newchild/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "newchild",
+    "Category": "Champion"
+  },
+  {
+    "Name": "Frosty Sejuani",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/newchild/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "newchild",
+    "Category": "Champion"
+  },
+  {
+    "Name": "Pantheon - The Artisan of War",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/RoachxD/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "RoachxD",
+    "Category": "Champion"
+  },
+  {
+    "Name": "SKO Ban Karma",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/SKOBoL/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "SKOBoL",
+    "Category": "Champion"
+  },
+  {
+    "Name": "SKO Galio",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/SKOBoL/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "SKOBoL",
+    "Category": "Champion"
+  },
+  {
+    "Name": "SKONidalee",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/SKOBoL/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "SKOBoL",
+    "Category": "Champion"
+  },
+  {
+    "Name": "SKORengar",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/SKOBoL/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "SKOBoL",
+    "Category": "Champion"
+  },
+  {
+    "Name": "UltimateCarry",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/LXMedia1/UltimateCarry2",
+    "Repositroy": "UltimateCarry2",
+    "Developer": "LXMedia1",
+    "Category": "Champion"
+  },
+  {
+    "Name": "iVJax",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/TeamiV/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "TeamiV",
+    "Category": "Champion"
+  },
+  {
+    "Name": "iVLee",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/TeamiV/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "TeamiV",
+    "Category": "Champion"
+  },
+  {
+    "Name": "iVRiven",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/TeamiV/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "TeamiV",
+    "Category": "Champion"
   },
   {
     "Name": "Orianna",
-    "Description": "L# Scripts/Assemblies\n==\n\n**Champion Assemblies:**\n\n### *Orianna - Master of clockwork*\n![Orianna Image](https://github.com/trelli/LeagueSharp/blob/stable/Orianna/Orianna/Orianna.jpg?raw=true)\n\n * Download: [Orianna.exe]. (Auto updates when a new version is released)\n * Features:\n    * Combo and Harras:\n      * Q MEC cast (will get best position to Q based on number of enemies near using MEC)\n      * W prediction cast to make sure it doesn't miss \n      * E cast in combo if will hit and health below a certain point (configurable in menu)\n         * Now will also E to bring ball to Orianna if it is a long ways away. (should make combos/chasing feel ALOT better) \n      * R prediction cast to make sure it doesn't miss\n      * All in with ignite when isolated and killable\n      * Ball delivery system! (auto E iniatiators is added)\n    * Farm: \n      * Smart farming to only Q a minion you can't AA otherwise just reposition ball or harass if in range (Added)\n      * W only when 3 or more minions are killable (configurable in menu) (Added, needs some finetuning)\n      * E when one 1 or more minions are killable (configurable in menu) (Added)\n    * Jungle Farm:\n      * Will use spells to clear jungle mob as quickly as possible. \n    * Misc:\n      * Block manual ult cast if it won't hit anyone \n  \n[Orianna.exe]: https://github.com/trelli/LeagueSharp/raw/stable/Orianna/Release/Orianna.exe\n\n### *Universal Skin Changer*\n![Skin Image](http://static.planetminecraft.com/files/resource_media/screenshot/1307/22924_league_of_legends1_4842094_lrg.jpg)\n\n * Download [SkinChanger.exe].\n * Features:\n   * Press 9 to cycle skins in game for any champion\n * Credits: finndev, pqmailer, Kortatu (all very helpful in making this possible) \n\n[SkinChanger.exe]: https://github.com/trelli/LeagueSharp/blob/stable/Skin%20Changer/Release/Skin%20Changer.exe?raw=true\n",
+    "Description": "",
     "Points": 0,
     "Votes": 0,
     "Url": "https://github.com/trelli/LeagueSharp",
@@ -861,7 +941,7 @@
   },
   {
     "Name": "Skin Changer",
-    "Description": "L# Scripts/Assemblies\n==\n\n**Champion Assemblies:**\n\n### *Orianna - Master of clockwork*\n![Orianna Image](https://github.com/trelli/LeagueSharp/blob/stable/Orianna/Orianna/Orianna.jpg?raw=true)\n\n * Download: [Orianna.exe]. (Auto updates when a new version is released)\n * Features:\n    * Combo and Harras:\n      * Q MEC cast (will get best position to Q based on number of enemies near using MEC)\n      * W prediction cast to make sure it doesn't miss \n      * E cast in combo if will hit and health below a certain point (configurable in menu)\n         * Now will also E to bring ball to Orianna if it is a long ways away. (should make combos/chasing feel ALOT better) \n      * R prediction cast to make sure it doesn't miss\n      * All in with ignite when isolated and killable\n      * Ball delivery system! (auto E iniatiators is added)\n    * Farm: \n      * Smart farming to only Q a minion you can't AA otherwise just reposition ball or harass if in range (Added)\n      * W only when 3 or more minions are killable (configurable in menu) (Added, needs some finetuning)\n      * E when one 1 or more minions are killable (configurable in menu) (Added)\n    * Jungle Farm:\n      * Will use spells to clear jungle mob as quickly as possible. \n    * Misc:\n      * Block manual ult cast if it won't hit anyone \n  \n[Orianna.exe]: https://github.com/trelli/LeagueSharp/raw/stable/Orianna/Release/Orianna.exe\n\n### *Universal Skin Changer*\n![Skin Image](http://static.planetminecraft.com/files/resource_media/screenshot/1307/22924_league_of_legends1_4842094_lrg.jpg)\n\n * Download [SkinChanger.exe].\n * Features:\n   * Press 9 to cycle skins in game for any champion\n * Credits: finndev, pqmailer, Kortatu (all very helpful in making this possible) \n\n[SkinChanger.exe]: https://github.com/trelli/LeagueSharp/blob/stable/Skin%20Changer/Release/Skin%20Changer.exe?raw=true\n",
+    "Description": "",
     "Points": 0,
     "Votes": 0,
     "Url": "https://github.com/trelli/LeagueSharp",
@@ -870,418 +950,8 @@
     "Category": "Utility"
   },
   {
-    "Name": "Irelia",
-    "Description": "LeagueSharp2\n============\n\nLeagueSharp2\n",
-    "Points": 0,
-    "Votes": 0,
-    "Url": "https://github.com/xQxCPMxQx/LeagueSharp2",
-    "Repositroy": "LeagueSharp2",
-    "Developer": "xQxCPMxQx",
-    "Category": "Champion"
-  },
-  {
-    "Name": "Swain",
-    "Description": "LeagueSharp2\n============\n\nLeagueSharp2\n",
-    "Points": 0,
-    "Votes": 0,
-    "Url": "https://github.com/xQxCPMxQx/LeagueSharp2",
-    "Repositroy": "LeagueSharp2",
-    "Developer": "xQxCPMxQx",
-    "Category": "Champion"
-  },
-  {
-    "Name": "Vi",
-    "Description": "LeagueSharp2\n============\n\nLeagueSharp2\n",
-    "Points": 0,
-    "Votes": 0,
-    "Url": "https://github.com/xQxCPMxQx/LeagueSharp2",
-    "Repositroy": "LeagueSharp2",
-    "Developer": "xQxCPMxQx",
-    "Category": "Champion"
-  },
-  {
-    "Name": "GXAutoPotion",
-    "Description": "LeagueSharp - Automatic Potion use Assembly\n-----------\n\nGX Auto Potion will use Health, Mana, Crystal Flask, and Total Biscuits.  It has a menu to allow you set trigger percent for both health and mana potion usage.\n\n\nCredits:  GX Auto Potion is written by GXion and made with base code from Appril on IRC Rizon #leaguesharp with the help and advice of Trelli, FlapperDoodle, and Adam as well as other members of the #leaguesharp channel.",
-    "Points": 0,
-    "Votes": 0,
-    "Url": "https://github.com/Xionanx/Leaguesharp-Projects",
-    "Repositroy": "Leaguesharp-Projects",
-    "Developer": "Xionanx",
-    "Category": "Utility"
-  },
-  {
-    "Name": "GX Auto Shield",
-    "Description": "LeagueSharp - Automatic Potion use Assembly\n-----------\n\nGX Auto Potion will use Health, Mana, Crystal Flask, and Total Biscuits.  It has a menu to allow you set trigger percent for both health and mana potion usage.\n\n\nCredits:  GX Auto Potion is written by GXion and made with base code from Appril on IRC Rizon #leaguesharp with the help and advice of Trelli, FlapperDoodle, and Adam as well as other members of the #leaguesharp channel.",
-    "Points": 0,
-    "Votes": 0,
-    "Url": "https://github.com/Xionanx/Leaguesharp-Projects",
-    "Repositroy": "Leaguesharp-Projects",
-    "Developer": "Xionanx",
-    "Category": "Utility"
-  },
-  {
-    "Name": "GX-Automation",
-    "Description": "LeagueSharp - Automatic Potion use Assembly\n-----------\n\nGX Auto Potion will use Health, Mana, Crystal Flask, and Total Biscuits.  It has a menu to allow you set trigger percent for both health and mana potion usage.\n\n\nCredits:  GX Auto Potion is written by GXion and made with base code from Appril on IRC Rizon #leaguesharp with the help and advice of Trelli, FlapperDoodle, and Adam as well as other members of the #leaguesharp channel.",
-    "Points": 0,
-    "Votes": 0,
-    "Url": "https://github.com/Xionanx/Leaguesharp-Projects",
-    "Repositroy": "Leaguesharp-Projects",
-    "Developer": "Xionanx",
-    "Category": "Utility"
-  },
-  {
-    "Name": "GX Karthus",
-    "Description": "LeagueSharp - Automatic Potion use Assembly\n-----------\n\nGX Auto Potion will use Health, Mana, Crystal Flask, and Total Biscuits.  It has a menu to allow you set trigger percent for both health and mana potion usage.\n\n\nCredits:  GX Auto Potion is written by GXion and made with base code from Appril on IRC Rizon #leaguesharp with the help and advice of Trelli, FlapperDoodle, and Adam as well as other members of the #leaguesharp channel.",
-    "Points": 0,
-    "Votes": 0,
-    "Url": "https://github.com/Xionanx/Leaguesharp-Projects",
-    "Repositroy": "Leaguesharp-Projects",
-    "Developer": "Xionanx",
-    "Category": "Champion"
-  },
-  {
-    "Name": "GX-Katarina",
-    "Description": "LeagueSharp - Automatic Potion use Assembly\n-----------\n\nGX Auto Potion will use Health, Mana, Crystal Flask, and Total Biscuits.  It has a menu to allow you set trigger percent for both health and mana potion usage.\n\n\nCredits:  GX Auto Potion is written by GXion and made with base code from Appril on IRC Rizon #leaguesharp with the help and advice of Trelli, FlapperDoodle, and Adam as well as other members of the #leaguesharp channel.",
-    "Points": 0,
-    "Votes": 0,
-    "Url": "https://github.com/Xionanx/Leaguesharp-Projects",
-    "Repositroy": "Leaguesharp-Projects",
-    "Developer": "Xionanx",
-    "Category": "Champion"
-  },
-  {
-    "Name": "GX-Sona",
-    "Description": "LeagueSharp - Automatic Potion use Assembly\n-----------\n\nGX Auto Potion will use Health, Mana, Crystal Flask, and Total Biscuits.  It has a menu to allow you set trigger percent for both health and mana potion usage.\n\n\nCredits:  GX Auto Potion is written by GXion and made with base code from Appril on IRC Rizon #leaguesharp with the help and advice of Trelli, FlapperDoodle, and Adam as well as other members of the #leaguesharp channel.",
-    "Points": 0,
-    "Votes": 0,
-    "Url": "https://github.com/Xionanx/Leaguesharp-Projects",
-    "Repositroy": "Leaguesharp-Projects",
-    "Developer": "Xionanx",
-    "Category": "Champion"
-  },
-  {
-    "Name": "GX-Soraka",
-    "Description": "LeagueSharp - Automatic Potion use Assembly\n-----------\n\nGX Auto Potion will use Health, Mana, Crystal Flask, and Total Biscuits.  It has a menu to allow you set trigger percent for both health and mana potion usage.\n\n\nCredits:  GX Auto Potion is written by GXion and made with base code from Appril on IRC Rizon #leaguesharp with the help and advice of Trelli, FlapperDoodle, and Adam as well as other members of the #leaguesharp channel.",
-    "Points": 0,
-    "Votes": 0,
-    "Url": "https://github.com/Xionanx/Leaguesharp-Projects",
-    "Repositroy": "Leaguesharp-Projects",
-    "Developer": "Xionanx",
-    "Category": "Champion"
-  },
-  {
-    "Name": "GX Zilean",
-    "Description": "LeagueSharp - Automatic Potion use Assembly\n-----------\n\nGX Auto Potion will use Health, Mana, Crystal Flask, and Total Biscuits.  It has a menu to allow you set trigger percent for both health and mana potion usage.\n\n\nCredits:  GX Auto Potion is written by GXion and made with base code from Appril on IRC Rizon #leaguesharp with the help and advice of Trelli, FlapperDoodle, and Adam as well as other members of the #leaguesharp channel.",
-    "Points": 0,
-    "Votes": 0,
-    "Url": "https://github.com/Xionanx/Leaguesharp-Projects",
-    "Repositroy": "Leaguesharp-Projects",
-    "Developer": "Xionanx",
-    "Category": "Utility"
-  },
-  {
-    "Name": "Mechanics",
-    "Description": "LSharp\n======\n\n( ͡° ͜ʖ ͡°) \n",
-    "Points": 0,
-    "Votes": 0,
-    "Url": "https://github.com/gmlyra/LSharp",
-    "Repositroy": "LSharp",
-    "Developer": "gmlyra",
-    "Category": "Utility"
-  },
-  {
-    "Name": "AhriSharp",
-    "Description": "## AhriSharp<br>\nDone<br>\nNeed to work out what kind of R logic options I may add.\n\n## Planned<br>\nSoon™<br>\n",
-    "Points": 0,
-    "Votes": 0,
-    "Url": "https://github.com/JoKerr-/LeagueSharp",
-    "Repositroy": "LeagueSharp",
-    "Developer": "JoKerr-",
-    "Category": "Champion"
-  },
-  {
-    "Name": "Nami",
-    "Description": "Talon\n===========\n#### Features:\n* Full Combo [Q;W;E;R;Items;Ignite]\n* Ultimate Rush on Killabe Targets\n* Harass [W]\n* Lane/Jungle Clear [Q;W]\n* Auto Ignite\n\n#### Supported items:\n* Tiamat\n* Hydra\n* Yommu's Ghostblade\n* Sword of the Divine\n\nNami\n===========\n#### Features:\n* Full Combo [Q;W;E;R]\n* Harass [W]\n* Use _Aqua Prision_ on Gapclosers (Not tested)\n* Use _Aqua Prision_ on Dashes / Immobile targets\n* Interrupt spells [Q;R]\n* Auto Heal Ally's \n* Block Attacks to Minions that aren't on Ally's range [Mixed Mode]\n\nNidalee\n===========\n### Features:\n* Full Combo [Q;W;E;R;Items]\n* Harass [Human: Q;W]\n* Lane/Jungle Clear [Cougar: Q;W;E // Human: E] \n",
-    "Points": 0,
-    "Votes": 0,
-    "Url": "https://github.com/madk/LeagueSharp",
-    "Repositroy": "LeagueSharp",
-    "Developer": "madk",
-    "Category": "Champion"
-  },
-  {
-    "Name": "Nidalee",
-    "Description": "Talon\n===========\n#### Features:\n* Full Combo [Q;W;E;R;Items;Ignite]\n* Ultimate Rush on Killabe Targets\n* Harass [W]\n* Lane/Jungle Clear [Q;W]\n* Auto Ignite\n\n#### Supported items:\n* Tiamat\n* Hydra\n* Yommu's Ghostblade\n* Sword of the Divine\n\nNami\n===========\n#### Features:\n* Full Combo [Q;W;E;R]\n* Harass [W]\n* Use _Aqua Prision_ on Gapclosers (Not tested)\n* Use _Aqua Prision_ on Dashes / Immobile targets\n* Interrupt spells [Q;R]\n* Auto Heal Ally's \n* Block Attacks to Minions that aren't on Ally's range [Mixed Mode]\n\nNidalee\n===========\n### Features:\n* Full Combo [Q;W;E;R;Items]\n* Harass [Human: Q;W]\n* Lane/Jungle Clear [Cougar: Q;W;E // Human: E] \n",
-    "Points": 0,
-    "Votes": 0,
-    "Url": "https://github.com/madk/LeagueSharp",
-    "Repositroy": "LeagueSharp",
-    "Developer": "madk",
-    "Category": "Champion"
-  },
-  {
-    "Name": "Talon",
-    "Description": "Talon\n===========\n#### Features:\n* Full Combo [Q;W;E;R;Items;Ignite]\n* Ultimate Rush on Killabe Targets\n* Harass [W]\n* Lane/Jungle Clear [Q;W]\n* Auto Ignite\n\n#### Supported items:\n* Tiamat\n* Hydra\n* Yommu's Ghostblade\n* Sword of the Divine\n\nNami\n===========\n#### Features:\n* Full Combo [Q;W;E;R]\n* Harass [W]\n* Use _Aqua Prision_ on Gapclosers (Not tested)\n* Use _Aqua Prision_ on Dashes / Immobile targets\n* Interrupt spells [Q;R]\n* Auto Heal Ally's \n* Block Attacks to Minions that aren't on Ally's range [Mixed Mode]\n\nNidalee\n===========\n### Features:\n* Full Combo [Q;W;E;R;Items]\n* Harass [Human: Q;W]\n* Lane/Jungle Clear [Cougar: Q;W;E // Human: E] \n",
-    "Points": 0,
-    "Votes": 0,
-    "Url": "https://github.com/madk/LeagueSharp",
-    "Repositroy": "LeagueSharp",
-    "Developer": "madk",
-    "Category": "Champion"
-  },
-  {
-    "Name": "AutoPotion",
-    "Description": "LeagueSharp\n===========\n\nAutoPotion\n-----------\nAutoPotion will automatically consume potions (health/mana) if your champion drops down a specific percentage.\n\nCloneRevealer\n------------\nCloneRevearler helps you to indentify champions who can create clones. It draws a circle around these champions.\n\nJungleTimers\n------------\nJungleTimers will draw all the timers from jungle camps, which you had vision on when they got cleared, on the minimap.\n\nLasthitMarker\n--------------\nLasthitMarker draws circles around minions which can be killed with one autoattack.\n\nConsiders also armor, magic resist, runes and mastieres.\n\nMapHack\n--------\nMapHack draws the last position from invisible enemys on the minimap.\n\nQuickSmite\n-----------\nQuickSmite automatically smites big jungle camps (Baron, Dragon, Blue, Red) when they can get killed.\n\nToasterLoading\n------------\nToasterLoading prolongs the loading screen by ~4 minutes.\n\n### Shortcuts:\n#### Spacebar\n    Stop ToasterLoading and continue loading the game.\n\nUniversalLeveler\n---------------\nUniversalLeveler automatically levels up your spells. From level 2-3 or 2-4 it uses a selectable pattern.\n\nWaypointTracker\n---------------\nWaypointTracker draws the current path from all champions.\n\nSnakeSharp\n----------\nSnakeSharp brings the famous game directly into League of Legends.\n\n### Shortcuts:\n\n#### Numpad 5\n\n    Open and close SnakeSharp. Does auto pause it.\n#### +\n\n    Increase speed.\n#### -\n\n    Decrease speed.\n#### Arrow Keys\n\n    Move.\n\nPacketLogger\n------------\nPacketLogger helps you to debug incoming and outgoing packets from League of Legends with LeagueSharp.\n\n### Shortcuts:\n\n#### Tab\n\n    Enable/disable the PacketLogger.\n#### Spacebar\n\n    Enable/disable the PacketLogger as long as you press the key.\n#### Numpad 0\n\n    Clears the console.\n#### Numpad 1\n\n    Enable/disable the logging from all outgoing packets.\n#### Numpad 2\n\n    Enable/disable the logging from all incoming packets.\n#### Numpad 3\n\n    Enable/disable the drawing from circles around objects which are in a radius from 300 to the cursor.\n#### Numpad 5\n\n    Log all objects which are in a radius from 300 to the Cursor.\n#### Numpad 7\n\n    Logs the current player networkid.\n#### Numpad 8\n\n    Logs the current player position.\n#### Numpad +\n\n    Brings the console to the foreground.\n\nLicense\n-------\n\nGNU - General Public License\n\n\n**Free Software, Hell Yeah!**\n\n[Nikita Bernthaler]:http://smokyfox.com/",
-    "Points": 0,
-    "Votes": 0,
-    "Url": "https://github.com/Lizzaran/LeagueSharp",
-    "Repositroy": "LeagueSharp",
-    "Developer": "Lizzaran",
-    "Category": "Utility"
-  },
-  {
-    "Name": "Cassinator",
-    "Description": "LeagueSharp\n===========\n\nAutoPotion\n-----------\nAutoPotion will automatically consume potions (health/mana) if your champion drops down a specific percentage.\n\nCloneRevealer\n------------\nCloneRevearler helps you to indentify champions who can create clones. It draws a circle around these champions.\n\nJungleTimers\n------------\nJungleTimers will draw all the timers from jungle camps, which you had vision on when they got cleared, on the minimap.\n\nLasthitMarker\n--------------\nLasthitMarker draws circles around minions which can be killed with one autoattack.\n\nConsiders also armor, magic resist, runes and mastieres.\n\nMapHack\n--------\nMapHack draws the last position from invisible enemys on the minimap.\n\nQuickSmite\n-----------\nQuickSmite automatically smites big jungle camps (Baron, Dragon, Blue, Red) when they can get killed.\n\nToasterLoading\n------------\nToasterLoading prolongs the loading screen by ~4 minutes.\n\n### Shortcuts:\n#### Spacebar\n    Stop ToasterLoading and continue loading the game.\n\nUniversalLeveler\n---------------\nUniversalLeveler automatically levels up your spells. From level 2-3 or 2-4 it uses a selectable pattern.\n\nWaypointTracker\n---------------\nWaypointTracker draws the current path from all champions.\n\nSnakeSharp\n----------\nSnakeSharp brings the famous game directly into League of Legends.\n\n### Shortcuts:\n\n#### Numpad 5\n\n    Open and close SnakeSharp. Does auto pause it.\n#### +\n\n    Increase speed.\n#### -\n\n    Decrease speed.\n#### Arrow Keys\n\n    Move.\n\nPacketLogger\n------------\nPacketLogger helps you to debug incoming and outgoing packets from League of Legends with LeagueSharp.\n\n### Shortcuts:\n\n#### Tab\n\n    Enable/disable the PacketLogger.\n#### Spacebar\n\n    Enable/disable the PacketLogger as long as you press the key.\n#### Numpad 0\n\n    Clears the console.\n#### Numpad 1\n\n    Enable/disable the logging from all outgoing packets.\n#### Numpad 2\n\n    Enable/disable the logging from all incoming packets.\n#### Numpad 3\n\n    Enable/disable the drawing from circles around objects which are in a radius from 300 to the cursor.\n#### Numpad 5\n\n    Log all objects which are in a radius from 300 to the Cursor.\n#### Numpad 7\n\n    Logs the current player networkid.\n#### Numpad 8\n\n    Logs the current player position.\n#### Numpad +\n\n    Brings the console to the foreground.\n\nLicense\n-------\n\nGNU - General Public License\n\n\n**Free Software, Hell Yeah!**\n\n[Nikita Bernthaler]:http://smokyfox.com/",
-    "Points": 0,
-    "Votes": 0,
-    "Url": "https://github.com/Lizzaran/LeagueSharp",
-    "Repositroy": "LeagueSharp",
-    "Developer": "Lizzaran",
-    "Category": "Champion"
-  },
-  {
-    "Name": "CloneRevealer",
-    "Description": "LeagueSharp\n===========\n\nAutoPotion\n-----------\nAutoPotion will automatically consume potions (health/mana) if your champion drops down a specific percentage.\n\nCloneRevealer\n------------\nCloneRevearler helps you to indentify champions who can create clones. It draws a circle around these champions.\n\nJungleTimers\n------------\nJungleTimers will draw all the timers from jungle camps, which you had vision on when they got cleared, on the minimap.\n\nLasthitMarker\n--------------\nLasthitMarker draws circles around minions which can be killed with one autoattack.\n\nConsiders also armor, magic resist, runes and mastieres.\n\nMapHack\n--------\nMapHack draws the last position from invisible enemys on the minimap.\n\nQuickSmite\n-----------\nQuickSmite automatically smites big jungle camps (Baron, Dragon, Blue, Red) when they can get killed.\n\nToasterLoading\n------------\nToasterLoading prolongs the loading screen by ~4 minutes.\n\n### Shortcuts:\n#### Spacebar\n    Stop ToasterLoading and continue loading the game.\n\nUniversalLeveler\n---------------\nUniversalLeveler automatically levels up your spells. From level 2-3 or 2-4 it uses a selectable pattern.\n\nWaypointTracker\n---------------\nWaypointTracker draws the current path from all champions.\n\nSnakeSharp\n----------\nSnakeSharp brings the famous game directly into League of Legends.\n\n### Shortcuts:\n\n#### Numpad 5\n\n    Open and close SnakeSharp. Does auto pause it.\n#### +\n\n    Increase speed.\n#### -\n\n    Decrease speed.\n#### Arrow Keys\n\n    Move.\n\nPacketLogger\n------------\nPacketLogger helps you to debug incoming and outgoing packets from League of Legends with LeagueSharp.\n\n### Shortcuts:\n\n#### Tab\n\n    Enable/disable the PacketLogger.\n#### Spacebar\n\n    Enable/disable the PacketLogger as long as you press the key.\n#### Numpad 0\n\n    Clears the console.\n#### Numpad 1\n\n    Enable/disable the logging from all outgoing packets.\n#### Numpad 2\n\n    Enable/disable the logging from all incoming packets.\n#### Numpad 3\n\n    Enable/disable the drawing from circles around objects which are in a radius from 300 to the cursor.\n#### Numpad 5\n\n    Log all objects which are in a radius from 300 to the Cursor.\n#### Numpad 7\n\n    Logs the current player networkid.\n#### Numpad 8\n\n    Logs the current player position.\n#### Numpad +\n\n    Brings the console to the foreground.\n\nLicense\n-------\n\nGNU - General Public License\n\n\n**Free Software, Hell Yeah!**\n\n[Nikita Bernthaler]:http://smokyfox.com/",
-    "Points": 0,
-    "Votes": 0,
-    "Url": "https://github.com/Lizzaran/LeagueSharp",
-    "Repositroy": "LeagueSharp",
-    "Developer": "Lizzaran",
-    "Category": "Utility"
-  },
-  {
-    "Name": "Alistar",
-    "Description": "LeagueSharp\n===========\n\nAssemblies for L#\n\nLeona\n===========\nQ - Before AA, On AA, After AA.\n\nW.\n\nE.\n\nR - When target is stunned ( you can press T to auto aim the ultimate if the target did not get stunned ).\n\nAlistar\n===========\nW-Q Combo ( Will use W and Q if it is possible to do the headbutt combo. Otherwise will just use Q).\n\nInterrupt with W and Q.\n\nKillsteal with Q, W.\n",
-    "Points": 0,
-    "Votes": 0,
-    "Url": "https://github.com/OnlyTheBest/LeagueSharp",
-    "Repositroy": "LeagueSharp",
-    "Developer": "OnlyTheBest",
-    "Category": "Champion"
-  },
-  {
-    "Name": "Igniter",
-    "Description": "LeagueSharp\n===========\n\nAutoPotion\n-----------\nAutoPotion will automatically consume potions (health/mana) if your champion drops down a specific percentage.\n\nCloneRevealer\n------------\nCloneRevearler helps you to indentify champions who can create clones. It draws a circle around these champions.\n\nJungleTimers\n------------\nJungleTimers will draw all the timers from jungle camps, which you had vision on when they got cleared, on the minimap.\n\nLasthitMarker\n--------------\nLasthitMarker draws circles around minions which can be killed with one autoattack.\n\nConsiders also armor, magic resist, runes and mastieres.\n\nMapHack\n--------\nMapHack draws the last position from invisible enemys on the minimap.\n\nQuickSmite\n-----------\nQuickSmite automatically smites big jungle camps (Baron, Dragon, Blue, Red) when they can get killed.\n\nToasterLoading\n------------\nToasterLoading prolongs the loading screen by ~4 minutes.\n\n### Shortcuts:\n#### Spacebar\n    Stop ToasterLoading and continue loading the game.\n\nUniversalLeveler\n---------------\nUniversalLeveler automatically levels up your spells. From level 2-3 or 2-4 it uses a selectable pattern.\n\nWaypointTracker\n---------------\nWaypointTracker draws the current path from all champions.\n\nSnakeSharp\n----------\nSnakeSharp brings the famous game directly into League of Legends.\n\n### Shortcuts:\n\n#### Numpad 5\n\n    Open and close SnakeSharp. Does auto pause it.\n#### +\n\n    Increase speed.\n#### -\n\n    Decrease speed.\n#### Arrow Keys\n\n    Move.\n\nPacketLogger\n------------\nPacketLogger helps you to debug incoming and outgoing packets from League of Legends with LeagueSharp.\n\n### Shortcuts:\n\n#### Tab\n\n    Enable/disable the PacketLogger.\n#### Spacebar\n\n    Enable/disable the PacketLogger as long as you press the key.\n#### Numpad 0\n\n    Clears the console.\n#### Numpad 1\n\n    Enable/disable the logging from all outgoing packets.\n#### Numpad 2\n\n    Enable/disable the logging from all incoming packets.\n#### Numpad 3\n\n    Enable/disable the drawing from circles around objects which are in a radius from 300 to the cursor.\n#### Numpad 5\n\n    Log all objects which are in a radius from 300 to the Cursor.\n#### Numpad 7\n\n    Logs the current player networkid.\n#### Numpad 8\n\n    Logs the current player position.\n#### Numpad +\n\n    Brings the console to the foreground.\n\nLicense\n-------\n\nGNU - General Public License\n\n\n**Free Software, Hell Yeah!**\n\n[Nikita Bernthaler]:http://smokyfox.com/",
-    "Points": 0,
-    "Votes": 0,
-    "Url": "https://github.com/Lizzaran/LeagueSharp",
-    "Repositroy": "LeagueSharp",
-    "Developer": "Lizzaran",
-    "Category": "Library"
-  },
-  {
-    "Name": "Leona",
-    "Description": "LeagueSharp\n===========\n\nAssemblies for L#\n\nLeona\n===========\nQ - Before AA, On AA, After AA.\n\nW.\n\nE.\n\nR - When target is stunned ( you can press T to auto aim the ultimate if the target did not get stunned ).\n\nAlistar\n===========\nW-Q Combo ( Will use W and Q if it is possible to do the headbutt combo. Otherwise will just use Q).\n\nInterrupt with W and Q.\n\nKillsteal with Q, W.\n",
-    "Points": 0,
-    "Votes": 0,
-    "Url": "https://github.com/OnlyTheBest/LeagueSharp",
-    "Repositroy": "LeagueSharp",
-    "Developer": "OnlyTheBest",
-    "Category": "Champion"
-  },
-  {
-    "Name": "Nasus",
-    "Description": "LeagueSharp\n===========\n\nAssemblies for L#\n\nLeona\n===========\nQ - Before AA, On AA, After AA.\n\nW.\n\nE.\n\nR - When target is stunned ( you can press T to auto aim the ultimate if the target did not get stunned ).\n\nAlistar\n===========\nW-Q Combo ( Will use W and Q if it is possible to do the headbutt combo. Otherwise will just use Q).\n\nInterrupt with W and Q.\n\nKillsteal with Q, W.\n",
-    "Points": 0,
-    "Votes": 0,
-    "Url": "https://github.com/OnlyTheBest/LeagueSharp",
-    "Repositroy": "LeagueSharp",
-    "Developer": "OnlyTheBest",
-    "Category": "Champion"
-  },
-  {
-    "Name": "JungleTimers",
-    "Description": "LeagueSharp\n===========\n\nAutoPotion\n-----------\nAutoPotion will automatically consume potions (health/mana) if your champion drops down a specific percentage.\n\nCloneRevealer\n------------\nCloneRevearler helps you to indentify champions who can create clones. It draws a circle around these champions.\n\nJungleTimers\n------------\nJungleTimers will draw all the timers from jungle camps, which you had vision on when they got cleared, on the minimap.\n\nLasthitMarker\n--------------\nLasthitMarker draws circles around minions which can be killed with one autoattack.\n\nConsiders also armor, magic resist, runes and mastieres.\n\nMapHack\n--------\nMapHack draws the last position from invisible enemys on the minimap.\n\nQuickSmite\n-----------\nQuickSmite automatically smites big jungle camps (Baron, Dragon, Blue, Red) when they can get killed.\n\nToasterLoading\n------------\nToasterLoading prolongs the loading screen by ~4 minutes.\n\n### Shortcuts:\n#### Spacebar\n    Stop ToasterLoading and continue loading the game.\n\nUniversalLeveler\n---------------\nUniversalLeveler automatically levels up your spells. From level 2-3 or 2-4 it uses a selectable pattern.\n\nWaypointTracker\n---------------\nWaypointTracker draws the current path from all champions.\n\nSnakeSharp\n----------\nSnakeSharp brings the famous game directly into League of Legends.\n\n### Shortcuts:\n\n#### Numpad 5\n\n    Open and close SnakeSharp. Does auto pause it.\n#### +\n\n    Increase speed.\n#### -\n\n    Decrease speed.\n#### Arrow Keys\n\n    Move.\n\nPacketLogger\n------------\nPacketLogger helps you to debug incoming and outgoing packets from League of Legends with LeagueSharp.\n\n### Shortcuts:\n\n#### Tab\n\n    Enable/disable the PacketLogger.\n#### Spacebar\n\n    Enable/disable the PacketLogger as long as you press the key.\n#### Numpad 0\n\n    Clears the console.\n#### Numpad 1\n\n    Enable/disable the logging from all outgoing packets.\n#### Numpad 2\n\n    Enable/disable the logging from all incoming packets.\n#### Numpad 3\n\n    Enable/disable the drawing from circles around objects which are in a radius from 300 to the cursor.\n#### Numpad 5\n\n    Log all objects which are in a radius from 300 to the Cursor.\n#### Numpad 7\n\n    Logs the current player networkid.\n#### Numpad 8\n\n    Logs the current player position.\n#### Numpad +\n\n    Brings the console to the foreground.\n\nLicense\n-------\n\nGNU - General Public License\n\n\n**Free Software, Hell Yeah!**\n\n[Nikita Bernthaler]:http://smokyfox.com/",
-    "Points": 0,
-    "Votes": 0,
-    "Url": "https://github.com/Lizzaran/LeagueSharp",
-    "Repositroy": "LeagueSharp",
-    "Developer": "Lizzaran",
-    "Category": "Utility"
-  },
-  {
-    "Name": "LasthitMarker",
-    "Description": "LeagueSharp\n===========\n\nAutoPotion\n-----------\nAutoPotion will automatically consume potions (health/mana) if your champion drops down a specific percentage.\n\nCloneRevealer\n------------\nCloneRevearler helps you to indentify champions who can create clones. It draws a circle around these champions.\n\nJungleTimers\n------------\nJungleTimers will draw all the timers from jungle camps, which you had vision on when they got cleared, on the minimap.\n\nLasthitMarker\n--------------\nLasthitMarker draws circles around minions which can be killed with one autoattack.\n\nConsiders also armor, magic resist, runes and mastieres.\n\nMapHack\n--------\nMapHack draws the last position from invisible enemys on the minimap.\n\nQuickSmite\n-----------\nQuickSmite automatically smites big jungle camps (Baron, Dragon, Blue, Red) when they can get killed.\n\nToasterLoading\n------------\nToasterLoading prolongs the loading screen by ~4 minutes.\n\n### Shortcuts:\n#### Spacebar\n    Stop ToasterLoading and continue loading the game.\n\nUniversalLeveler\n---------------\nUniversalLeveler automatically levels up your spells. From level 2-3 or 2-4 it uses a selectable pattern.\n\nWaypointTracker\n---------------\nWaypointTracker draws the current path from all champions.\n\nSnakeSharp\n----------\nSnakeSharp brings the famous game directly into League of Legends.\n\n### Shortcuts:\n\n#### Numpad 5\n\n    Open and close SnakeSharp. Does auto pause it.\n#### +\n\n    Increase speed.\n#### -\n\n    Decrease speed.\n#### Arrow Keys\n\n    Move.\n\nPacketLogger\n------------\nPacketLogger helps you to debug incoming and outgoing packets from League of Legends with LeagueSharp.\n\n### Shortcuts:\n\n#### Tab\n\n    Enable/disable the PacketLogger.\n#### Spacebar\n\n    Enable/disable the PacketLogger as long as you press the key.\n#### Numpad 0\n\n    Clears the console.\n#### Numpad 1\n\n    Enable/disable the logging from all outgoing packets.\n#### Numpad 2\n\n    Enable/disable the logging from all incoming packets.\n#### Numpad 3\n\n    Enable/disable the drawing from circles around objects which are in a radius from 300 to the cursor.\n#### Numpad 5\n\n    Log all objects which are in a radius from 300 to the Cursor.\n#### Numpad 7\n\n    Logs the current player networkid.\n#### Numpad 8\n\n    Logs the current player position.\n#### Numpad +\n\n    Brings the console to the foreground.\n\nLicense\n-------\n\nGNU - General Public License\n\n\n**Free Software, Hell Yeah!**\n\n[Nikita Bernthaler]:http://smokyfox.com/",
-    "Points": 0,
-    "Votes": 0,
-    "Url": "https://github.com/Lizzaran/LeagueSharp",
-    "Repositroy": "LeagueSharp",
-    "Developer": "Lizzaran",
-    "Category": "Utility"
-  },
-  {
-    "Name": "EasyEzreal",
-    "Description": "LeagueSharp\n===========\n\nL# Assemblies\n",
-    "Points": 0,
-    "Votes": 0,
-    "Url": "https://github.com/ikkeflikkeri/LeagueSharp",
-    "Repositroy": "LeagueSharp",
-    "Developer": "ikkeflikkeri",
-    "Category": "Champion"
-  },
-  {
-    "Name": "MapHack",
-    "Description": "LeagueSharp\n===========\n\nAutoPotion\n-----------\nAutoPotion will automatically consume potions (health/mana) if your champion drops down a specific percentage.\n\nCloneRevealer\n------------\nCloneRevearler helps you to indentify champions who can create clones. It draws a circle around these champions.\n\nJungleTimers\n------------\nJungleTimers will draw all the timers from jungle camps, which you had vision on when they got cleared, on the minimap.\n\nLasthitMarker\n--------------\nLasthitMarker draws circles around minions which can be killed with one autoattack.\n\nConsiders also armor, magic resist, runes and mastieres.\n\nMapHack\n--------\nMapHack draws the last position from invisible enemys on the minimap.\n\nQuickSmite\n-----------\nQuickSmite automatically smites big jungle camps (Baron, Dragon, Blue, Red) when they can get killed.\n\nToasterLoading\n------------\nToasterLoading prolongs the loading screen by ~4 minutes.\n\n### Shortcuts:\n#### Spacebar\n    Stop ToasterLoading and continue loading the game.\n\nUniversalLeveler\n---------------\nUniversalLeveler automatically levels up your spells. From level 2-3 or 2-4 it uses a selectable pattern.\n\nWaypointTracker\n---------------\nWaypointTracker draws the current path from all champions.\n\nSnakeSharp\n----------\nSnakeSharp brings the famous game directly into League of Legends.\n\n### Shortcuts:\n\n#### Numpad 5\n\n    Open and close SnakeSharp. Does auto pause it.\n#### +\n\n    Increase speed.\n#### -\n\n    Decrease speed.\n#### Arrow Keys\n\n    Move.\n\nPacketLogger\n------------\nPacketLogger helps you to debug incoming and outgoing packets from League of Legends with LeagueSharp.\n\n### Shortcuts:\n\n#### Tab\n\n    Enable/disable the PacketLogger.\n#### Spacebar\n\n    Enable/disable the PacketLogger as long as you press the key.\n#### Numpad 0\n\n    Clears the console.\n#### Numpad 1\n\n    Enable/disable the logging from all outgoing packets.\n#### Numpad 2\n\n    Enable/disable the logging from all incoming packets.\n#### Numpad 3\n\n    Enable/disable the drawing from circles around objects which are in a radius from 300 to the cursor.\n#### Numpad 5\n\n    Log all objects which are in a radius from 300 to the Cursor.\n#### Numpad 7\n\n    Logs the current player networkid.\n#### Numpad 8\n\n    Logs the current player position.\n#### Numpad +\n\n    Brings the console to the foreground.\n\nLicense\n-------\n\nGNU - General Public License\n\n\n**Free Software, Hell Yeah!**\n\n[Nikita Bernthaler]:http://smokyfox.com/",
-    "Points": 0,
-    "Votes": 0,
-    "Url": "https://github.com/Lizzaran/LeagueSharp",
-    "Repositroy": "LeagueSharp",
-    "Developer": "Lizzaran",
-    "Category": "Utility"
-  },
-  {
-    "Name": "EasyKogMaw",
-    "Description": "LeagueSharp\n===========\n\nL# Assemblies\n",
-    "Points": 0,
-    "Votes": 0,
-    "Url": "https://github.com/ikkeflikkeri/LeagueSharp",
-    "Repositroy": "LeagueSharp",
-    "Developer": "ikkeflikkeri",
-    "Category": "Champion"
-  },
-  {
-    "Name": "EasyXerath",
-    "Description": "LeagueSharp\n===========\n\nL# Assemblies\n",
-    "Points": 0,
-    "Votes": 0,
-    "Url": "https://github.com/ikkeflikkeri/LeagueSharp",
-    "Repositroy": "LeagueSharp",
-    "Developer": "ikkeflikkeri",
-    "Category": "Champion"
-  },
-  {
-    "Name": "PacketLogger",
-    "Description": "LeagueSharp\n===========\n\nAutoPotion\n-----------\nAutoPotion will automatically consume potions (health/mana) if your champion drops down a specific percentage.\n\nCloneRevealer\n------------\nCloneRevearler helps you to indentify champions who can create clones. It draws a circle around these champions.\n\nJungleTimers\n------------\nJungleTimers will draw all the timers from jungle camps, which you had vision on when they got cleared, on the minimap.\n\nLasthitMarker\n--------------\nLasthitMarker draws circles around minions which can be killed with one autoattack.\n\nConsiders also armor, magic resist, runes and mastieres.\n\nMapHack\n--------\nMapHack draws the last position from invisible enemys on the minimap.\n\nQuickSmite\n-----------\nQuickSmite automatically smites big jungle camps (Baron, Dragon, Blue, Red) when they can get killed.\n\nToasterLoading\n------------\nToasterLoading prolongs the loading screen by ~4 minutes.\n\n### Shortcuts:\n#### Spacebar\n    Stop ToasterLoading and continue loading the game.\n\nUniversalLeveler\n---------------\nUniversalLeveler automatically levels up your spells. From level 2-3 or 2-4 it uses a selectable pattern.\n\nWaypointTracker\n---------------\nWaypointTracker draws the current path from all champions.\n\nSnakeSharp\n----------\nSnakeSharp brings the famous game directly into League of Legends.\n\n### Shortcuts:\n\n#### Numpad 5\n\n    Open and close SnakeSharp. Does auto pause it.\n#### +\n\n    Increase speed.\n#### -\n\n    Decrease speed.\n#### Arrow Keys\n\n    Move.\n\nPacketLogger\n------------\nPacketLogger helps you to debug incoming and outgoing packets from League of Legends with LeagueSharp.\n\n### Shortcuts:\n\n#### Tab\n\n    Enable/disable the PacketLogger.\n#### Spacebar\n\n    Enable/disable the PacketLogger as long as you press the key.\n#### Numpad 0\n\n    Clears the console.\n#### Numpad 1\n\n    Enable/disable the logging from all outgoing packets.\n#### Numpad 2\n\n    Enable/disable the logging from all incoming packets.\n#### Numpad 3\n\n    Enable/disable the drawing from circles around objects which are in a radius from 300 to the cursor.\n#### Numpad 5\n\n    Log all objects which are in a radius from 300 to the Cursor.\n#### Numpad 7\n\n    Logs the current player networkid.\n#### Numpad 8\n\n    Logs the current player position.\n#### Numpad +\n\n    Brings the console to the foreground.\n\nLicense\n-------\n\nGNU - General Public License\n\n\n**Free Software, Hell Yeah!**\n\n[Nikita Bernthaler]:http://smokyfox.com/",
-    "Points": 0,
-    "Votes": 0,
-    "Url": "https://github.com/Lizzaran/LeagueSharp",
-    "Repositroy": "LeagueSharp",
-    "Developer": "Lizzaran",
-    "Category": "Utility"
-  },
-  {
-    "Name": "QuickSmite",
-    "Description": "LeagueSharp\n===========\n\nAutoPotion\n-----------\nAutoPotion will automatically consume potions (health/mana) if your champion drops down a specific percentage.\n\nCloneRevealer\n------------\nCloneRevearler helps you to indentify champions who can create clones. It draws a circle around these champions.\n\nJungleTimers\n------------\nJungleTimers will draw all the timers from jungle camps, which you had vision on when they got cleared, on the minimap.\n\nLasthitMarker\n--------------\nLasthitMarker draws circles around minions which can be killed with one autoattack.\n\nConsiders also armor, magic resist, runes and mastieres.\n\nMapHack\n--------\nMapHack draws the last position from invisible enemys on the minimap.\n\nQuickSmite\n-----------\nQuickSmite automatically smites big jungle camps (Baron, Dragon, Blue, Red) when they can get killed.\n\nToasterLoading\n------------\nToasterLoading prolongs the loading screen by ~4 minutes.\n\n### Shortcuts:\n#### Spacebar\n    Stop ToasterLoading and continue loading the game.\n\nUniversalLeveler\n---------------\nUniversalLeveler automatically levels up your spells. From level 2-3 or 2-4 it uses a selectable pattern.\n\nWaypointTracker\n---------------\nWaypointTracker draws the current path from all champions.\n\nSnakeSharp\n----------\nSnakeSharp brings the famous game directly into League of Legends.\n\n### Shortcuts:\n\n#### Numpad 5\n\n    Open and close SnakeSharp. Does auto pause it.\n#### +\n\n    Increase speed.\n#### -\n\n    Decrease speed.\n#### Arrow Keys\n\n    Move.\n\nPacketLogger\n------------\nPacketLogger helps you to debug incoming and outgoing packets from League of Legends with LeagueSharp.\n\n### Shortcuts:\n\n#### Tab\n\n    Enable/disable the PacketLogger.\n#### Spacebar\n\n    Enable/disable the PacketLogger as long as you press the key.\n#### Numpad 0\n\n    Clears the console.\n#### Numpad 1\n\n    Enable/disable the logging from all outgoing packets.\n#### Numpad 2\n\n    Enable/disable the logging from all incoming packets.\n#### Numpad 3\n\n    Enable/disable the drawing from circles around objects which are in a radius from 300 to the cursor.\n#### Numpad 5\n\n    Log all objects which are in a radius from 300 to the Cursor.\n#### Numpad 7\n\n    Logs the current player networkid.\n#### Numpad 8\n\n    Logs the current player position.\n#### Numpad +\n\n    Brings the console to the foreground.\n\nLicense\n-------\n\nGNU - General Public License\n\n\n**Free Software, Hell Yeah!**\n\n[Nikita Bernthaler]:http://smokyfox.com/",
-    "Points": 0,
-    "Votes": 0,
-    "Url": "https://github.com/Lizzaran/LeagueSharp",
-    "Repositroy": "LeagueSharp",
-    "Developer": "Lizzaran",
-    "Category": "Utility"
-  },
-  {
-    "Name": "SnakeSharp",
-    "Description": "LeagueSharp\n===========\n\nAutoPotion\n-----------\nAutoPotion will automatically consume potions (health/mana) if your champion drops down a specific percentage.\n\nCloneRevealer\n------------\nCloneRevearler helps you to indentify champions who can create clones. It draws a circle around these champions.\n\nJungleTimers\n------------\nJungleTimers will draw all the timers from jungle camps, which you had vision on when they got cleared, on the minimap.\n\nLasthitMarker\n--------------\nLasthitMarker draws circles around minions which can be killed with one autoattack.\n\nConsiders also armor, magic resist, runes and mastieres.\n\nMapHack\n--------\nMapHack draws the last position from invisible enemys on the minimap.\n\nQuickSmite\n-----------\nQuickSmite automatically smites big jungle camps (Baron, Dragon, Blue, Red) when they can get killed.\n\nToasterLoading\n------------\nToasterLoading prolongs the loading screen by ~4 minutes.\n\n### Shortcuts:\n#### Spacebar\n    Stop ToasterLoading and continue loading the game.\n\nUniversalLeveler\n---------------\nUniversalLeveler automatically levels up your spells. From level 2-3 or 2-4 it uses a selectable pattern.\n\nWaypointTracker\n---------------\nWaypointTracker draws the current path from all champions.\n\nSnakeSharp\n----------\nSnakeSharp brings the famous game directly into League of Legends.\n\n### Shortcuts:\n\n#### Numpad 5\n\n    Open and close SnakeSharp. Does auto pause it.\n#### +\n\n    Increase speed.\n#### -\n\n    Decrease speed.\n#### Arrow Keys\n\n    Move.\n\nPacketLogger\n------------\nPacketLogger helps you to debug incoming and outgoing packets from League of Legends with LeagueSharp.\n\n### Shortcuts:\n\n#### Tab\n\n    Enable/disable the PacketLogger.\n#### Spacebar\n\n    Enable/disable the PacketLogger as long as you press the key.\n#### Numpad 0\n\n    Clears the console.\n#### Numpad 1\n\n    Enable/disable the logging from all outgoing packets.\n#### Numpad 2\n\n    Enable/disable the logging from all incoming packets.\n#### Numpad 3\n\n    Enable/disable the drawing from circles around objects which are in a radius from 300 to the cursor.\n#### Numpad 5\n\n    Log all objects which are in a radius from 300 to the Cursor.\n#### Numpad 7\n\n    Logs the current player networkid.\n#### Numpad 8\n\n    Logs the current player position.\n#### Numpad +\n\n    Brings the console to the foreground.\n\nLicense\n-------\n\nGNU - General Public License\n\n\n**Free Software, Hell Yeah!**\n\n[Nikita Bernthaler]:http://smokyfox.com/",
-    "Points": 0,
-    "Votes": 0,
-    "Url": "https://github.com/Lizzaran/LeagueSharp",
-    "Repositroy": "LeagueSharp",
-    "Developer": "Lizzaran",
-    "Category": "Champion"
-  },
-  {
-    "Name": "ToasterLoading",
-    "Description": "LeagueSharp\n===========\n\nAutoPotion\n-----------\nAutoPotion will automatically consume potions (health/mana) if your champion drops down a specific percentage.\n\nCloneRevealer\n------------\nCloneRevearler helps you to indentify champions who can create clones. It draws a circle around these champions.\n\nJungleTimers\n------------\nJungleTimers will draw all the timers from jungle camps, which you had vision on when they got cleared, on the minimap.\n\nLasthitMarker\n--------------\nLasthitMarker draws circles around minions which can be killed with one autoattack.\n\nConsiders also armor, magic resist, runes and mastieres.\n\nMapHack\n--------\nMapHack draws the last position from invisible enemys on the minimap.\n\nQuickSmite\n-----------\nQuickSmite automatically smites big jungle camps (Baron, Dragon, Blue, Red) when they can get killed.\n\nToasterLoading\n------------\nToasterLoading prolongs the loading screen by ~4 minutes.\n\n### Shortcuts:\n#### Spacebar\n    Stop ToasterLoading and continue loading the game.\n\nUniversalLeveler\n---------------\nUniversalLeveler automatically levels up your spells. From level 2-3 or 2-4 it uses a selectable pattern.\n\nWaypointTracker\n---------------\nWaypointTracker draws the current path from all champions.\n\nSnakeSharp\n----------\nSnakeSharp brings the famous game directly into League of Legends.\n\n### Shortcuts:\n\n#### Numpad 5\n\n    Open and close SnakeSharp. Does auto pause it.\n#### +\n\n    Increase speed.\n#### -\n\n    Decrease speed.\n#### Arrow Keys\n\n    Move.\n\nPacketLogger\n------------\nPacketLogger helps you to debug incoming and outgoing packets from League of Legends with LeagueSharp.\n\n### Shortcuts:\n\n#### Tab\n\n    Enable/disable the PacketLogger.\n#### Spacebar\n\n    Enable/disable the PacketLogger as long as you press the key.\n#### Numpad 0\n\n    Clears the console.\n#### Numpad 1\n\n    Enable/disable the logging from all outgoing packets.\n#### Numpad 2\n\n    Enable/disable the logging from all incoming packets.\n#### Numpad 3\n\n    Enable/disable the drawing from circles around objects which are in a radius from 300 to the cursor.\n#### Numpad 5\n\n    Log all objects which are in a radius from 300 to the Cursor.\n#### Numpad 7\n\n    Logs the current player networkid.\n#### Numpad 8\n\n    Logs the current player position.\n#### Numpad +\n\n    Brings the console to the foreground.\n\nLicense\n-------\n\nGNU - General Public License\n\n\n**Free Software, Hell Yeah!**\n\n[Nikita Bernthaler]:http://smokyfox.com/",
-    "Points": 0,
-    "Votes": 0,
-    "Url": "https://github.com/Lizzaran/LeagueSharp",
-    "Repositroy": "LeagueSharp",
-    "Developer": "Lizzaran",
-    "Category": "Utility"
-  },
-  {
-    "Name": "SFAhri",
-    "Description": "SFScripts\n=========\n###SFKatarina\nThe best katarina script on the market for League#\n\n###SFAhri\nJust a request script with a basic combo, only took 20 minutes. Will update soon. Request features on IRC\n\n###SFMasterYi\nAnother request script but ive been spammed with things to do for it so I will work on that soon.\n\n###SFTemplate\nThis is a code base for new devs, not for you to compile and run ingame.\n",
-    "Points": 0,
-    "Votes": 0,
-    "Url": "https://github.com/Snorflake/SFScripts",
-    "Repositroy": "SFScripts",
-    "Developer": "Snorflake",
-    "Category": "Champion"
-  },
-  {
-    "Name": "UniversalLeveler",
-    "Description": "LeagueSharp\n===========\n\nAutoPotion\n-----------\nAutoPotion will automatically consume potions (health/mana) if your champion drops down a specific percentage.\n\nCloneRevealer\n------------\nCloneRevearler helps you to indentify champions who can create clones. It draws a circle around these champions.\n\nJungleTimers\n------------\nJungleTimers will draw all the timers from jungle camps, which you had vision on when they got cleared, on the minimap.\n\nLasthitMarker\n--------------\nLasthitMarker draws circles around minions which can be killed with one autoattack.\n\nConsiders also armor, magic resist, runes and mastieres.\n\nMapHack\n--------\nMapHack draws the last position from invisible enemys on the minimap.\n\nQuickSmite\n-----------\nQuickSmite automatically smites big jungle camps (Baron, Dragon, Blue, Red) when they can get killed.\n\nToasterLoading\n------------\nToasterLoading prolongs the loading screen by ~4 minutes.\n\n### Shortcuts:\n#### Spacebar\n    Stop ToasterLoading and continue loading the game.\n\nUniversalLeveler\n---------------\nUniversalLeveler automatically levels up your spells. From level 2-3 or 2-4 it uses a selectable pattern.\n\nWaypointTracker\n---------------\nWaypointTracker draws the current path from all champions.\n\nSnakeSharp\n----------\nSnakeSharp brings the famous game directly into League of Legends.\n\n### Shortcuts:\n\n#### Numpad 5\n\n    Open and close SnakeSharp. Does auto pause it.\n#### +\n\n    Increase speed.\n#### -\n\n    Decrease speed.\n#### Arrow Keys\n\n    Move.\n\nPacketLogger\n------------\nPacketLogger helps you to debug incoming and outgoing packets from League of Legends with LeagueSharp.\n\n### Shortcuts:\n\n#### Tab\n\n    Enable/disable the PacketLogger.\n#### Spacebar\n\n    Enable/disable the PacketLogger as long as you press the key.\n#### Numpad 0\n\n    Clears the console.\n#### Numpad 1\n\n    Enable/disable the logging from all outgoing packets.\n#### Numpad 2\n\n    Enable/disable the logging from all incoming packets.\n#### Numpad 3\n\n    Enable/disable the drawing from circles around objects which are in a radius from 300 to the cursor.\n#### Numpad 5\n\n    Log all objects which are in a radius from 300 to the Cursor.\n#### Numpad 7\n\n    Logs the current player networkid.\n#### Numpad 8\n\n    Logs the current player position.\n#### Numpad +\n\n    Brings the console to the foreground.\n\nLicense\n-------\n\nGNU - General Public License\n\n\n**Free Software, Hell Yeah!**\n\n[Nikita Bernthaler]:http://smokyfox.com/",
-    "Points": 0,
-    "Votes": 0,
-    "Url": "https://github.com/Lizzaran/LeagueSharp",
-    "Repositroy": "LeagueSharp",
-    "Developer": "Lizzaran",
-    "Category": "Utility"
-  },
-  {
-    "Name": "SFKatarina",
-    "Description": "SFScripts\n=========\n###SFKatarina\nThe best katarina script on the market for League#\n\n###SFAhri\nJust a request script with a basic combo, only took 20 minutes. Will update soon. Request features on IRC\n\n###SFMasterYi\nAnother request script but ive been spammed with things to do for it so I will work on that soon.\n\n###SFTemplate\nThis is a code base for new devs, not for you to compile and run ingame.\n",
-    "Points": 0,
-    "Votes": 0,
-    "Url": "https://github.com/Snorflake/SFScripts",
-    "Repositroy": "SFScripts",
-    "Developer": "Snorflake",
-    "Category": "Champion"
-  },
-  {
-    "Name": "SFMasterYi",
-    "Description": "SFScripts\n=========\n###SFKatarina\nThe best katarina script on the market for League#\n\n###SFAhri\nJust a request script with a basic combo, only took 20 minutes. Will update soon. Request features on IRC\n\n###SFMasterYi\nAnother request script but ive been spammed with things to do for it so I will work on that soon.\n\n###SFTemplate\nThis is a code base for new devs, not for you to compile and run ingame.\n",
-    "Points": 0,
-    "Votes": 0,
-    "Url": "https://github.com/Snorflake/SFScripts",
-    "Repositroy": "SFScripts",
-    "Developer": "Snorflake",
-    "Category": "Champion"
-  },
-  {
-    "Name": "WaypointTracker",
-    "Description": "LeagueSharp\n===========\n\nAutoPotion\n-----------\nAutoPotion will automatically consume potions (health/mana) if your champion drops down a specific percentage.\n\nCloneRevealer\n------------\nCloneRevearler helps you to indentify champions who can create clones. It draws a circle around these champions.\n\nJungleTimers\n------------\nJungleTimers will draw all the timers from jungle camps, which you had vision on when they got cleared, on the minimap.\n\nLasthitMarker\n--------------\nLasthitMarker draws circles around minions which can be killed with one autoattack.\n\nConsiders also armor, magic resist, runes and mastieres.\n\nMapHack\n--------\nMapHack draws the last position from invisible enemys on the minimap.\n\nQuickSmite\n-----------\nQuickSmite automatically smites big jungle camps (Baron, Dragon, Blue, Red) when they can get killed.\n\nToasterLoading\n------------\nToasterLoading prolongs the loading screen by ~4 minutes.\n\n### Shortcuts:\n#### Spacebar\n    Stop ToasterLoading and continue loading the game.\n\nUniversalLeveler\n---------------\nUniversalLeveler automatically levels up your spells. From level 2-3 or 2-4 it uses a selectable pattern.\n\nWaypointTracker\n---------------\nWaypointTracker draws the current path from all champions.\n\nSnakeSharp\n----------\nSnakeSharp brings the famous game directly into League of Legends.\n\n### Shortcuts:\n\n#### Numpad 5\n\n    Open and close SnakeSharp. Does auto pause it.\n#### +\n\n    Increase speed.\n#### -\n\n    Decrease speed.\n#### Arrow Keys\n\n    Move.\n\nPacketLogger\n------------\nPacketLogger helps you to debug incoming and outgoing packets from League of Legends with LeagueSharp.\n\n### Shortcuts:\n\n#### Tab\n\n    Enable/disable the PacketLogger.\n#### Spacebar\n\n    Enable/disable the PacketLogger as long as you press the key.\n#### Numpad 0\n\n    Clears the console.\n#### Numpad 1\n\n    Enable/disable the logging from all outgoing packets.\n#### Numpad 2\n\n    Enable/disable the logging from all incoming packets.\n#### Numpad 3\n\n    Enable/disable the drawing from circles around objects which are in a radius from 300 to the cursor.\n#### Numpad 5\n\n    Log all objects which are in a radius from 300 to the Cursor.\n#### Numpad 7\n\n    Logs the current player networkid.\n#### Numpad 8\n\n    Logs the current player position.\n#### Numpad +\n\n    Brings the console to the foreground.\n\nLicense\n-------\n\nGNU - General Public License\n\n\n**Free Software, Hell Yeah!**\n\n[Nikita Bernthaler]:http://smokyfox.com/",
-    "Points": 0,
-    "Votes": 0,
-    "Url": "https://github.com/Lizzaran/LeagueSharp",
-    "Repositroy": "LeagueSharp",
-    "Developer": "Lizzaran",
-    "Category": "Utility"
-  },
-  {
-    "Name": "StonedAmumu",
-    "Description": "LeagueSharp Assemblies\n===========\n\nStoned-Amumu\n===========\n\n<img src=\"http://i.imgur.com/mAVdkMH.jpg\" alt=\"StonedAmumu\" height=\"320\" width=\"460\"> \n\nAims Q with collison check.\n\nUsage of W.\n\nUsage of E. \n\nUsage of R If enemies in Range set by user.\n\nOrbWalking .\n\nDraws Ranges.\n\nJungleClear.\n\nUsage of items.\n\nWaveClear.\n\nStoned-Volibear\n===========\n<img src =\"http://i.imgur.com/JnnUTSs.jpg\" alt=\"StonedVolibear\" height\"320\" width=\"460\">\n\nSBTW Combo with W and R logic.  \n\nHarass.\n\nDraws Ranges.\n\nOrbWalking.\n\nUsage of items.\n\n",
-    "Points": 0,
-    "Votes": 0,
-    "Url": "https://github.com/TheKushStyle/LeagueSharp",
-    "Repositroy": "LeagueSharp",
-    "Developer": "TheKushStyle",
-    "Category": "Champion"
-  },
-  {
-    "Name": "StonedVolibear",
-    "Description": "LeagueSharp Assemblies\n===========\n\nStoned-Amumu\n===========\n\n<img src=\"http://i.imgur.com/mAVdkMH.jpg\" alt=\"StonedAmumu\" height=\"320\" width=\"460\"> \n\nAims Q with collison check.\n\nUsage of W.\n\nUsage of E. \n\nUsage of R If enemies in Range set by user.\n\nOrbWalking .\n\nDraws Ranges.\n\nJungleClear.\n\nUsage of items.\n\nWaveClear.\n\nStoned-Volibear\n===========\n<img src =\"http://i.imgur.com/JnnUTSs.jpg\" alt=\"StonedVolibear\" height\"320\" width=\"460\">\n\nSBTW Combo with W and R logic.  \n\nHarass.\n\nDraws Ranges.\n\nOrbWalking.\n\nUsage of items.\n\n",
-    "Points": 0,
-    "Votes": 0,
-    "Url": "https://github.com/TheKushStyle/LeagueSharp",
-    "Repositroy": "LeagueSharp",
-    "Developer": "TheKushStyle",
-    "Category": "Champion"
-  },
-  {
-    "Name": "SAwareness",
-    "Description": "SAwareness\n==========\n\nIf something does not work or you have suggestions contact me please here or in Skype. \nUsername: tHer0x\n\nPlease download the Sprites folder and place it in your Assemblies folder otherwise it will download the required Sprites.\n\nIncludes the following functions:\n\n- Timers\n  - Jungle\n  - Relict\n  - Heal\n  - Inhibitor\n  - Altar\n  - Immune\n- Ranges\n  - Experience \n  - Attack\n  - Tower\n  - SpellQ | Sometimes bugged\n  - SpellW | Sometimes bugged\n  - SpellE | Sometimes bugged\n  - SpellR | Sometimes bugged\n- Tracker\n  - Waypoint\n  - Destination\n  - Clone\n  - UI (Side UI Champion CD's, Recall state etc.)\n  - UIM (Last Champ Position)\n  - SS\n- Detector\n  - Vision (Wards, Traps)\n  - Recall\n- Object Health\n  - Tower\n  - Inhibitor\n- AutoLevler\n  - Priority Mode\n- AutoSmite\n- WardPlacer\n- AutoPot\n\n![Alt text](http://puu.sh/aTVnD/e9b66b129b.jpg \"\")\n",
-    "Points": 0,
-    "Votes": 0,
-    "Url": "https://github.com/Screeder/SAwareness",
-    "Repositroy": "SAwareness",
-    "Developer": "Screeder",
-    "Category": "Utility"
-  },
-  {
     "Name": "Annie",
-    "Description": "Assemblies\n============\n<b>IHateSkillshots:</b> : Aiming any skillshot at target by keypress.\n<br><b>Vladimir:</b> Simple combo/harass with MEC on ulti\n<br><b>IHateCC:</b> : Automatically cleansing control debuffs.",
+    "Description": "",
     "Points": 0,
     "Votes": 0,
     "Url": "https://github.com/trus/L-",
@@ -1291,7 +961,7 @@
   },
   {
     "Name": "Lib",
-    "Description": "Assemblies\n============\n<b>IHateSkillshots:</b> : Aiming any skillshot at target by keypress.\n<br><b>Vladimir:</b> Simple combo/harass with MEC on ulti\n<br><b>IHateCC:</b> : Automatically cleansing control debuffs.",
+    "Description": "",
     "Points": 0,
     "Votes": 0,
     "Url": "https://github.com/trus/L-",
@@ -1301,7 +971,7 @@
   },
   {
     "Name": "IHateCC",
-    "Description": "Assemblies\n============\n<b>IHateSkillshots:</b> : Aiming any skillshot at target by keypress.\n<br><b>Vladimir:</b> Simple combo/harass with MEC on ulti\n<br><b>IHateCC:</b> : Automatically cleansing control debuffs.",
+    "Description": "",
     "Points": 0,
     "Votes": 0,
     "Url": "https://github.com/trus/L-",
@@ -1311,7 +981,7 @@
   },
   {
     "Name": "IhateSkillshots",
-    "Description": "Assemblies\n============\n<b>IHateSkillshots:</b> : Aiming any skillshot at target by keypress.\n<br><b>Vladimir:</b> Simple combo/harass with MEC on ulti\n<br><b>IHateCC:</b> : Automatically cleansing control debuffs.",
+    "Description": "",
     "Points": 0,
     "Votes": 0,
     "Url": "https://github.com/trus/L-",
@@ -1321,7 +991,7 @@
   },
   {
     "Name": "TRUSBot",
-    "Description": "Assemblies\n============\n<b>IHateSkillshots:</b> : Aiming any skillshot at target by keypress.\n<br><b>Vladimir:</b> Simple combo/harass with MEC on ulti\n<br><b>IHateCC:</b> : Automatically cleansing control debuffs.",
+    "Description": "",
     "Points": 0,
     "Votes": 0,
     "Url": "https://github.com/trus/L-",
@@ -1331,7 +1001,17 @@
   },
   {
     "Name": "TRUStInMyBombs",
-    "Description": "Assemblies\n============\n<b>IHateSkillshots:</b> : Aiming any skillshot at target by keypress.\n<br><b>Vladimir:</b> Simple combo/harass with MEC on ulti\n<br><b>IHateCC:</b> : Automatically cleansing control debuffs.",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/trus/L-",
+    "Repositroy": "L-",
+    "Developer": "trus",
+    "Category": "Utility"
+  },
+  {
+    "Name": "Vladimir",
+    "Description": "",
     "Points": 0,
     "Votes": 0,
     "Url": "https://github.com/trus/L-",
@@ -1340,13 +1020,353 @@
     "Category": "Champion"
   },
   {
-    "Name": "Vladimir",
-    "Description": "Assemblies\n============\n<b>IHateSkillshots:</b> : Aiming any skillshot at target by keypress.\n<br><b>Vladimir:</b> Simple combo/harass with MEC on ulti\n<br><b>IHateCC:</b> : Automatically cleansing control debuffs.",
+    "Name": "Irelia",
+    "Description": "",
     "Points": 0,
     "Votes": 0,
-    "Url": "https://github.com/trus/L-",
-    "Repositroy": "L-",
-    "Developer": "trus",
+    "Url": "https://github.com/xQxCPMxQx/LeagueSharp2",
+    "Repositroy": "LeagueSharp2",
+    "Developer": "xQxCPMxQx",
+    "Category": "Champion"
+  },
+  {
+    "Name": "Swain",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/xQxCPMxQx/LeagueSharp2",
+    "Repositroy": "LeagueSharp2",
+    "Developer": "xQxCPMxQx",
+    "Category": "Champion"
+  },
+  {
+    "Name": "Vi",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/xQxCPMxQx/LeagueSharp2",
+    "Repositroy": "LeagueSharp2",
+    "Developer": "xQxCPMxQx",
+    "Category": "Champion"
+  },
+  {
+    "Name": "AutoPotion",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/Lizzaran/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "Lizzaran",
+    "Category": "Utility"
+  },
+  {
+    "Name": "Cassinator",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/Lizzaran/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "Lizzaran",
+    "Category": "Champion"
+  },
+  {
+    "Name": "CloneRevealer",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/Lizzaran/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "Lizzaran",
+    "Category": "Utility"
+  },
+  {
+    "Name": "Igniter",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/Lizzaran/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "Lizzaran",
+    "Category": "Library"
+  },
+  {
+    "Name": "JungleTimers",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/Lizzaran/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "Lizzaran",
+    "Category": "Utility"
+  },
+  {
+    "Name": "LasthitMarker",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/Lizzaran/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "Lizzaran",
+    "Category": "Utility"
+  },
+  {
+    "Name": "MapHack",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/Lizzaran/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "Lizzaran",
+    "Category": "Utility"
+  },
+  {
+    "Name": "PacketLogger",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/Lizzaran/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "Lizzaran",
+    "Category": "Utility"
+  },
+  {
+    "Name": "QuickSmite",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/Lizzaran/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "Lizzaran",
+    "Category": "Utility"
+  },
+  {
+    "Name": "SnakeSharp",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/Lizzaran/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "Lizzaran",
+    "Category": "Champion"
+  },
+  {
+    "Name": "ToasterLoading",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/Lizzaran/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "Lizzaran",
+    "Category": "Utility"
+  },
+  {
+    "Name": "UniversalLeveler",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/Lizzaran/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "Lizzaran",
+    "Category": "Utility"
+  },
+  {
+    "Name": "WaypointTracker",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/Lizzaran/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "Lizzaran",
+    "Category": "Utility"
+  },
+  {
+    "Name": "Mechanics",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/gmlyra/LSharp",
+    "Repositroy": "LSharp",
+    "Developer": "gmlyra",
+    "Category": "Utility"
+  },
+  {
+    "Name": "SFAhri",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/Snorflake/SFScripts",
+    "Repositroy": "SFScripts",
+    "Developer": "Snorflake",
+    "Category": "Champion"
+  },
+  {
+    "Name": "SFKatarina",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/Snorflake/SFScripts",
+    "Repositroy": "SFScripts",
+    "Developer": "Snorflake",
+    "Category": "Champion"
+  },
+  {
+    "Name": "SFMasterYi",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/Snorflake/SFScripts",
+    "Repositroy": "SFScripts",
+    "Developer": "Snorflake",
+    "Category": "Champion"
+  },
+  {
+    "Name": "SFTemplate",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/Snorflake/SFScripts",
+    "Repositroy": "SFScripts",
+    "Developer": "Snorflake",
+    "Category": "Champion"
+  },
+  {
+    "Name": "Alistar",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/OnlyTheBest/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "OnlyTheBest",
+    "Category": "Champion"
+  },
+  {
+    "Name": "Leona",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/OnlyTheBest/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "OnlyTheBest",
+    "Category": "Champion"
+  },
+  {
+    "Name": "Nasus",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/OnlyTheBest/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "OnlyTheBest",
+    "Category": "Champion"
+  },
+  {
+    "Name": "StonedAmumu",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/TheKushStyle/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "TheKushStyle",
+    "Category": "Champion"
+  },
+  {
+    "Name": "StonedVolibear",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/TheKushStyle/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "TheKushStyle",
+    "Category": "Champion"
+  },
+  {
+    "Name": "EasyEzreal",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/ikkeflikkeri/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "ikkeflikkeri",
+    "Category": "Champion"
+  },
+  {
+    "Name": "EasyKogMaw",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/ikkeflikkeri/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "ikkeflikkeri",
+    "Category": "Champion"
+  },
+  {
+    "Name": "EasyXerath",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/ikkeflikkeri/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "ikkeflikkeri",
+    "Category": "Champion"
+  },
+  {
+    "Name": "EasyXerath",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/ikkeflikkeri/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "ikkeflikkeri",
+    "Category": "Champion"
+  },
+  {
+    "Name": "SAwareness",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/Screeder/SAwareness",
+    "Repositroy": "SAwareness",
+    "Developer": "Screeder",
+    "Category": "Utility"
+  },
+  {
+    "Name": "AhriSharp",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/JoKerr-/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "JoKerr-",
+    "Category": "Champion"
+  },
+  {
+    "Name": "Nami",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/madk/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "madk",
+    "Category": "Champion"
+  },
+  {
+    "Name": "Nidalee",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/madk/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "madk",
+    "Category": "Champion"
+  },
+  {
+    "Name": "Talon",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/madk/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "madk",
     "Category": "Champion"
   }
 ]
