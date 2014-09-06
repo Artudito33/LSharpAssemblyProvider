@@ -17,6 +17,7 @@ using GalaSoft.MvvmLight.Threading;
 using LSharpAssemblyProvider.Helpers;
 using LSharpAssemblyProvider.Model;
 using LSharpAssemblyProvider.Properties;
+using MahApps.Metro.Controls.Dialogs;
 
 namespace LSharpAssemblyProvider.ViewModel
 {
@@ -474,7 +475,7 @@ namespace LSharpAssemblyProvider.ViewModel
 
         private void InstallAssembly(AssemblyEntity assembly)
         {
-            Task.Factory.StartNew(() =>
+            Task.Factory.StartNew(async () =>
             {
                 if (assembly.Name == "clipper_library")
                 {
@@ -519,7 +520,7 @@ namespace LSharpAssemblyProvider.ViewModel
                             if (File.Exists(dll))
                                 File.Delete(dll);
                             File.Move(result, dll);
-                            LogFile.Write(assembly.Name, "Move - " + result + " -> " + dll);
+                            LogFile.Write(assembly.Name, "Move - " + result + "\n->\n" + dll);
                         }
 
                         if (result.EndsWith(".exe"))
@@ -528,7 +529,7 @@ namespace LSharpAssemblyProvider.ViewModel
                             if (File.Exists(exe))
                                 File.Delete(exe);
                             File.Move(result, exe);
-                            LogFile.Write(assembly.Name, "Move - " + result + " -> " + exe);
+                            LogFile.Write(assembly.Name, "Move - " + result + "\n->\n" + exe);
                         }
 
                         assembly.State = "Complete";
@@ -539,6 +540,8 @@ namespace LSharpAssemblyProvider.ViewModel
                         LogFile.Write(assembly.Name, "Failed");
                         assembly.State = "Broken";
                     }
+
+                    await DialogService.ShowMessage(assembly.Name, "Successful Installed", MessageDialogStyle.Affirmative);
                 }
                 catch (Exception e)
                 {
@@ -550,9 +553,11 @@ namespace LSharpAssemblyProvider.ViewModel
 
         private void UpdateAssembly()
         {
-            Task.Factory.StartNew(() =>
+            Task.Factory.StartNew(async () =>
             {
                 AssemblyEntity current = null;
+                var build = 0;
+                var failed = 0;
 
                 try
                 {
@@ -635,7 +640,7 @@ namespace LSharpAssemblyProvider.ViewModel
                                 if (File.Exists(dll))
                                     File.Delete(dll);
                                 File.Move(result, dll);
-                                LogFile.Write(repository.Name, "Move - " + result + " -> " + dll);
+                                LogFile.Write(repository.Name, "Move - " + result + "\n->\n" + dll);
                             }
 
                             if (result.EndsWith(".exe"))
@@ -644,19 +649,23 @@ namespace LSharpAssemblyProvider.ViewModel
                                 if (File.Exists(exe))
                                     File.Delete(exe);
                                 File.Move(result, exe);
-                                LogFile.Write(repository.Name, "Move - " + result + " -> " + exe);
+                                LogFile.Write(repository.Name, "Move - " + result + "\n->\n" + exe);
                             }
 
                             repository.State = "Complete";
+                            build++;
                         }
                         else
                         {
                             LogFile.Write(repository.Name, "Failed");
                             repository.State = "Broken";
+                            failed++;
                         }
 
                         Progress++;
                     }
+
+                    await DialogService.ShowMessage("Update", "Update Complete\n\n" + build + " Working\n" + failed + " Broken", MessageDialogStyle.Affirmative);
                 }
                 catch (Exception e)
                 {
