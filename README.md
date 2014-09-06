@@ -21,3 +21,12 @@ Log
 Settings
 
 ![Settings](http://i.imgur.com/BIRpJ0H.png)
+
+
+Source
+ - https://github.com/Lizzaran/SVNCompiler
+ - https://github.com/joduskame/LeagueSharp
+ - https://github.com/MahApps/MahApps.Metro
+ - https://mvvmlight.codeplex.com/
+ - https://json.codeplex.com/
+ - https://sharpsvn.open.collab.net/
