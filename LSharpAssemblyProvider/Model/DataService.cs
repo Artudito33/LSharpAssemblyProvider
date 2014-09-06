@@ -26,7 +26,7 @@ namespace LSharpAssemblyProvider.Model
 
                 using (var client = new WebClient())
                 {
-                    var result = client.DownloadString(new Uri("https://dl.dropboxusercontent.com/u/54555251/Data.json"));
+                    var result = client.DownloadString(new Uri("https://raw.githubusercontent.com/h3h3/LSharpAssemblyProvider/master/LSharpAssemblyProvider/Data.json"));
                     var data = JsonConvert.DeserializeObject<List<AssemblyEntity>>(result);
 
                     foreach (var entity in data)

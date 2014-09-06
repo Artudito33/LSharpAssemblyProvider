@@ -3,13 +3,17 @@
       "Name":"LeagueSharp.Common",
       "Url":"https://github.com/LeagueSharp/LeagueSharpCommon",
       "Category":"Library",
-      "Description":"LeagueSharp.Common"
+      "Description":"LeagueSharp.Common",
+      "Points":"5",
+	  "Votes":"1"
    },
    {
       "Name":"clipper_library",
       "Url":"https://github.com/Esk0r/LeagueSharp/raw/master/Evade/References/clipper_library.dll",
       "Category":"Library",
-      "Description":"clipper_library"
+      "Description":"clipper_library",
+      "Points":"5",
+	  "Votes":"1"
    },
    {
       "Name":"Evade",
