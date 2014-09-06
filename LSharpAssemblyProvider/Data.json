@@ -5,7 +5,7 @@
       "Category":"Library",
       "Description":"LeagueSharp.Common",
       "Points":"5",
-	  "Votes":"1"
+      "Votes":"1"
    },
    {
       "Name":"clipper_library",
@@ -13,13 +13,15 @@
       "Category":"Library",
       "Description":"clipper_library",
       "Points":"5",
-	  "Votes":"1"
+      "Votes":"1"
    },
    {
       "Name":"Evade",
       "Url":"https://github.com/Esk0r/LeagueSharp",
       "Category":"Utility",
-      "Description":"Evades Skillshots"
+      "Description":"Evades Skillshots",
+      "Points":"5",
+      "Votes":"1"
    },
    {
       "Name":"Skin Changer",
@@ -49,7 +51,9 @@
    {
       "Name":"SAwareness",
       "Url":"https://github.com/Screeder/SAwareness",
-      "Category":"Utility"
+      "Category":"Utility",
+      "Points":"5",
+      "Votes":"1"
    },
    {
       "Name":"AutoPotion",
@@ -109,7 +113,9 @@
    {
       "Name":"Marksman",
       "Url":"https://github.com/Esk0r/LeagueSharp",
-      "Category":"Champion"
+      "Category":"Champion",
+      "Points":"5",
+      "Votes":"1"
    },
    {
       "Name":"Ryze",
@@ -149,7 +155,9 @@
    {
       "Name":"Support",
       "Url":"https://github.com/Dibes/LeagueSharp",
-      "Category":"Champion"
+      "Category":"Champion",
+      "Points":"5",
+      "Votes":"1"
    },
    {
       "Name":"Alistar",

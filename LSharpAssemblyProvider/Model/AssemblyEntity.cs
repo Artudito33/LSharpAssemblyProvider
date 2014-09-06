@@ -64,9 +64,7 @@ namespace LSharpAssemblyProvider.Model
                 Set(() => LocalVersion, ref _localVersion, value);
             }
         }
-        [JsonIgnore]
         public int Points { get; set; }
-        [JsonIgnore]
         public int Votes { get; set; }
         [JsonIgnore]
         public string State

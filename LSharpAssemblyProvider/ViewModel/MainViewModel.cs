@@ -356,7 +356,7 @@ namespace LSharpAssemblyProvider.ViewModel
             if (string.IsNullOrEmpty(Settings.Default.LeagueSharpPath))
             {
                 Console.WriteLine("Setup");
-                StartPage = 4;
+                StartPage = 5;
                 return;
             }
 
