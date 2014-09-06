@@ -1,5 +1,9 @@
 LSharpAssemblyProvider
 ======================
+ - Easy Setup
+ - OneClick Assembly Install
+ - OneClick Update
+
 ![Beta Download](https://github.com/h3h3/LSharpAssemblyProvider/releases)
 
 Install
@@ -9,6 +13,10 @@ Install
 Update
 
 ![Update](http://i.imgur.com/L1p9pCP.png)
+
+Log
+
+![Log](http://i.imgur.com/G60bLtE.png)
 
 Settings
 
