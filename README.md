@@ -1,6 +1,6 @@
 LSharpAssemblyProvider
 ======================
-Beta
+![Beta Download](https://github.com/h3h3/LSharpAssemblyProvider/releases)
 
 Install
 
