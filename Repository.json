@@ -1,7 +1,7 @@
 [
   {
     "Name": "Support",
-    "Description": "",
+    "Description": "Plays Thresh, Morgana, Blitzcrank, Sona, Leona, Nami and Zyra",
     "Points": 0,
     "Votes": 0,
     "Url": "https://github.com/Dibes/LeagueSharp",
@@ -11,7 +11,7 @@
   },
   {
     "Name": "kKayle2",
-    "Description": "",
+    "Description": "Plays Kayle. Smart Clear wave, Good for Lane/Jungle, Heal Self on Combo, Low Health/Ult, Heal Friends on       Low Health/Ult Logic, Full Combo and Harrass",
     "Points": 0,
     "Votes": 0,
     "Url": "https://github.com/lKk2/LeagueSharp",
@@ -21,7 +21,7 @@
   },
   {
     "Name": "kPoppy2",
-    "Description": "",
+    "Description": "Plays Poppy. Smart KS, Harras, Ult Logic on Tanker or Support, Full Combo",
     "Points": 0,
     "Votes": 0,
     "Url": "https://github.com/lKk2/LeagueSharp",
@@ -31,7 +31,7 @@
   },
   {
     "Name": "SigmaFizz",
-    "Description": "",
+    "Description": "Plays Fizz. Combo -Q W (uses it before aa.) E (two jump support) R (only ult if combo killable), Harras -       same no ult, WaveClear, Lasthit Drawing",
     "Points": 0,
     "Votes": 0,
     "Url": "https://github.com/fueledbyflux/LeagueSharp-Public",
@@ -41,7 +41,7 @@
   },
   {
     "Name": "kTalon2",
-    "Description": "",
+    "Description": "Plays Talon, Use Ignite, Hydra, Ghostblade, Smart KS, Lane Clear, Harras, Full Combo",
     "Points": 0,
     "Votes": 0,
     "Url": "https://github.com/lKk2/LeagueSharp",
@@ -51,7 +51,7 @@
   },
   {
     "Name": "recalltrackerLS",
-    "Description": "",
+    "Description": "Tracks enemy recalls",
     "Points": 0,
     "Votes": 0,
     "Url": "https://github.com/Irvinee/leaguesharp",
@@ -61,7 +61,7 @@
   },
   {
     "Name": "BankPlank",
-    "Description": "",
+    "Description": "Plays Gankplank",
     "Points": 0,
     "Votes": 0,
     "Url": "https://github.com/blm95/LeagueSharp",
@@ -71,7 +71,7 @@
   },
   {
     "Name": "Nasus the doG",
-    "Description": "",
+    "Description": "Plays Nasus",
     "Points": 0,
     "Votes": 0,
     "Url": "https://github.com/blm95/LeagueSharp",
@@ -111,7 +111,7 @@
   },
   {
     "Name": "MasterActivator",
-    "Description": "",
+    "Description": "All in one activator that supports purifers, clears, smite, offensive and defensive items, regenerators,       team use, combo mode and an imporved target selector",
     "Points": 0,
     "Votes": 0,
     "Url": "https://github.com/Crisdmc/LeagueSharp",
@@ -121,7 +121,7 @@
   },
   {
     "Name": "MasterYi",
-    "Description": "",
+    "Description": "Plays Yi. Combo: Use QWER - Orbwalk Lock - Use Packet, W Options, LaneClear, Draw, AutoLevel skills",
     "Points": 0,
     "Votes": 0,
     "Url": "https://github.com/Crisdmc/LeagueSharp",
@@ -141,7 +141,7 @@
   },
   {
     "Name": "Ajumper",
-    "Description": "",
+    "Description": "Wardjump for different champions (Katarina, Jax, Lee Sin)",
     "Points": 0,
     "Votes": 0,
     "Url": "https://github.com/Quangcha/LSharp",
