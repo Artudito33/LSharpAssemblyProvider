@@ -1,0 +1,92 @@
+﻿<metro:MetroWindow
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:ignore="http://www.ignore.com"
+        xmlns:metro="http://metro.mahapps.com/winfx/xaml/controls"
+        xmlns:view="clr-namespace:LSharpAssemblyProvider.View"
+        x:Class="LSharpAssemblyProvider.MainWindow"
+        mc:Ignorable="d ignore"
+        Height="740.75"
+        Width="1027"
+        Title="L# Assembly Provider by h3h3"
+        SaveWindowPosition="True">
+
+    <metro:MetroWindow.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="Skins/MainSkin.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </metro:MetroWindow.Resources>
+
+    <metro:MetroWindow.DataContext>
+        <Binding 
+            Path="Main" 
+            Source="{StaticResource Locator}"/>
+    </metro:MetroWindow.DataContext>
+
+    <Grid x:Name="LayoutRoot">
+        <TabControl 
+			Margin="10,44,10,10" 
+			BorderBrush="{DynamicResource {x:Static SystemColors.MenuHighlightBrushKey}}" 
+			SelectedIndex="{Binding StartPage}">
+            <TabItem Header="Champion">
+                <view:AssemblyView DataContext="{Binding Champion}"/>
+            </TabItem>
+            <TabItem Header="Utility">
+                <view:AssemblyView DataContext="{Binding Utility}"/>
+            </TabItem>
+            <TabItem Header="Library">
+                <view:AssemblyView DataContext="{Binding Library}"/>
+            </TabItem>
+            <TabItem Header="Update">
+                <Grid>
+                    <view:UpdateView DataContext="{Binding Update}"/>
+                    <GroupBox Margin="606,-75,-3,0" VerticalAlignment="Top" Height="65.75" Header="Updater">
+                        <Grid>
+                            <Button 
+                            Content="Update" 
+                            VerticalAlignment="Top" 
+                            HorizontalAlignment="Right" 
+                            Width="75" 
+                            Command="{Binding UpdateCommand, Mode=OneWay}"/>
+                            <metro:MetroProgressBar 
+                            x:Name="UpdateProgressBar" 
+                            VerticalAlignment="Top" 
+                            Height="25.3" 
+                            BorderBrush="{DynamicResource {x:Static SystemColors.MenuHighlightBrushKey}}"  
+                            BorderThickness="1" 
+                            Margin="0,0,80,0" 
+                            Maximum="{Binding ProgressMax}" 
+                            Value="{Binding Progress}"/>
+                        </Grid>
+                    </GroupBox>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Settings">
+                <Grid>
+                    <GroupBox 
+                        Header="L# Path" 
+                        Margin="10,10,10,0" 
+                        VerticalAlignment="Top">
+                        <Grid>
+                            <TextBox
+                                     Height="23"
+                                     Margin="10,10,106,0"
+                                     VerticalAlignment="Top"
+                                     Text="{Binding LeagueSharpPath}"
+                                     TextWrapping="Wrap" />
+                            <Button 
+                                Content="Save" 
+                                Margin="0,11,10,0" 
+                                VerticalAlignment="Top" 
+                                Command="{Binding SaveCommand, Mode=OneWay}" HorizontalAlignment="Right" Width="75"/>
+                        </Grid>
+                    </GroupBox>
+                </Grid>
+            </TabItem>
+        </TabControl>
+    </Grid>
+</metro:MetroWindow>
