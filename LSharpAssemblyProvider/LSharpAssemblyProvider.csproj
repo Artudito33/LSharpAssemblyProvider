@@ -90,6 +90,7 @@
     </ApplicationDefinition>
     <Compile Include="Design\DesignDataService.cs" />
     <Compile Include="Helpers\Github.cs" />
+    <Compile Include="Helpers\Log.cs" />
     <Compile Include="Helpers\ProjectFile.cs" />
     <Compile Include="Model\AssemblyEntity.cs" />
     <Compile Include="Model\DataService.cs" />
@@ -97,6 +98,9 @@
     <Compile Include="Model\LogEntity.cs" />
     <Compile Include="View\AssemblyView.xaml.cs">
       <DependentUpon>AssemblyView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\LogView.xaml.cs">
+      <DependentUpon>LogView.xaml</DependentUpon>
     </Compile>
     <Compile Include="View\UpdateView.xaml.cs">
       <DependentUpon>UpdateView.xaml</DependentUpon>
@@ -120,6 +124,10 @@
       <SubType>Designer</SubType>
     </Page>
     <Page Include="View\AssemblyView.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="View\LogView.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>

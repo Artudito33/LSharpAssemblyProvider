@@ -1,0 +1,41 @@
+﻿<UserControl
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+	mc:Ignorable="d"
+	x:Class="LSharpAssemblyProvider.View.LogView"
+	d:DesignWidth="993" d:DesignHeight="600.277">
+
+    <Grid x:Name="LayoutRoot">
+        <DataGrid 
+			ItemsSource="{Binding NotifyOnSourceUpdated=True, UpdateSourceTrigger=PropertyChanged}" 
+			AutoGenerateColumns="False" 
+			SelectionMode="Single" 
+			CanUserAddRows="False"
+			CanUserDeleteRows="False" 
+			FontSize="16" 
+			FontWeight="Medium">
+            <DataGrid.Columns>
+                <DataGridTextColumn 
+					Width="SizeToCells" 
+					IsReadOnly="True" 
+					Header="Date" 
+					Binding="{Binding Date, StringFormat=d}" 
+					MinWidth="150" />
+                <DataGridTextColumn 
+					Width="SizeToCells" 
+					IsReadOnly="True" 
+					Header="Assembly" 
+					Binding="{Binding Assembly}" 
+					MinWidth="150" />
+                <DataGridTextColumn 
+					Width="*" 
+					IsReadOnly="True" 
+					Header="Message" 
+					Binding="{Binding Message}" 
+					MinWidth="150" />
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</UserControl>

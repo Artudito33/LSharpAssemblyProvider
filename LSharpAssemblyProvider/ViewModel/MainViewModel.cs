@@ -240,6 +240,29 @@ namespace LSharpAssemblyProvider.ViewModel
             }
         }
 
+        /// <summary>
+        /// The <see cref="Log" /> property's name.
+        /// </summary>
+        public const string LogPropertyName = "Log";
+
+        private ObservableCollection<LogEntity> _log;
+
+        /// <summary>
+        /// Sets and gets the Log property.
+        /// Changes to that property's value raise the PropertyChanged event. 
+        /// </summary>
+        public ObservableCollection<LogEntity> Log
+        {
+            get
+            {
+                return _log;
+            }
+            set
+            {
+                Set(() => Log, ref _log, value);
+            }
+        }
+
         private RelayCommand _installCommand;
 
         /// <summary>
@@ -337,6 +360,8 @@ namespace LSharpAssemblyProvider.ViewModel
 
             Task.Factory.StartNew(() =>
             {
+                AssemblyEntity current = null;
+
                 try
                 {
                     Console.WriteLine("Init");
@@ -349,7 +374,10 @@ namespace LSharpAssemblyProvider.ViewModel
                         Champion = service.GetChampionData();
                         Utility = service.GetUtilityData();
                         Library = service.GetLibraryData();
+                        Log = service.GetLogData();
                         Update = new ObservableCollection<AssemblyEntity>();
+
+                        LogFile.Write("", "Init Complete");
 
                         Progress = 0;
                         ProgressMax = Library.Count;
@@ -366,6 +394,8 @@ namespace LSharpAssemblyProvider.ViewModel
                                 lib.LocalVersion = Github.LocalVersion(lib);
                                 lib.State = "Available";
                             }
+
+                            current = lib;
                             Progress++;
                         }
 
@@ -384,6 +414,8 @@ namespace LSharpAssemblyProvider.ViewModel
                                 util.LocalVersion = Github.LocalVersion(util);
                                 util.State = "Available";
                             }
+
+                            current = util;
                             Progress++;
                         }
 
@@ -402,6 +434,8 @@ namespace LSharpAssemblyProvider.ViewModel
                                 champ.LocalVersion = Github.LocalVersion(champ);
                                 champ.State = "Available";
                             }
+
+                            current = champ;
                             Progress++;
                         }
 
@@ -425,7 +459,7 @@ namespace LSharpAssemblyProvider.ViewModel
                 }
                 catch (Exception e)
                 {
-                    MessageBox.Show(e.Message, "Error", MessageBoxButton.OK, MessageBoxImage.Error);
+                    MessageBox.Show(e.Message, "Error - " + current.Name + " - " + current.State, MessageBoxButton.OK, MessageBoxImage.Error);
                 }
             });
         }
@@ -443,21 +477,28 @@ namespace LSharpAssemblyProvider.ViewModel
             {
                 try
                 {
+                    LogFile.Write(assembly.Name, "Version Check");
+                    assembly.State = "Version Check";
+                    assembly.RepositroyVersion = Github.RepositorieVersion(assembly);
+                    assembly.LocalVersion = Github.LocalVersion(assembly);
+
+                    LogFile.Write(assembly.Name, "Downloading - " + assembly.Url);
                     assembly.State = "Downloading";
                     Github.Update(assembly.Url);
+                    assembly.State = "";
 
-                    assembly.State = "Open";
-                    Console.WriteLine("Open: " + assembly.Name);
+                    LogFile.Write(assembly.Name, "Open Project");
+                    assembly.State = "Open Project";
                     var project = assembly.GetProjectFile();
 
+                    LogFile.Write(assembly.Name, "Compile");
                     assembly.State = "Compile";
-                    Console.WriteLine("Compile: " + assembly.Name);
-
                     var result = Github.Compile(project);
+
                     if (result != null && File.Exists(result))
                     {
+                        LogFile.Write(assembly.Name, "Sucsesfull - " + result);
                         assembly.State = "Move";
-                        Console.WriteLine("Move: " + assembly.Name);
 
                         if (result.EndsWith(".dll"))
                         {
@@ -465,6 +506,7 @@ namespace LSharpAssemblyProvider.ViewModel
                             if (File.Exists(dll))
                                 File.Delete(dll);
                             File.Move(result, dll);
+                            LogFile.Write(assembly.Name, "Move - " + result + " -> " + dll);
                         }
 
                         if (result.EndsWith(".exe"))
@@ -473,10 +515,10 @@ namespace LSharpAssemblyProvider.ViewModel
                             if (File.Exists(exe))
                                 File.Delete(exe);
                             File.Move(result, exe);
+                            LogFile.Write(assembly.Name, "Move - " + result + " -> " + exe);
                         }
 
-                        assembly.State = "Installed";
-                        DispatcherHelper.CheckBeginInvokeOnUI(() => Update.Add(assembly));
+                        assembly.State = "Complete";
                     }
                     else
                     {
@@ -485,6 +527,7 @@ namespace LSharpAssemblyProvider.ViewModel
                 }
                 catch (Exception e)
                 {
+                    LogFile.Write(assembly.Name, e.Message);
                     MessageBox.Show(e.Message, "Error", MessageBoxButton.OK, MessageBoxImage.Error);
                 }
             });
@@ -494,6 +537,8 @@ namespace LSharpAssemblyProvider.ViewModel
         {
             Task.Factory.StartNew(() =>
             {
+                AssemblyEntity current = null;
+
                 try
                 {
                     Progress = 0;
@@ -502,19 +547,27 @@ namespace LSharpAssemblyProvider.ViewModel
                     var repoUpdates = new List<AssemblyEntity>();
                     Parallel.ForEach(Update, repository =>
                     {
+                        LogFile.Write(repository.Name, "Version Check");
+                        repository.State = "Version Check";
                         repository.RepositroyVersion = Github.RepositorieVersion(repository);
+                        repository.LocalVersion = Github.LocalVersion(repository);
 
                         if (repository.RepositroyVersion > repository.LocalVersion)
                         {
                             if (repoUpdates.All(r => r.Url != repository.Url))
                             {
-                                repository.State = "Queue";
+                                LogFile.Write(repository.Name, "Download Queue");
+                                repository.State = "Download Queue";
                                 repoUpdates.Add(repository);
                             }
                             else
                             {
-                                repository.State = "Updating";
+                                repository.State = "";
                             }
+                        }
+                        else
+                        {
+                            repository.State = "";
                         }
 
                         Progress++;
@@ -523,12 +576,12 @@ namespace LSharpAssemblyProvider.ViewModel
                     Progress = 0;
                     ProgressMax = repoUpdates.Count;
 
-                    foreach (var rep in repoUpdates)
+                    foreach (var repository in repoUpdates)
                     {
-                        rep.State = "Downloading";
-                        Console.WriteLine("Download: " + rep.Url);
-                        Github.Update(rep.Url);
-                        rep.State = "Updating";
+                        LogFile.Write(repository.Name, "Downloading - " + repository.Url);
+                        repository.State = "Downloading";
+                        Github.Update(repository.Url);
+                        repository.State = "";
                         Progress++;
                     }
 
@@ -537,22 +590,22 @@ namespace LSharpAssemblyProvider.ViewModel
 
                     foreach (var repository in Update)
                     {
-                        repository.LocalVersion = Github.LocalVersion(repository);
+                        current = repository;
 
-                        repository.State = "Open";
-                        Console.WriteLine("Open: " + repository.Name);
+                        LogFile.Write(repository.Name, "Open Project");
+                        repository.State = "Open Project";
                         var project = repository.GetProjectFile();
                         Progress++;
 
+                        LogFile.Write(repository.Name, "Compile");
                         repository.State = "Compile";
-                        Console.WriteLine("Compile: " + repository.Name);
                         var result = Github.Compile(project);
                         Progress++;
 
                         if (result != null && File.Exists(result))
                         {
+                            LogFile.Write(repository.Name, "Sucsesfull - " + result);
                             repository.State = "Move";
-                            Console.WriteLine("Move: " + repository.Name);
 
                             if (result.EndsWith(".dll"))
                             {
@@ -560,6 +613,7 @@ namespace LSharpAssemblyProvider.ViewModel
                                 if (File.Exists(dll))
                                     File.Delete(dll);
                                 File.Move(result, dll);
+                                LogFile.Write(repository.Name, "Move - " + result + " -> " + dll);
                             }
 
                             if (result.EndsWith(".exe"))
@@ -568,9 +622,10 @@ namespace LSharpAssemblyProvider.ViewModel
                                 if (File.Exists(exe))
                                     File.Delete(exe);
                                 File.Move(result, exe);
+                                LogFile.Write(repository.Name, "Move - " + result + " -> " + exe);
                             }
 
-                            repository.State = "Updated";
+                            repository.State = "Complete";
                         }
                         else
                         {
@@ -582,7 +637,8 @@ namespace LSharpAssemblyProvider.ViewModel
                 }
                 catch (Exception e)
                 {
-                    MessageBox.Show(e.Message, "Error", MessageBoxButton.OK, MessageBoxImage.Error);
+                    LogFile.Write(current.Name, e.Message);
+                    MessageBox.Show(e.Message, "Error - " + current.Name + " - " + current.State, MessageBoxButton.OK, MessageBoxImage.Error);
                 }
             });
         }

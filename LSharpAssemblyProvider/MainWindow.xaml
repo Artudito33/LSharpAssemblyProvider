@@ -65,6 +65,9 @@
                     </GroupBox>
                 </Grid>
             </TabItem>
+            <TabItem Header="Log">
+                <view:LogView DataContext="{Binding Log}"/>
+            </TabItem>
             <TabItem Header="Settings">
                 <Grid>
                     <GroupBox 
