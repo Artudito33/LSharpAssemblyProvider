@@ -5,6 +5,7 @@ using System.ComponentModel;
 using System.Diagnostics;
 using System.IO;
 using System.Linq;
+using System.Net;
 using System.Reflection;
 using System.Threading;
 using System.Threading.Tasks;
@@ -475,6 +476,18 @@ namespace LSharpAssemblyProvider.ViewModel
         {
             Task.Factory.StartNew(() =>
             {
+                if (assembly.Name == "clipper_library")
+                {
+                    using (var client = new WebClient())
+                    {
+                        client.DownloadFile(new Uri(assembly.Url), Path.Combine(Settings.Default.LeagueSharpPath, "Assemblies", "System", assembly.Name + ".dll"));
+                    }
+
+                    assembly.State = "Complete";
+
+                    return;
+                }
+
                 try
                 {
                     LogFile.Write(assembly.Name, "Version Check");
@@ -519,9 +532,11 @@ namespace LSharpAssemblyProvider.ViewModel
                         }
 
                         assembly.State = "Complete";
+                        DispatcherHelper.CheckBeginInvokeOnUI(() => Update.Add(assembly));
                     }
                     else
                     {
+                        LogFile.Write(assembly.Name, "Failed");
                         assembly.State = "Broken";
                     }
                 }
@@ -590,6 +605,13 @@ namespace LSharpAssemblyProvider.ViewModel
 
                     foreach (var repository in Update)
                     {
+                        if (repository.Name == "clipper_library")
+                        {
+                            repository.State = "Complete";
+                            Progress += 3;
+                            continue;
+                        }
+                            
                         current = repository;
 
                         LogFile.Write(repository.Name, "Open Project");
@@ -629,6 +651,7 @@ namespace LSharpAssemblyProvider.ViewModel
                         }
                         else
                         {
+                            LogFile.Write(repository.Name, "Failed");
                             repository.State = "Broken";
                         }
 
