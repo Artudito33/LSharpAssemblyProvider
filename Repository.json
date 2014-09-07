@@ -1,0 +1,1372 @@
+[
+  {
+    "Name": "Support",
+    "Description": "Plays Thresh, Morgana, Blitzcrank, Sona, Leona, Nami and Zyra",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/Dibes/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "Dibes",
+    "Category": "Champion"
+  },
+  {
+    "Name": "kKayle2",
+    "Description": "Plays Kayle. Smart Clear wave, Good for Lane/Jungle, Heal Self on Combo, Low Health/Ult, Heal Friends on       Low Health/Ult Logic, Full Combo and Harrass",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/lKk2/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "lKk2",
+    "Category": "Champion"
+  },
+  {
+    "Name": "kPoppy2",
+    "Description": "Plays Poppy. Smart KS, Harras, Ult Logic on Tanker or Support, Full Combo",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/lKk2/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "lKk2",
+    "Category": "Champion"
+  },
+  {
+    "Name": "SigmaFizz",
+    "Description": "Plays Fizz. Combo -Q W (uses it before aa.) E (two jump support) R (only ult if combo killable), Harras -       same no ult, WaveClear, Lasthit Drawing",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/fueledbyflux/LeagueSharp-Public",
+    "Repositroy": "LeagueSharp-Public",
+    "Developer": "fueledbyflux",
+    "Category": "Champion"
+  },
+  {
+    "Name": "kTalon2",
+    "Description": "Plays Talon, Use Ignite, Hydra, Ghostblade, Smart KS, Lane Clear, Harras, Full Combo",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/lKk2/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "lKk2",
+    "Category": "Champion"
+  },
+  {
+    "Name": "recalltrackerLS",
+    "Description": "Tracks enemy recalls",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/Irvinee/leaguesharp",
+    "Repositroy": "leaguesharp",
+    "Developer": "Irvinee",
+    "Category": "Utility"
+  },
+  {
+    "Name": "BankPlank",
+    "Description": "Plays Gankplank",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/blm95/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "blm95",
+    "Category": "Champion"
+  },
+  {
+    "Name": "Nasus the doG",
+    "Description": "Plays Nasus",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/blm95/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "blm95",
+    "Category": "Champion"
+  },
+  {
+    "Name": "Olaf",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/blm95/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "blm95",
+    "Category": "Champion"
+  },
+  {
+    "Name": "WolfUrgot",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/GuiltyWolf/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "GuiltyWolf",
+    "Category": "Champion"
+  },
+  {
+    "Name": "WolfZilean",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/GuiltyWolf/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "GuiltyWolf",
+    "Category": "Champion"
+  },
+  {
+    "Name": "MasterActivator",
+    "Description": "All in one activator that supports purifers, clears, smite, offensive and defensive items, regenerators,       team use, combo mode and an imporved target selector",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/Crisdmc/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "Crisdmc",
+    "Category": "Utility"
+  },
+  {
+    "Name": "MasterYi",
+    "Description": "Plays Yi. Combo: Use QWER - Orbwalk Lock - Use Packet, W Options, LaneClear, Draw, AutoLevel skills",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/Crisdmc/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "Crisdmc",
+    "Category": "Champion"
+  },
+  {
+    "Name": "TongHop",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/Quangcha/LSharp",
+    "Repositroy": "LSharp",
+    "Developer": "Quangcha",
+    "Category": "Utility"
+  },
+  {
+    "Name": "Ajumper",
+    "Description": "Wardjump for different champions (Katarina, Jax, Lee Sin)",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/Quangcha/LSharp",
+    "Repositroy": "LSharp",
+    "Developer": "Quangcha",
+    "Category": "Utility"
+  },
+  {
+    "Name": "Annie",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/TC-Crew/L-Assemblies",
+    "Repositroy": "L-Assemblies",
+    "Developer": "TC-Crew",
+    "Category": "Champion"
+  },
+  {
+    "Name": "Cassio",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/TC-Crew/L-Assemblies",
+    "Repositroy": "L-Assemblies",
+    "Developer": "TC-Crew",
+    "Category": "Champion"
+  },
+  {
+    "Name": "Cho'Gath",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/TC-Crew/L-Assemblies",
+    "Repositroy": "L-Assemblies",
+    "Developer": "TC-Crew",
+    "Category": "Champion"
+  },
+  {
+    "Name": "Darius",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/TC-Crew/L-Assemblies",
+    "Repositroy": "L-Assemblies",
+    "Developer": "TC-Crew",
+    "Category": "Champion"
+  },
+  {
+    "Name": "Evelynn",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/TC-Crew/L-Assemblies",
+    "Repositroy": "L-Assemblies",
+    "Developer": "TC-Crew",
+    "Category": "Champion"
+  },
+  {
+    "Name": "Katarina",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/TC-Crew/L-Assemblies",
+    "Repositroy": "L-Assemblies",
+    "Developer": "TC-Crew",
+    "Category": "Champion"
+  },
+  {
+    "Name": "Tracker",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/TC-Crew/L-Assemblies",
+    "Repositroy": "L-Assemblies",
+    "Developer": "TC-Crew",
+    "Category": "Utility"
+  },
+  {
+    "Name": "Zed",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/TC-Crew/L-Assemblies",
+    "Repositroy": "L-Assemblies",
+    "Developer": "TC-Crew",
+    "Category": "Champion"
+  },
+  {
+    "Name": "iVLee",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/MobbyGFX96/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "MobbyGFX96",
+    "Category": "Champion"
+  },
+  {
+    "Name": "iVRiven",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/MobbyGFX96/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "MobbyGFX96",
+    "Category": "Champion"
+  },
+  {
+    "Name": "SephElise",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/SephLeague/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "SephLeague",
+    "Category": "Champion"
+  },
+  {
+    "Name": "KurisuMorgana",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/Kurisu44/Leaguesharp",
+    "Repositroy": "Leaguesharp",
+    "Developer": "Kurisu44",
+    "Category": "Champion"
+  },
+  {
+    "Name": "Jax",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/AnimatedHF/Leaguesharp",
+    "Repositroy": "Leaguesharp",
+    "Developer": "AnimatedHF",
+    "Category": "Champion"
+  },
+  {
+    "Name": "ANSkarner",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/AnimatedHF/Leaguesharp",
+    "Repositroy": "Leaguesharp",
+    "Developer": "AnimatedHF",
+    "Category": "Champion"
+  },
+  {
+    "Name": "WinZhao",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/AnimatedHF/Leaguesharp",
+    "Repositroy": "Leaguesharp",
+    "Developer": "AnimatedHF",
+    "Category": "Champion"
+  },
+  {
+    "Name": "Animator",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/trees-software/leaguesharp",
+    "Repositroy": "leaguesharp",
+    "Developer": "trees-software",
+    "Category": "Utility"
+  },
+  {
+    "Name": "AutoIgnite",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/trees-software/leaguesharp",
+    "Repositroy": "leaguesharp",
+    "Developer": "trees-software",
+    "Category": "Utility"
+  },
+  {
+    "Name": "AutoLantern",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/trees-software/leaguesharp",
+    "Repositroy": "leaguesharp",
+    "Developer": "trees-software",
+    "Category": "Utility"
+  },
+  {
+    "Name": "QuickTeleport",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/trees-software/leaguesharp",
+    "Repositroy": "leaguesharp",
+    "Developer": "trees-software",
+    "Category": "Utility"
+  },
+  {
+    "Name": "QuickTimers",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/trees-software/leaguesharp",
+    "Repositroy": "leaguesharp",
+    "Developer": "trees-software",
+    "Category": "Utility"
+  },
+  {
+    "Name": "Resizer",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/trees-software/leaguesharp",
+    "Repositroy": "leaguesharp",
+    "Developer": "trees-software",
+    "Category": "Utility"
+  },
+  {
+    "Name": "TUrgot",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/trees-software/leaguesharp",
+    "Repositroy": "leaguesharp",
+    "Developer": "trees-software",
+    "Category": "Champion"
+  },
+  {
+    "Name": "GXAutoPotion",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/Xionanx/Leaguesharp-Projects",
+    "Repositroy": "Leaguesharp-Projects",
+    "Developer": "Xionanx",
+    "Category": "Utility"
+  },
+  {
+    "Name": "GX Auto Shield",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/Xionanx/Leaguesharp-Projects",
+    "Repositroy": "Leaguesharp-Projects",
+    "Developer": "Xionanx",
+    "Category": "Utility"
+  },
+  {
+    "Name": "GX-Automation",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/Xionanx/Leaguesharp-Projects",
+    "Repositroy": "Leaguesharp-Projects",
+    "Developer": "Xionanx",
+    "Category": "Utility"
+  },
+  {
+    "Name": "GX Karthus",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/Xionanx/Leaguesharp-Projects",
+    "Repositroy": "Leaguesharp-Projects",
+    "Developer": "Xionanx",
+    "Category": "Champion"
+  },
+  {
+    "Name": "GX-Katarina",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/Xionanx/Leaguesharp-Projects",
+    "Repositroy": "Leaguesharp-Projects",
+    "Developer": "Xionanx",
+    "Category": "Champion"
+  },
+  {
+    "Name": "GX-Sona",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/Xionanx/Leaguesharp-Projects",
+    "Repositroy": "Leaguesharp-Projects",
+    "Developer": "Xionanx",
+    "Category": "Champion"
+  },
+  {
+    "Name": "GX-Soraka",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/Xionanx/Leaguesharp-Projects",
+    "Repositroy": "Leaguesharp-Projects",
+    "Developer": "Xionanx",
+    "Category": "Champion"
+  },
+  {
+    "Name": "GX Zilean",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/Xionanx/Leaguesharp-Projects",
+    "Repositroy": "Leaguesharp-Projects",
+    "Developer": "Xionanx",
+    "Category": "Champion"
+  },
+  {
+    "Name": "Aatrox",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/Areidz/Leaguesharp",
+    "Repositroy": "Leaguesharp",
+    "Developer": "Areidz",
+    "Category": "Champion"
+  },
+  {
+    "Name": "AttackDrawer",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/Areidz/Leaguesharp",
+    "Repositroy": "Leaguesharp",
+    "Developer": "Areidz",
+    "Category": "Utility"
+  },
+  {
+    "Name": "Blitzcrank",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/Areidz/Leaguesharp",
+    "Repositroy": "Leaguesharp",
+    "Developer": "Areidz",
+    "Category": "Champion"
+  },
+  {
+    "Name": "SimpleUltLeveler",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/Areidz/Leaguesharp",
+    "Repositroy": "Leaguesharp",
+    "Developer": "Areidz",
+    "Category": "Utility"
+  },
+  {
+    "Name": "ChewyMoonsIrelia",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/ChewyMoon/ChewyMoonScripts",
+    "Repositroy": "ChewyMoonScripts",
+    "Developer": "ChewyMoon",
+    "Category": "Champion"
+  },
+  {
+    "Name": "ChewyMoonsLux",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/ChewyMoon/ChewyMoonScripts",
+    "Repositroy": "ChewyMoonScripts",
+    "Developer": "ChewyMoon",
+    "Category": "Champion"
+  },
+  {
+    "Name": "Kassadin",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/DangerousMindLoL/league-sharp",
+    "Repositroy": "league-sharp",
+    "Developer": "DangerousMindLoL",
+    "Category": "Champion"
+  },
+  {
+    "Name": "PerfectWard",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/jasteph/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "jasteph",
+    "Category": "Utility"
+  },
+  {
+    "Name": "QuickWardWatcher",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/jasteph/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "jasteph",
+    "Category": "Utility"
+  },
+  {
+    "Name": "Evade",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/Esk0r/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "Esk0r",
+    "Category": "Utility"
+  },
+  {
+    "Name": "Karma",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/Esk0r/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "Esk0r",
+    "Category": "Champion"
+  },
+  {
+    "Name": "Marksman",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/Esk0r/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "Esk0r",
+    "Category": "Champion"
+  },
+  {
+    "Name": "Ryze",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/Esk0r/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "Esk0r",
+    "Category": "Champion"
+  },
+  {
+    "Name": "Syndra",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/Esk0r/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "Esk0r",
+    "Category": "Champion"
+  },
+  {
+    "Name": "TwistedFate",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/Esk0r/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "Esk0r",
+    "Category": "Champion"
+  },
+  {
+    "Name": "Velkoz Assembly",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/Esk0r/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "Esk0r",
+    "Category": "Champion"
+  },
+  {
+    "Name": "Xerath",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/Esk0r/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "Esk0r",
+    "Category": "Champion"
+  },
+  {
+    "Name": "Ziggs",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/Esk0r/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "Esk0r",
+    "Category": "Champion"
+  },
+  {
+    "Name": "Akali",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/Chogart/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "Chogart",
+    "Category": "Champion"
+  },
+  {
+    "Name": "ToasterLoading",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/detuks/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "detuks",
+    "Category": "Utility"
+  },
+  {
+    "Name": "HiddenObj",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/detuks/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "detuks",
+    "Category": "Utility"
+  },
+  {
+    "Name": "JayceSharp",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/detuks/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "detuks",
+    "Category": "Champion"
+  },
+  {
+    "Name": "KarmaSharp",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/detuks/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "detuks",
+    "Category": "Champion"
+  },
+  {
+    "Name": "LeeSinSharp",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/detuks/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "detuks",
+    "Category": "Champion"
+  },
+  {
+    "Name": "RivenSharp",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/detuks/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "detuks",
+    "Category": "Champion"
+  },
+  {
+    "Name": "TryndSharp",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/detuks/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "detuks",
+    "Category": "Champion"
+  },
+  {
+    "Name": "Yasuo-Sharpino",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/detuks/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "detuks",
+    "Category": "Champion"
+  },
+  {
+    "Name": "YasuoSharp",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/detuks/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "detuks",
+    "Category": "Champion"
+  },
+  {
+    "Name": "BaseUlt2",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/Beaving/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "Beaving",
+    "Category": "Utility"
+  },
+  {
+    "Name": "KarthusSharp",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/Beaving/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "Beaving",
+    "Category": "Champion"
+  },
+  {
+    "Name": "FedLeblanc",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/gFederal/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "gFederal",
+    "Category": "Champion"
+  },
+  {
+    "Name": "LeagueSharp.Common",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/LeagueSharp/LeagueSharpCommon",
+    "Repositroy": "LeagueSharpCommon",
+    "Developer": "LeagueSharp",
+    "Category": "Library"
+  },
+  {
+    "Name": "BrandSharp",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/Hellsing/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "Hellsing",
+    "Category": "Champion"
+  },
+  {
+    "Name": "VeigarEndboss",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/Hellsing/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "Hellsing",
+    "Category": "Champion"
+  },
+  {
+    "Name": "ViktorSharp",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/Hellsing/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "Hellsing",
+    "Category": "Champion"
+  },
+  {
+    "Name": "Braum",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/newchild/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "newchild",
+    "Category": "Champion"
+  },
+  {
+    "Name": "Frosty Renekton",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/newchild/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "newchild",
+    "Category": "Champion"
+  },
+  {
+    "Name": "Frosty Sejuani",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/newchild/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "newchild",
+    "Category": "Champion"
+  },
+  {
+    "Name": "Frosty Sejuani",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/newchild/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "newchild",
+    "Category": "Champion"
+  },
+  {
+    "Name": "Pantheon - The Artisan of War",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/RoachxD/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "RoachxD",
+    "Category": "Champion"
+  },
+  {
+    "Name": "SKO Ban Karma",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/SKOBoL/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "SKOBoL",
+    "Category": "Champion"
+  },
+  {
+    "Name": "SKO Galio",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/SKOBoL/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "SKOBoL",
+    "Category": "Champion"
+  },
+  {
+    "Name": "SKONidalee",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/SKOBoL/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "SKOBoL",
+    "Category": "Champion"
+  },
+  {
+    "Name": "SKORengar",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/SKOBoL/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "SKOBoL",
+    "Category": "Champion"
+  },
+  {
+    "Name": "UltimateCarry",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/LXMedia1/UltimateCarry2",
+    "Repositroy": "UltimateCarry2",
+    "Developer": "LXMedia1",
+    "Category": "Champion"
+  },
+  {
+    "Name": "iVJax",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/TeamiV/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "TeamiV",
+    "Category": "Champion"
+  },
+  {
+    "Name": "iVLee",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/TeamiV/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "TeamiV",
+    "Category": "Champion"
+  },
+  {
+    "Name": "iVRiven",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/TeamiV/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "TeamiV",
+    "Category": "Champion"
+  },
+  {
+    "Name": "Orianna",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/trelli/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "trelli",
+    "Category": "Champion"
+  },
+  {
+    "Name": "Skin Changer",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/trelli/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "trelli",
+    "Category": "Utility"
+  },
+  {
+    "Name": "Annie",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/trus/L-",
+    "Repositroy": "L-",
+    "Developer": "trus",
+    "Category": "Champion"
+  },
+  {
+    "Name": "Lib",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/trus/L-",
+    "Repositroy": "L-",
+    "Developer": "trus",
+    "Category": "Library"
+  },
+  {
+    "Name": "IHateCC",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/trus/L-",
+    "Repositroy": "L-",
+    "Developer": "trus",
+    "Category": "Utility"
+  },
+  {
+    "Name": "IhateSkillshots",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/trus/L-",
+    "Repositroy": "L-",
+    "Developer": "trus",
+    "Category": "Utility"
+  },
+  {
+    "Name": "TRUSBot",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/trus/L-",
+    "Repositroy": "L-",
+    "Developer": "trus",
+    "Category": "Utility"
+  },
+  {
+    "Name": "TRUStInMyBombs",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/trus/L-",
+    "Repositroy": "L-",
+    "Developer": "trus",
+    "Category": "Utility"
+  },
+  {
+    "Name": "Vladimir",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/trus/L-",
+    "Repositroy": "L-",
+    "Developer": "trus",
+    "Category": "Champion"
+  },
+  {
+    "Name": "Irelia",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/xQxCPMxQx/LeagueSharp2",
+    "Repositroy": "LeagueSharp2",
+    "Developer": "xQxCPMxQx",
+    "Category": "Champion"
+  },
+  {
+    "Name": "Swain",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/xQxCPMxQx/LeagueSharp2",
+    "Repositroy": "LeagueSharp2",
+    "Developer": "xQxCPMxQx",
+    "Category": "Champion"
+  },
+  {
+    "Name": "Vi",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/xQxCPMxQx/LeagueSharp2",
+    "Repositroy": "LeagueSharp2",
+    "Developer": "xQxCPMxQx",
+    "Category": "Champion"
+  },
+  {
+    "Name": "AutoPotion",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/Lizzaran/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "Lizzaran",
+    "Category": "Utility"
+  },
+  {
+    "Name": "Cassinator",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/Lizzaran/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "Lizzaran",
+    "Category": "Champion"
+  },
+  {
+    "Name": "CloneRevealer",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/Lizzaran/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "Lizzaran",
+    "Category": "Utility"
+  },
+  {
+    "Name": "Igniter",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/Lizzaran/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "Lizzaran",
+    "Category": "Library"
+  },
+  {
+    "Name": "JungleTimers",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/Lizzaran/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "Lizzaran",
+    "Category": "Utility"
+  },
+  {
+    "Name": "LasthitMarker",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/Lizzaran/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "Lizzaran",
+    "Category": "Utility"
+  },
+  {
+    "Name": "MapHack",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/Lizzaran/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "Lizzaran",
+    "Category": "Utility"
+  },
+  {
+    "Name": "PacketLogger",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/Lizzaran/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "Lizzaran",
+    "Category": "Utility"
+  },
+  {
+    "Name": "QuickSmite",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/Lizzaran/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "Lizzaran",
+    "Category": "Utility"
+  },
+  {
+    "Name": "SnakeSharp",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/Lizzaran/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "Lizzaran",
+    "Category": "Champion"
+  },
+  {
+    "Name": "ToasterLoading",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/Lizzaran/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "Lizzaran",
+    "Category": "Utility"
+  },
+  {
+    "Name": "UniversalLeveler",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/Lizzaran/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "Lizzaran",
+    "Category": "Utility"
+  },
+  {
+    "Name": "WaypointTracker",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/Lizzaran/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "Lizzaran",
+    "Category": "Utility"
+  },
+  {
+    "Name": "Mechanics",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/gmlyra/LSharp",
+    "Repositroy": "LSharp",
+    "Developer": "gmlyra",
+    "Category": "Utility"
+  },
+  {
+    "Name": "SFAhri",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/Snorflake/SFScripts",
+    "Repositroy": "SFScripts",
+    "Developer": "Snorflake",
+    "Category": "Champion"
+  },
+  {
+    "Name": "SFKatarina",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/Snorflake/SFScripts",
+    "Repositroy": "SFScripts",
+    "Developer": "Snorflake",
+    "Category": "Champion"
+  },
+  {
+    "Name": "SFMasterYi",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/Snorflake/SFScripts",
+    "Repositroy": "SFScripts",
+    "Developer": "Snorflake",
+    "Category": "Champion"
+  },
+  {
+    "Name": "SFTemplate",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/Snorflake/SFScripts",
+    "Repositroy": "SFScripts",
+    "Developer": "Snorflake",
+    "Category": "Champion"
+  },
+  {
+    "Name": "Alistar",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/OnlyTheBest/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "OnlyTheBest",
+    "Category": "Champion"
+  },
+  {
+    "Name": "Leona",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/OnlyTheBest/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "OnlyTheBest",
+    "Category": "Champion"
+  },
+  {
+    "Name": "Nasus",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/OnlyTheBest/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "OnlyTheBest",
+    "Category": "Champion"
+  },
+  {
+    "Name": "StonedAmumu",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/TheKushStyle/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "TheKushStyle",
+    "Category": "Champion"
+  },
+  {
+    "Name": "StonedVolibear",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/TheKushStyle/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "TheKushStyle",
+    "Category": "Champion"
+  },
+  {
+    "Name": "EasyEzreal",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/ikkeflikkeri/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "ikkeflikkeri",
+    "Category": "Champion"
+  },
+  {
+    "Name": "EasyKogMaw",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/ikkeflikkeri/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "ikkeflikkeri",
+    "Category": "Champion"
+  },
+  {
+    "Name": "EasyXerath",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/ikkeflikkeri/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "ikkeflikkeri",
+    "Category": "Champion"
+  },
+  {
+    "Name": "EasyXerath",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/ikkeflikkeri/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "ikkeflikkeri",
+    "Category": "Champion"
+  },
+  {
+    "Name": "SAwareness",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/Screeder/SAwareness",
+    "Repositroy": "SAwareness",
+    "Developer": "Screeder",
+    "Category": "Utility"
+  },
+  {
+    "Name": "AhriSharp",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/JoKerr-/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "JoKerr-",
+    "Category": "Champion"
+  },
+  {
+    "Name": "Nami",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/madk/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "madk",
+    "Category": "Champion"
+  },
+  {
+    "Name": "Nidalee",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/madk/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "madk",
+    "Category": "Champion"
+  },
+  {
+    "Name": "Talon",
+    "Description": "",
+    "Points": 0,
+    "Votes": 0,
+    "Url": "https://github.com/madk/LeagueSharp",
+    "Repositroy": "LeagueSharp",
+    "Developer": "madk",
+    "Category": "Champion"
+  }
+]
