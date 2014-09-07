@@ -11,25 +11,24 @@ LSharpAssemblyProvider
 
 
 Install
-
 ![Install](http://i.imgur.com/WaxOlP2.png)
 
-Update
 
+Update
 ![Update](http://i.imgur.com/SEuaCsT.png)
 
-Log
 
+Log
 ![Log](http://i.imgur.com/ExQoUm4.png)
 
-Settings
 
+Settings
 ![Settings](http://i.imgur.com/w4TKRVG.png)
 
 
 Source
+======================
  - https://github.com/Lizzaran/SVNCompiler
- - https://github.com/joduskame/LeagueSharp
  - https://github.com/MahApps/MahApps.Metro
  - https://mvvmlight.codeplex.com/
  - https://json.codeplex.com/
