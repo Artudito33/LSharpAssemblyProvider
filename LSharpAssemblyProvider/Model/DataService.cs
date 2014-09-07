@@ -9,24 +9,24 @@ namespace LSharpAssemblyProvider.Model
 {
     public class DataService : IDataService
     {
-        private ObservableCollection<AssemblyEntity> _library;
-        private ObservableCollection<AssemblyEntity> _utility;
-        private ObservableCollection<AssemblyEntity> _champion;
-        private ObservableCollection<LogEntity> _log;
+        private ObservableCollectionEx<AssemblyEntity> _library;
+        private ObservableCollectionEx<AssemblyEntity> _utility;
+        private ObservableCollectionEx<AssemblyEntity> _champion;
+        private ObservableCollectionEx<LogEntity> _log;
         private bool _init;
 
         public DataService()
         {
             Task.Factory.StartNew(() =>
             {
-                _library = new ObservableCollection<AssemblyEntity>();
-                _utility = new ObservableCollection<AssemblyEntity>();
-                _champion = new ObservableCollection<AssemblyEntity>();
-                _log = new ObservableCollection<LogEntity>();
+                _library = new ObservableCollectionEx<AssemblyEntity>();
+                _utility = new ObservableCollectionEx<AssemblyEntity>();
+                _champion = new ObservableCollectionEx<AssemblyEntity>();
+                _log = new ObservableCollectionEx<LogEntity>();
 
                 using (var client = new WebClient())
                 {
-                    var result = client.DownloadString(new Uri("https://raw.githubusercontent.com/h3h3/LSharpAssemblyProvider/master/LSharpAssemblyProvider/Data.json"));
+                    var result = client.DownloadString(new Uri("https://raw.githubusercontent.com/h3h3/LSharpAssemblyProvider/master/Repository.json"));
                     var data = JsonConvert.DeserializeObject<List<AssemblyEntity>>(result);
 
                     foreach (var entity in data)
@@ -52,22 +52,22 @@ namespace LSharpAssemblyProvider.Model
             });
         }
 
-        public ObservableCollection<AssemblyEntity> GetChampionData()
+        public ObservableCollectionEx<AssemblyEntity> GetChampionData()
         {
             return _champion;
         }
 
-        public ObservableCollection<AssemblyEntity> GetUtilityData()
+        public ObservableCollectionEx<AssemblyEntity> GetUtilityData()
         {
             return _utility;
         }
 
-        public ObservableCollection<AssemblyEntity> GetLibraryData()
+        public ObservableCollectionEx<AssemblyEntity> GetLibraryData()
         {
             return _library;
         }
 
-        public ObservableCollection<LogEntity> GetLogData()
+        public ObservableCollectionEx<LogEntity> GetLogData()
         {
             return _log;
         }

@@ -5,24 +5,24 @@ namespace LSharpAssemblyProvider.Design
 {
     public class DesignDataService : IDataService
     {
-        public ObservableCollection<AssemblyEntity> GetChampionData()
+        public ObservableCollectionEx<AssemblyEntity> GetChampionData()
         {
-            return new ObservableCollection<AssemblyEntity>();
+            return new ObservableCollectionEx<AssemblyEntity>();
         }
 
-        public ObservableCollection<AssemblyEntity> GetUtilityData()
+        public ObservableCollectionEx<AssemblyEntity> GetUtilityData()
         {
-            return new ObservableCollection<AssemblyEntity>();
+            return new ObservableCollectionEx<AssemblyEntity>();
         }
 
-        public ObservableCollection<AssemblyEntity> GetLibraryData()
+        public ObservableCollectionEx<AssemblyEntity> GetLibraryData()
         {
-            return new ObservableCollection<AssemblyEntity>();
+            return new ObservableCollectionEx<AssemblyEntity>();
         }
 
-        public ObservableCollection<LogEntity> GetLogData()
+        public ObservableCollectionEx<LogEntity> GetLogData()
         {
-            return new ObservableCollection<LogEntity>();
+            return new ObservableCollectionEx<LogEntity>();
         }
 
         public bool IsInitComplete()

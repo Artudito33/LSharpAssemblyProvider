@@ -1,4 +1,7 @@
-﻿namespace LSharpAssemblyProvider.View
+﻿using LSharpAssemblyProvider.ViewModel;
+using Microsoft.Practices.ServiceLocation;
+
+namespace LSharpAssemblyProvider.View
 {
 	/// <summary>
 	/// Interaction logic for UpdateView.xaml
@@ -8,6 +11,7 @@
 		public UpdateView()
 		{
 			this.InitializeComponent();
+		    ServiceLocator.Current.GetInstance<MainViewModel>().UpdateGrid = UpdateGrid;
 		}
 	}
 }

@@ -1,7 +1,6 @@
 ﻿using System;
 using System.IO;
 using System.Linq;
-using System.Text.RegularExpressions;
 using GalaSoft.MvvmLight;
 using LSharpAssemblyProvider.Helpers;
 using LSharpAssemblyProvider.Properties;
@@ -12,34 +11,14 @@ namespace LSharpAssemblyProvider.Model
     public class AssemblyEntity : ObservableObject
     {
         public string Name { get; set; }
-
-        [JsonIgnore]
-        public string Repositroy
-        {
-            get
-            {
-                var match = Regex.Match(Url, @"(?i:https://)(?<server>[^\s/]*)/(?<user>[^\s/]*)/(?<repo>[^\s/]*)");
-                if (!match.Success && match.Groups["server"].Value == "github.com")
-                    return "Invalid Github URL";
-
-                return match.Groups["repo"].Value;
-            }
-        }
-        [JsonIgnore]
-        public string Developer
-        {
-            get
-            {
-                var match = Regex.Match(Url, @"(?i:https://)(?<server>[^\s/]*)/(?<user>[^\s/]*)/(?<repo>[^\s/]*)");
-                if (!match.Success && match.Groups["server"].Value == "github.com")
-                    return "Invalid Github URL";
-
-                return match.Groups["user"].Value;
-            }
-        }
+        public string Repositroy { get; set; }
+        public string Developer { get; set; }
         public string Url { get; set; }
         public string Category { get; set; }
         public string Description { get; set; }
+        public int Points { get; set; }
+        public int Votes { get; set; }
+
         [JsonIgnore]
         public long RepositroyVersion
         {
@@ -64,8 +43,6 @@ namespace LSharpAssemblyProvider.Model
                 Set(() => LocalVersion, ref _localVersion, value);
             }
         }
-        public int Points { get; set; }
-        public int Votes { get; set; }
         [JsonIgnore]
         public string State
         {
@@ -92,19 +69,9 @@ namespace LSharpAssemblyProvider.Model
         private long _repositroyVersion;
         private long _localVersion;
 
-        public AssemblyEntity()
-        {
-        }
-
-        public AssemblyEntity(string name, string url)
-        {
-            Name = name;
-            Url = url;
-        }
-
         public ProjectFile GetProjectFile()
         {
-            var file = Directory.GetFiles(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "Repositories", Developer, Repositroy), Name + ".csproj", SearchOption.AllDirectories).FirstOrDefault();
+            var file = Directory.GetFiles(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "Repositories", Developer, Repositroy, "trunk"), Name + ".csproj", SearchOption.AllDirectories).FirstOrDefault();
 
             return new ProjectFile(file)
             {

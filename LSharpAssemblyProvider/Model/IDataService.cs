@@ -4,10 +4,10 @@ namespace LSharpAssemblyProvider.Model
 {
     public interface IDataService
     {
-        ObservableCollection<AssemblyEntity> GetChampionData();
-        ObservableCollection<AssemblyEntity> GetUtilityData();
-        ObservableCollection<AssemblyEntity> GetLibraryData();
-        ObservableCollection<LogEntity> GetLogData();
+        ObservableCollectionEx<AssemblyEntity> GetChampionData();
+        ObservableCollectionEx<AssemblyEntity> GetUtilityData();
+        ObservableCollectionEx<AssemblyEntity> GetLibraryData();
+        ObservableCollectionEx<LogEntity> GetLogData();
         bool IsInitComplete();
     }
 }

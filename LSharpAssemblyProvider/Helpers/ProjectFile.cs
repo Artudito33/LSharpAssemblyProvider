@@ -105,8 +105,7 @@ namespace LSharpAssemblyProvider.Helpers
                         ProjectMetadata hintPath = item.GetMetadata("HintPath");
                         if (hintPath != null && !string.IsNullOrWhiteSpace(hintPath.EvaluatedValue))
                         {
-                            item.SetMetadataValue("HintPath",
-                                Path.Combine(ReferencesPath, Path.GetFileName(hintPath.EvaluatedValue)));
+                            item.SetMetadataValue("HintPath", Path.Combine(ReferencesPath, Path.GetFileName(hintPath.EvaluatedValue)));
                         }
                     }
                 }

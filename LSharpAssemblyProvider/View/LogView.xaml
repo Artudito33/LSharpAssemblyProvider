@@ -7,6 +7,14 @@
 	x:Class="LSharpAssemblyProvider.View.LogView"
 	d:DesignWidth="993" d:DesignHeight="600.277">
 
+    <UserControl.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="../Skins/MainSkin.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </UserControl.Resources>
+
     <Grid x:Name="LayoutRoot">
         <DataGrid 
 			ItemsSource="{Binding NotifyOnSourceUpdated=True, UpdateSourceTrigger=PropertyChanged}" 

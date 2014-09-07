@@ -7,13 +7,23 @@
 	x:Class="LSharpAssemblyProvider.View.UpdateView"
 	d:DesignWidth="993" d:DesignHeight="600.277">
 
+    <UserControl.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="../Skins/MainSkin.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </UserControl.Resources>
+
     <Grid x:Name="LayoutRoot">
         <DataGrid 
+            x:Name="UpdateGrid"
 			ItemsSource="{Binding NotifyOnSourceUpdated=True, UpdateSourceTrigger=PropertyChanged}" 
 			AutoGenerateColumns="False" 
 			SelectionMode="Single" 
 			CanUserAddRows="False"
 			CanUserDeleteRows="False" 
+            IsReadOnly="True"
 			FontSize="16" 
 			FontWeight="Medium">
             <DataGrid.GroupStyle>
@@ -44,47 +54,31 @@
                 </GroupStyle>
             </DataGrid.GroupStyle>
             <DataGrid.Columns>
-                <DataGridTemplateColumn 
-                    Width="SizeToCells"
-					IsReadOnly="True" 
-					Header="Rating">
-                    <DataGridTemplateColumn.CellTemplate>
-                        <DataTemplate>
-                            <Image 
-								Source="{Binding Rating}" 
-								Stretch="None" />
-                        </DataTemplate>
-                    </DataGridTemplateColumn.CellTemplate>
-                </DataGridTemplateColumn>
-                <DataGridTextColumn 
-					Width="SizeToCells" 
-					IsReadOnly="True" 
-					Header="Developer" 
-					Binding="{Binding Developer}" 
-					MinWidth="150" />
-                <DataGridTextColumn 
-					Width="SizeToCells" 
-					IsReadOnly="True" 
-					Header="State" 
-					Binding="{Binding State}" 
-					MinWidth="150" />
                 <DataGridTextColumn 
 					Width="*" 
-					IsReadOnly="True" 
 					Header="Name" 
-					Binding="{Binding Name}" />
+					Binding="{Binding Name}"
+                    MinWidth="250"/>
                 <DataGridTextColumn 
-					Width="SizeToHeader" 
-					IsReadOnly="True" 
+					Width="SizeToCells" 
+					Header="State" 
+                    MinWidth="100"
+					Binding="{Binding State}" />
+                <DataGridTextColumn 
+					Width="SizeToCells" 
+					Header="Url" 
+                    MinWidth="150"
+					Binding="{Binding Url}" />
+                <DataGridTextColumn 
+                    Width="SizeToHeader" 
 					Header="Local Version" 
-					Binding="{Binding LocalVersion}" 
-					MinWidth="130" />
+                    MinWidth="100"
+					Binding="{Binding LocalVersion}" />
                 <DataGridTextColumn 
-					Width="SizeToHeader" 
-					IsReadOnly="True" 
+                    Width="SizeToHeader" 
 					Header="Repositroy Version" 
-					Binding="{Binding RepositroyVersion}" 
-					MinWidth="130" />
+                    MinWidth="100"
+					Binding="{Binding RepositroyVersion}" />
             </DataGrid.Columns>
         </DataGrid>
     </Grid>

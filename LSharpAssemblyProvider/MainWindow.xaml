@@ -8,8 +8,10 @@
         xmlns:view="clr-namespace:LSharpAssemblyProvider.View"
         x:Class="LSharpAssemblyProvider.MainWindow"
         mc:Ignorable="d ignore"
+        BorderBrush="{DynamicResource AccentColorBrush}"  
+    	BorderThickness="1" 
         Height="740.75"
-        Width="1027"
+        Width="1033"
         Title="L# Assembly Provider by h3h3"
         SaveWindowPosition="True">
 
@@ -29,9 +31,10 @@
 
     <Grid x:Name="LayoutRoot">
         <TabControl 
-			Margin="10,44,10,10" 
-			BorderBrush="{DynamicResource {x:Static SystemColors.MenuHighlightBrushKey}}" 
-			SelectedIndex="{Binding StartPage}">
+			Margin="10" 
+			BorderBrush="{DynamicResource AccentColorBrush}" 
+			SelectedIndex="{Binding StartPage}" 
+            IsEnabled="{Binding IsOverlay, Converter={StaticResource BooleanInverterConverter}}">
             <TabItem Header="Champion">
                 <view:AssemblyView DataContext="{Binding Champion}"/>
             </TabItem>
@@ -43,26 +46,13 @@
             </TabItem>
             <TabItem Header="Update">
                 <Grid>
+                    <Button 
+                		Content="Update" 
+                		VerticalAlignment="Top" 
+                		HorizontalAlignment="Right" 
+                		Width="94" 
+                		Command="{Binding UpdateCommand, Mode=OneWay}" Margin="0,-38,0,0" Height="27" IsEnabled="{Binding IsLocked}"/>
                     <view:UpdateView DataContext="{Binding Update}"/>
-                    <GroupBox Margin="606,-75,-3,0" VerticalAlignment="Top" Height="65.75" Header="Updater">
-                        <Grid>
-                            <Button 
-                            Content="Update" 
-                            VerticalAlignment="Top" 
-                            HorizontalAlignment="Right" 
-                            Width="75" 
-                            Command="{Binding UpdateCommand, Mode=OneWay}"/>
-                            <metro:MetroProgressBar 
-                            x:Name="UpdateProgressBar" 
-                            VerticalAlignment="Top" 
-                            Height="25.3" 
-                            BorderBrush="{DynamicResource {x:Static SystemColors.MenuHighlightBrushKey}}"  
-                            BorderThickness="1" 
-                            Margin="0,0,80,0" 
-                            Maximum="{Binding ProgressMax}" 
-                            Value="{Binding Progress}"/>
-                        </Grid>
-                    </GroupBox>
                 </Grid>
             </TabItem>
             <TabItem Header="Log">
@@ -82,7 +72,7 @@
                                      Text="{Binding LeagueSharpPath}"
                                      TextWrapping="Wrap" />
                             <Button 
-                                Content="Save" 
+                                Content="Choose" 
                                 Margin="0,11,10,0" 
                                 VerticalAlignment="Top" 
                                 Command="{Binding SaveCommand, Mode=OneWay}" HorizontalAlignment="Right" Width="75"/>
@@ -91,5 +81,32 @@
                 </Grid>
             </TabItem>
         </TabControl>
+
+        <metro:ProgressRing
+            IsActive="{Binding IsOverlay}"
+            Visibility="{Binding IsOverlay, Converter={StaticResource OverlayVisibilityConverter}}"
+            Margin="50" 
+            VerticalAlignment="Stretch" 
+            HorizontalAlignment="Stretch" Width="150" Height="150"/>
+
+        <Label
+            Content="{Binding OverlayText}"
+            Visibility="{Binding IsOverlay, Converter={StaticResource OverlayVisibilityConverter}}"
+            Margin="285,434,285,230" 
+            VerticalAlignment="Stretch"  
+            FontSize="26" 
+            HorizontalContentAlignment="Center"/>
+
+        <metro:MetroProgressBar 
+    		x:Name="UpdateProgressBar" 
+    		VerticalAlignment="Top" 
+    		Height="26" 
+    		BorderBrush="{DynamicResource AccentColorBrush}"  
+    		BorderThickness="1" 
+    		Margin="285,483,285,0" 
+            Visibility="{Binding IsOverlay, Converter={StaticResource OverlayVisibilityConverter}}"
+    		Maximum="{Binding ProgressMax}" 
+    		Value="{Binding Progress}"/>
+
     </Grid>
 </metro:MetroWindow>
